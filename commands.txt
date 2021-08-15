@@ -1,0 +1,34 @@
+fetch('https://nwdb.info/db/recipe/procedural_potionhealtht1')
+
+view(response)
+
+print(response.text)
+
+response.xpath('//div[@class="mt-5!"]').extract()
+response.xpath('//script[@type="application/json"]').extract()
+sel = scrapy.Selector(response)
+
+# Getting all the recipes on a search page
+recipe_list = []
+for href in sel.xpath("//a/@href").extract():
+	if '/db/recipe/' in href:
+		recipe_list.append(href)
+
+for rec in recipe_list:
+	resp = fetch(rec)
+	recipe_json = parse_recipe(resp)
+
+page_list=[]
+for href in sel.xpath("//a[@class='page-link']/@href").extract():
+	page_list.append(href)
+if page_list[-1] == page_list[-2]:
+	# you're done!
+	pass
+else:
+	next_page = recipe_base + page_list[-2][2:]
+
+# ex /crafting/Cooking/5016-aged-brew-keg
+
+# Getting the link to the next search page
+# ex /crafting/Cooking?page=2&tier=
+

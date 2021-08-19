@@ -1,0 +1,3530 @@
+ID,Label,Rarity,Value
+workorder_workrationst5,Hearty Worker Rations,5,243
+workorder_workrationst4,Large Worker Rations,4,81
+workorder_workrationst3,Small Worker Rations,3,27
+workorder_workrationst2,Basic Worker Rations,2,9
+reagentconvertert5,Masterwork Material Converter,5,243
+Refining Materials Tier 5,Refining Materials Tier 5,5,243
+reagentconvertert4,Advanced Material Converter,4,81
+Refining Materials Tier 4,Refining Materials Tier 4,4,81
+reagentconvertert3,Common Material Converter,3,27
+Refining Materials Tier 3,Refining Materials Tier 3,3,27
+solventt5,Pure Solvent,2,729
+oilt1,Oil,1,3
+solventt4,Potent Solvent,1,162
+solventt3,Weak Solvent,0,54
+charcoalt1,Charcoal,1,3
+repair_t1,repair_t1,1,3
+Any Craft Mods,Any Craft Mods,0,1
+ingott51,Asmodeum,3,1821
+ingott5,Orichalcum Ingot,0,336
+ingotprecioust3,Platinum Ingot,0,38
+ingotprecioust2,Gold Ingot,0,10
+topazt2,Topaz,1,7
+alchemyairt3,Air Essence,2,3
+Solvent,Solvent,0,1
+topazt1,Flawed Topaz,1,3
+alchemyairt2,Air Wisp,1,3
+topazt3,Brilliant Topaz,2,14
+essenceairt1,Air Quintessence,3,6
+topazt4,Pristine Topaz,3,47
+timbert5,Ironwood Planks,0,336
+wildwoodt1,Wildwood,1,3
+barbvinet1,Barbvine,1,3
+sandpapert5,Obsidian Sandpaper,2,729
+woodt5,Ironwood,5,243
+timbert4,Wyrdwood Planks,0,92
+Sandpaper,Sandpaper,0,1
+woodt4,Wyrdwood,4,81
+timbert3,Lumber,0,10
+woodt2,Aged Wood,2,9
+timbert2,Timber,0,64
+workorder_1004_0103_weapon_keen_temper,Keen Temper Work Order,0,1
+1004_0103_quenchingoil,Quenching Oil,0,1
+1004_0103_hiltleather,Hilt Leather,0,1
+1004_0103_grindstone,Grindstone,0,1
+1004_0103_captainsblade,Blade of l'Olonnois,0,1
+workorder_structuralbracest5,Work Order: Orichalcum Structural Braces,5,243
+workorder_structuralbracest4,Work Order: Starmetal Structural Braces,4,81
+workorder_structuralbracest3,Work Order: Steel Structural Braces,3,27
+workorder_structuralbracest2,Work Order: Iron Structural Braces,2,9
+strintbonust3,Gold Lost Locket,1,192
+transmutationcatalystt5,Grand Transmutation Catalyst,5,243
+strintbonust2,Silver Lost Locket,1,30
+transmutationcatalystt4,Greater Transmutation Catalyst,4,81
+strintbonust1,Wooden Lost Locket,1,3
+transmutationcatalystt3,Common Transmutation Catalyst,3,27
+strfocbonust3,Boar Hoof,1,192
+strfocbonust2,Boar Eye,1,30
+strfocbonust1,Boar Blood,1,3
+strdexbonust3,Wolf Claw,1,192
+strdexbonust2,Wolf Paw,1,30
+strdexbonust1,Wolf Blood,1,3
+strconbonust3,Bear Claw,1,192
+strconbonust2,Bear Paw,1,30
+strconbonust1,Bear Blood,1,3
+strbonust3,Starmetal Battle Medal,1,192
+strbonust2,Steel Battle Medal,1,30
+strbonust1,Iron Battle Medal,1,3
+clotht5,Infused Silk,0,381
+gunpowdert2,Gunpowder,1,9
+ingott4,Starmetal Ingot,0,89
+clotht4,Silk,0,137
+ingott3,Steel Ingot,0,4
+clotht3,Sateen,0,55
+ingott2,Iron Ingot,0,58
+clotht2,Linen,0,54
+workorder_sewingneedlest5,Work Order: Orichalcum Sewing Needles,5,243
+workorder_sewingneedlest4,Work Order: Starmetal Sewing Needles,4,81
+workorder_sewingneedlest3,Work Order: Steel Sewing Needles,3,27
+workorder_sewingneedlest2,Work Order: Iron Sewing Needles,2,9
+Seasonings,Seasonings,0,1
+Raw Meats,Raw Meats,0,1
+sapphiret3,Brilliant Sapphire,2,14
+essencedeatht1,Death Quintessence,3,6
+sapphiret2,Sapphire,1,7
+alchemydeatht3,Death Essence,2,3
+sapphiret1,Flawed Sapphire,1,3
+alchemydeatht2,Death Wisp,1,3
+sapphiret4,Pristine Sapphire,3,47
+rubyt3,Brilliant Ruby,2,14
+essencefiret1,Fire Quintessence,3,6
+rubyt2,Ruby,1,7
+alchemyfiret3,Fire Essence,2,3
+rubyt1,Flawed Ruby,1,3
+alchemyfiret2,Fire Wisp,1,3
+rubyt4,Pristine Ruby,3,47
+breachdrop3,Corrupted Shard,2,3
+factionchisel3,Starmetal Chisel,3,27
+blockt4,Lodestone Brick,0,83
+keypart_core,Energy Core,2,42
+keymat_moss,Glowing Swamp Moss,0,1
+keymat_foxfire,Firefox,0,1
+keymat_shell,Fancy Shell,0,1
+breachdrop2,Corrupted Fragment,1,3
+factionchisel2,Steel Chisel,2,9
+blockt3,Stone Brick,0,1
+keypart_elementalheart,Elemental Heart,2,12
+essencelifet1,Life Quintessence,3,6
+essencespiritt1,Soul Quintessence,3,6
+blightseeds,Blight Seeds,0,1
+alchemydeatht1,Death Mote,1,3
+alchemylifet1,Life Mote,1,3
+alchemyspiritt1,Soul Mote,1,3
+alchemywatert1,Water Mote,1,3
+alchemyeartht1,Earth Mote,1,3
+alchemyfiret1,Fire Mote,1,3
+alchemyairt1,Air Mote,1,3
+keypart_undyingheart,Undying Heart,4,58
+keymat_glowingspore,Glowing Spore,0,1
+keymat_edentotem,Earth Totem,0,1
+keypart_eternalheart,Eternal Heart,2,9
+keymat_greatcleaverune,Corrupted Rune,0,1
+keymat_shatteredrune,Molten Rune,0,1
+breachdrop5,Corrupted Lodestone,4,18
+factionchisel5,Asmodeum Chisel,5,243
+blockt51,Runestone,3,1629
+keypart_corelazarus,Lazarus Core,4,264
+keypart_coregenesis,Genesis Core,4,50
+breachdrop4,Corrupted Crystal,3,6
+factionchisel4,Orichalcum Chisel,4,81
+blockt5,Obsidian Voidstone,0,168
+breachdrop1,Corrupted Sliver,1,3
+factionchisel1,Iron Chisel,1,3
+blockt2,Stone Block,0,55
+azothwatert1,Azoth Water,1,3
+alchemyspiritt3,Soul Essence,2,3
+watert1,Water,1,3
+alchemyspiritt2,Soul Wisp,1,3
+Tier 5 Metals,Tier 5 Metals,5,243
+Refined Wood,Refined Wood,0,1
+Leathers,Leathers,0,1
+Tier 4 Metals,Tier 4 Metals,4,81
+Tier 3 Metals,Tier 3 Metals,3,27
+Tier 2 Metals,Tier 2 Metals,2,9
+Tier 5 Protective Reagents,Tier 5 Protective Reagents,5,243
+Water Reagents,Water Reagents,0,1
+Tier 4 Protective Reagents,Tier 4 Protective Reagents,4,81
+Tier 3 Protective Reagents,Tier 3 Protective Reagents,3,27
+Tier 2 Protective Reagents,Tier 2 Protective Reagents,2,9
+Air Reagents,Air Reagents,0,1
+Life Arcana,Life Arcana,0,1
+Wood,Wood,0,1
+Fire Arcana,Fire Arcana,0,1
+Tier 5 Timber,Tier 5 Timber,5,243
+Metals,Metals,0,1
+Tier 4 Timber,Tier 4 Timber,4,81
+Tier 3 Timber,Tier 3 Timber,3,27
+Tier 2 Timber,Tier 2 Timber,2,9
+Tier 5 Cloth,Tier 5 Cloth,5,243
+Tier 4 Cloth,Tier 4 Cloth,4,81
+Tier 3 Cloth,Tier 3 Cloth,3,27
+topazcutt4,Cut Pristine Topaz,3,160
+Trinket Bands,Trinket Bands,0,1
+Trinket Gem Settings,Trinket Gem Settings,0,1
+Precious Metals,Precious Metals,0,1
+topazcutt3,Cut Brilliant Topaz,2,35
+topazcutt2,Cut Topaz,1,11
+topazcutt1,Cut Flawed Topaz,1,3
+sapphirecutt4,Cut Pristine Sapphire,3,160
+sapphirecutt3,Cut Brilliant Sapphire,2,35
+sapphirecutt2,Cut Sapphire,1,11
+sapphirecutt1,Cut Flawed Sapphire,1,3
+rubycutt4,Cut Pristine Ruby,3,160
+rubycutt3,Cut Brilliant Ruby,2,35
+rubycutt2,Cut Ruby,1,11
+rubycutt1,Cut Flawed Ruby,1,3
+pearlt4,Pristine Pearl,4,81
+pearlt3,Brilliant Pearl,3,27
+pearlt2,Pearl,2,9
+pearlt1,Flawed Pearl,1,3
+opalcutt4,Cut Pristine Opal,3,160
+opalcutt3,Cut Brilliant Opal,2,35
+opalcutt2,Cut Opal,1,11
+opalcutt1,Cut Flawed Opal,1,3
+onyxcutt4,Cut Pristine Onyx,3,160
+onyxcutt3,Cut Brilliant Onyx,2,35
+onyxcutt2,Cut Onyx,1,11
+onyxcutt1,Cut Flawed Onyx,1,3
+moonstonecutt4,Cut Pristine Moonstone,3,160
+moonstonecutt3,Cut Brilliant Moonstone,2,35
+moonstonecutt2,Cut Moonstone,1,11
+moonstonecutt1,Cut Flawed Moonstone,1,3
+malachitecutt4,Cut Pristine Malachite,3,160
+malachitecutt3,Cut Brilliant Malachite,2,35
+malachitecutt2,Cut Malachite,1,11
+malachitecutt1,Cut Flawed Malachite,1,3
+jaspercutt4,Cut Pristine Jasper,3,160
+jaspercutt3,Cut Brilliant Jasper,2,35
+jaspercutt2,Cut Jasper,1,11
+jaspercutt1,Cut Flawed Jasper,1,3
+emeraldcutt4,Cut Pristine Emerald,3,160
+emeraldcutt3,Cut Brilliant Emerald,2,35
+emeraldcutt2,Cut Emerald,1,11
+emeraldcutt1,Cut Flawed Emerald,1,3
+diamondcutt4,Cut Pristine Diamond,3,160
+diamondcutt3,Cut Brilliant Diamond,2,35
+diamondcutt2,Cut Diamond,1,11
+diamondcutt1,Cut Flawed Diamond,1,3
+carneliancutt4,Cut Pristine Carnelian,3,160
+carneliancutt3,Cut Brilliant Carnelian,2,35
+carneliancutt2,Cut Carnelian,1,11
+carneliancutt1,Cut Flawed Carnelian,1,3
+aquamarinecutt4,Cut Pristine Aquamarine,3,160
+aquamarinecutt3,Cut Brilliant Aquamarine,2,35
+aquamarinecutt2,Cut Aquamarine,1,11
+aquamarinecutt1,Cut Flawed Aquamarine,1,3
+amethystcutt4,Cut Pristine Amethyst,3,160
+amethystcutt3,Cut Brilliant Amethyst,2,35
+amethystcutt2,Cut Amethyst,1,11
+amethystcutt1,Cut Flawed Amethyst,1,3
+ambercutt4,Cut Pristine Amber,3,160
+ambercutt3,Cut Brilliant Amber,2,35
+ambercutt2,Cut Amber,1,11
+ambercutt1,Cut Flawed Amber,1,3
+Tier 5 Medicinal Reagents,Tier 5 Medicinal Reagents,5,243
+Life Reagents,Life Reagents,0,1
+Spirit Reagents,Spirit Reagents,0,1
+Tier 4 Medicinal Reagents,Tier 4 Medicinal Reagents,4,81
+Tier 3 Medicinal Reagents,Tier 3 Medicinal Reagents,3,27
+Tier 2 Medicinal Reagents,Tier 2 Medicinal Reagents,2,9
+Tier 5 Magical Reagents,Tier 5 Magical Reagents,5,243
+Tier 4 Magical Reagents,Tier 4 Magical Reagents,4,81
+Tier 3 Magical Reagents,Tier 3 Magical Reagents,3,27
+Tier 2 Magical Reagents,Tier 2 Magical Reagents,2,9
+Tier 1 Magical Reagents,Tier 1 Magical Reagents,1,3
+Earth Reagents,Earth Reagents,0,1
+Tier 1 Medicinal Reagents,Tier 1 Medicinal Reagents,1,3
+Tier 5 Water Reagents,Tier 5 Water Reagents,5,243
+Tier 4 Water Reagents,Tier 4 Water Reagents,4,81
+Tier 3 Water Reagents,Tier 3 Water Reagents,3,27
+Tier 2 Water Reagents,Tier 2 Water Reagents,2,9
+Tier 5 Air Reagents,Tier 5 Air Reagents,5,243
+Fire Reagents,Fire Reagents,0,1
+Tier 4 Air Reagents,Tier 4 Air Reagents,4,81
+Tier 3 Air Reagents,Tier 3 Air Reagents,3,27
+Tier 5 Earth Reagents,Tier 5 Earth Reagents,5,243
+Tier 4 Earth Reagents,Tier 4 Earth Reagents,4,81
+Tier 3 Earth Reagents,Tier 3 Earth Reagents,3,27
+Death Reagents,Death Reagents,0,1
+Cloth,Cloth,0,1
+Tier 5 Raw Foods,Tier 5 Raw Foods,5,243
+Raw Foods,Raw Foods,0,1
+Tier 4 Raw Foods,Tier 4 Raw Foods,4,81
+Tier 3 Raw Foods,Tier 3 Raw Foods,3,27
+Tier 2 Raw Foods,Tier 2 Raw Foods,2,9
+Tier 1 Raw Foods,Tier 1 Raw Foods,1,3
+Tier 2 Cloth,Tier 2 Cloth,2,9
+Tier 5 Leather,Tier 5 Leather,5,243
+Tier 4 Leather,Tier 4 Leather,4,81
+Tier 3 Leather,Tier 3 Leather,3,27
+Tier 2 Leather,Tier 2 Leather,2,9
+Water Arcana,Water Arcana,0,1
+Tier 5 Furs,Tier 5 Furs,5,243
+Tier 4 Furs,Tier 4 Furs,4,81
+Tier 3 Furs,Tier 3 Furs,3,27
+Trinket Hooks,Trinket Hooks,0,1
+Tier 5 Offensive Reagents,Tier 5 Offensive Reagents,5,243
+Tier 4 Offensive Reagents,Tier 4 Offensive Reagents,4,81
+Tier 3 Offensive Reagents,Tier 3 Offensive Reagents,3,27
+Tier 2 Offensive Reagents,Tier 2 Offensive Reagents,2,9
+holdingrunet5,Grand Rune of Holding,5,243
+holdingrunet4,Greater Rune of Holding,4,81
+holdingrunet3,Major Rune of Holding,3,27
+holdingrunet2,Minor Rune of Holding,2,9
+Trinket Chains,Trinket Chains,0,1
+workorder_precisiontoolst5,Orichalcum Precision Tools,5,243
+workorder_precisiontoolst4,Starmetal Precision Tools,4,81
+workorder_precisiontoolst3,Steel Precision Tools,3,27
+workorder_precisiontoolst2,Iron Precision Tools,2,9
+workorder_practicedummyt5,Practice Golem,5,243
+workorder_practicedummyt4,Advanced Practice Dummy,4,81
+workorder_practicedummyt3,Complex Practice Dummy,3,27
+workorder_practicedummyt2,Basic Practice Dummy,2,9
+flourt1,Flour,0,1
+saltt1,Salt,1,3
+eggt1,Egg,1,3
+workorder_partyspreadt5,Elegant Party Spread,5,243
+workorder_partyspreadt4,Large Party Spread,4,81
+workorder_partyspreadt3,Small Party Spread,3,27
+workorder_partyspreadt2,Basic Party Spread,2,9
+opalt3,Brilliant Opal,2,14
+opalt2,Opal,1,7
+opalt1,Flawed Opal,1,3
+opalt4,Pristine Opal,3,47
+onyxt3,Brilliant Onyx,2,14
+onyxt2,Onyx,1,7
+alchemylifet3,Life Essence,2,3
+onyxt1,Flawed Onyx,1,3
+alchemylifet2,Life Wisp,1,3
+onyxt4,Pristine Onyx,3,47
+essenceeartht1,Earth Quintessence,3,6
+essencewatert1,Water Quintessence,3,6
+alchemyeartht3,Earth Essence,2,3
+alchemywatert3,Water Essence,2,3
+alchemyeartht2,Earth Wisp,1,3
+alchemywatert2,Water Wisp,1,3
+workorder_nailst5,Orichalcum Nails,5,243
+workorder_nailst4,Starmetal Nails,4,81
+workorder_nailst3,Steel Nails,3,27
+workorder_nailst2,Iron Nails,2,9
+moonstonet3,Brilliant Moonstone,2,14
+moonstonet2,Moonstone,1,7
+moonstonet1,Flawed Moonstone,1,3
+moonstonet4,Pristine Moonstone,3,47
+leathert51,Runic Leather,3,1863
+clotht51,Phoenixweave,3,1863
+clawt5,Infused Claw,5,243
+voidbentingot,Voidbent Ingot,0,1
+fangt4,Infused Fang,4,81
+scarhidet1,Scarhide,1,3
+azoth_currency,azoth_currency,0,1
+syndicateseal_occultist,Syndicate Occultist Seal,0,1
+mediumlegs_syndicaterank5,Reinforced Syndicate Alchemist Pants of the Brigand,5,243
+syndicateseal_cleric,Syndicate Cleric Seal,0,1
+syndicateseal_barbarian,Syndicate Barbarian Seal,0,1
+mediumlegs_syndicaterank4,Reinforced Syndicate Cabalist Pants of the Brigand,4,81
+mediumlegs_syndicaterank3,Reinforced Syndicate Chronicler Pants of the Brigand,3,27
+mediumlegs_syndicaterank2,Reinforced Syndicate Scrivener Pants of the Brigand,2,9
+mediumlegs_syndicaterank1,Reinforced Syndicate Adept Pants of the Brigand,1,3
+mediumlegs_syndicateplaguedoctort5,Reinforced Syndicate Plague Doctor Pants of the Mage,5,243
+syndicateseal_brigand,Syndicate Brigand Seal,0,1
+agentshaded,Shaded Agent,0,1
+mediumlegs_shroudedintentpantst5,Shrouded Intent Pants,2,4
+workorder_1002_0104_pants_shroudedintent,Shrouded Intent Work Order,0,1
+1002_0104_murkmossextract,Murkmoss Extract,0,1
+1002_0104_wovencording,Castaway Rigging,0,1
+1002_0104_nightstoneslivers,Nightstone Slivers,0,1
+marauderseal_occultist,Marauder Occultist Seal,0,1
+mediumlegs_marauderrank5,Reinforced Marauder Commander Pants of the Brigand,5,243
+marauderseal_cleric,Marauder Cleric Seal,0,1
+marauderseal_barbarian,Marauder Barbarian Seal,0,1
+mediumlegs_marauderrank4,Reinforced Marauder Destroyer Pants of the Brigand,4,81
+mediumlegs_marauderrank3,Reinforced Marauder Ravager Pants of the Brigand,3,27
+mediumlegs_marauderrank2,Reinforced Marauder Gladiator Pants of the Brigand,2,9
+mediumlegs_marauderrank1,Reinforced Marauder Soldier Pants of the Brigand,1,3
+stickyvinest1,Sticky Vines,1,3
+spectraldustt1,Spectral Dust,1,3
+collarjadet1,Jade Collar,1,3
+corruptedtalismant1,Corrupted Talisman,1,3
+sparklingbonedustt1,Sparkling Bone Dust,1,3
+coagulatedbloodt1,Coagulated Blood,1,3
+covenantseal_occultist,Covenant Occultist Seal,0,1
+mediumlegs_covenantrank5,Reinforced Covenant Adjudicator Pants of the Brigand,5,243
+covenantseal_cleric,Covenant Cleric Seal,0,1
+covenantseal_barbarian,Covenant Barbarian Seal,0,1
+mediumlegs_covenantrank4,Reinforced Covenant Lumen Pants of the Brigand,4,81
+mediumlegs_covenantrank3,Reinforced Covenant Excubitor Pants of the Brigand,3,27
+mediumlegs_covenantrank2,Reinforced Covenant Templar Pants of the Brigand,2,9
+mediumlegs_covenantrank1,Reinforced Covenant Initiate Pants of the Brigand,1,3
+mediumhead_syndicaterank5,Reinforced Syndicate Alchemist Hat of the Brigand,5,243
+mediumhead_syndicaterank4,Reinforced Syndicate Cabalist Hat of the Brigand,4,81
+mediumhead_syndicaterank3,Reinforced Syndicate Chronicler Hat of the Brigand,3,27
+mediumhead_syndicaterank2,Reinforced Syndicate Scrivener Hat of the Brigand,2,9
+mediumhead_syndicaterank1,Reinforced Syndicate Adept Hat of the Brigand,1,3
+mediumhead_syndicateplaguedoctort5,Reinforced Syndicate Plague Doctor Mask of the Mage,5,243
+workorder_1002_0104_hat_shroudedintent,Shrouded Intent Work Order,0,1
+1002_0104_corruptedthread,Infused Orichalcum Thread,0,1
+1002_0104_smudgedfeathers,Smudged Feathers,0,1
+1002_0104_umbralcloth,Umbral Cloth,0,1
+mediumhead_marauderrank5,Reinforced Marauder Commander Hat of the Brigand,5,243
+mediumhead_marauderrank4,Reinforced Marauder Destroyer Hat of the Brigand,4,81
+mediumhead_marauderrank3,Reinforced Marauder Ravager Hat of the Brigand,3,27
+mediumhead_marauderrank2,Reinforced Marauder Gladiator Hat of the Brigand,2,9
+mediumhead_marauderrank1,Reinforced Marauder Soldier Hat of the Brigand,1,3
+mediumhead_covenantrank5,Reinforced Covenant Adjudicator Hat of the Brigand,5,243
+mediumhead_covenantrank4,Reinforced Covenant Lumen Hat of the Brigand,4,81
+mediumhead_covenantrank3,Reinforced Covenant Excubitor Hat of the Brigand,3,27
+mediumhead_covenantrank2,Reinforced Covenant Templar Hat of the Brigand,2,9
+mediumhead_covenantrank1,Reinforced Covenant Initiate Hat of the Brigand,1,3
+mediumhands_syndicaterank5,Reinforced Syndicate Alchemist Gloves of the Brigand,5,243
+mediumhands_syndicaterank4,Reinforced Syndicate Cabalist Gloves of the Brigand,4,81
+mediumhands_syndicaterank3,Reinforced Syndicate Chronicler Gloves of the Brigand,3,27
+mediumhands_syndicaterank2,Reinforced Syndicate Scrivener Gloves of the Brigand,2,9
+mediumhands_syndicaterank1,Reinforced Syndicate Adept Gloves of the Brigand,1,3
+mediumhands_syndicateplaguedoctort5,Reinforced Syndicate Plague Doctor Gloves of the Mage,5,243
+agenttenebrous,Tenebrous Agent,0,1
+mediumhands_shroudedintentglovest5,Shrouded Intent Gloves,2,4
+workorder_1002_0104_gloves_shroudedintent,Shrouded Intent Work Order,0,1
+1002_0104_layeredleather,Layered Guardian Leather,0,1
+1002_0104_siphonedtwilight,Siphoned Twilight,0,1
+1002_0104_duskfalldye,Duskfall Dye,0,1
+mediumhands_marauderrank5,Reinforced Marauder Commander Gloves of the Brigand,5,243
+mediumhands_marauderrank4,Reinforced Marauder Destroyer Gloves of the Brigand,4,81
+mediumhands_marauderrank3,Reinforced Marauder Ravager Gloves of the Brigand,3,27
+mediumhands_marauderrank2,Reinforced Marauder Gladiator Gloves of the Brigand,2,9
+mediumhands_marauderrank1,Reinforced Marauder Soldier Gloves of the Brigand,1,3
+mediumhands_covenantrank5,Reinforced Covenant Adjudicator Gloves of the Brigand,5,243
+mediumhands_covenantrank4,Reinforced Covenant Lumen Gloves of the Brigand,4,81
+mediumhands_covenantrank3,Reinforced Covenant Excubitor Gloves of the Brigand,3,27
+mediumhands_covenantrank2,Reinforced Covenant Templar Gloves of the Brigand,2,9
+mediumhands_covenantrank1,Reinforced Covenant Initiate Gloves of the Brigand,1,3
+mediumfeet_syndicaterank5,Reinforced Syndicate Alchemist Shoes of the Brigand,5,243
+mediumfeet_syndicaterank4,Reinforced Syndicate Cabalist Shoes of the Brigand,4,81
+mediumfeet_syndicaterank3,Reinforced Syndicate Chronicler Shoes of the Brigand,3,27
+mediumfeet_syndicaterank2,Reinforced Syndicate Scrivener Shoes of the Brigand,2,9
+mediumfeet_syndicaterank1,Reinforced Syndicate Adept Shoes of the Brigand,1,3
+mediumfeet_syndicateplaguedoctort5,Reinforced Syndicate Plague Doctor Boots of the Mage,5,243
+agentdarkened,Darkened Agent,0,1
+mediumfeet_shroudedintentbootst4,Shrouded Intent Boots,2,4
+workorder_1002_0104_boots_shroudedintent,Shrouded Intent Work Order,0,1
+1002_0104_soakedleather,Soaked Pullpatch Leather,0,1
+1002_0104_muffledpadding,Muffled Fen Padding,0,1
+1002_0104_essenceofshadow,Essence of Shadow,0,1
+mediumfeet_marauderrank5,Reinforced Marauder Commander Shoes of the Brigand,5,243
+mediumfeet_marauderrank4,Reinforced Marauder Destroyer Shoes of the Brigand,4,81
+mediumfeet_marauderrank3,Reinforced Marauder Ravager Shoes of the Brigand,3,27
+mediumfeet_marauderrank2,Reinforced Marauder Gladiator Shoes of the Brigand,2,9
+mediumfeet_marauderrank1,Reinforced Marauder Soldier Shoes of the Brigand,1,3
+mediumfeet_covenantrank5,Reinforced Covenant Adjudicator Shoes of the Brigand,5,243
+mediumfeet_covenantrank4,Reinforced Covenant Lumen Shoes of the Brigand,4,81
+mediumfeet_covenantrank3,Reinforced Covenant Excubitor Shoes of the Brigand,3,27
+mediumfeet_covenantrank2,Reinforced Covenant Templar Shoes of the Brigand,2,9
+mediumfeet_covenantrank1,Reinforced Covenant Initiate Shoes of the Brigand,1,3
+mediumchest_syndicaterank5,Reinforced Syndicate Alchemist Coat of the Brigand,5,243
+mediumchest_syndicaterank4,Reinforced Syndicate Cabalist Coat of the Brigand,4,81
+mediumchest_syndicaterank3,Reinforced Syndicate Chronicler Coat of the Brigand,3,27
+mediumchest_syndicaterank2,Reinforced Syndicate Scrivener Coat of the Brigand,2,9
+mediumchest_syndicaterank1,Reinforced Syndicate Adept Coat of the Brigand,1,3
+mediumchest_syndicateplaguedoctort5,Reinforced Syndicate Plague Doctor Robes of the Mage,5,243
+agentshadowed,Shadowed Agent,0,1
+mediumchest_shroudedintentcoatt4,Shrouded Intent Coat,2,4
+workorder_1002_0104_coat_shroudedintent,Shrouded Intent Work Order,0,1
+1002_0104_stormsailscraps,Stormsail Scraps,0,1
+1002_0104_blightbanepitch,Nightbane Pitch,0,1
+1002_0104_huntersclasps,Hunter's Shark Clasps,0,1
+mediumchest_marauderrank5,Reinforced Marauder Commander Coat of the Brigand,5,243
+mediumchest_marauderrank4,Reinforced Marauder Destroyer Coat of the Brigand,4,81
+mediumchest_marauderrank3,Reinforced Marauder Ravager Coat of the Brigand,3,27
+mediumchest_marauderrank2,Reinforced Marauder Gladiator Coat of the Brigand,2,9
+mediumchest_marauderrank1,Reinforced Marauder Soldier Coat of the Brigand,1,3
+mediumchest_covenantrank5,Reinforced Covenant Adjudicator Coat of the Brigand,5,243
+mediumchest_covenantrank4,Reinforced Covenant Lumen Coat of the Brigand,4,81
+mediumchest_covenantrank3,Reinforced Covenant Excubitor Coat of the Brigand,3,27
+mediumchest_covenantrank2,Reinforced Covenant Templar Coat of the Brigand,2,9
+mediumchest_covenantrank1,Reinforced Covenant Initiate Coat of the Brigand,1,3
+workorder_measuringvesselt5,Reinforced Measuring Vessel,5,243
+workorder_measuringvesselt4,Large Measuring Vessel,4,81
+workorder_measuringvesselt3,Medium Measuring Vessel,3,27
+workorder_measuringvesselt2,Small Measuring Vessel,2,9
+malachitet3,Brilliant Malachite,2,14
+malachitet2,Malachite,1,7
+malachitet1,Flawed Malachite,1,3
+malachitet4,Pristine Malachite,3,47
+runicthreadt5,Runic Thread,5,243
+scaleclotht1,Scalecloth,1,3
+blisterweavet1,Blisterweave,1,3
+lightlegs_syndicaterank5,Reinforced Syndicate Alchemist Leggings of the Priest,5,243
+lightlegs_syndicaterank4,Reinforced Syndicate Cabalist Leggings of the Priest,4,81
+lightlegs_syndicaterank3,Reinforced Syndicate Chronicler Leggings of the Priest,3,27
+lightlegs_syndicaterank2,Reinforced Syndicate Scrivener Leggings of the Priest,2,9
+lightlegs_syndicaterank1,Reinforced Syndicate Adept Leggings of the Priest,1,3
+transferancecharm,Transference Charm,0,1
+lightlegs_protectivewyrdpantst5,Protective Wyrd Pants,2,4
+workorder_1303_1311_pants_protectivewyrd,Protective Wyrd Work Order,0,1
+1303_1311_stitchedwards,Stitched Wards,0,1
+1303_1311_infusedlining,Infused Lining,0,1
+1303_1311_twiceworkedwool,Ceremonial Worked Wool,0,1
+lightlegs_marauderrank5,Reinforced Marauder Commander Leggings of the Priest,5,243
+marauderseal_brigand,Marauder Brigand Seal,0,1
+lightlegs_marauderrank4,Reinforced Marauder Destroyer Leggings of the Priest,4,81
+lightlegs_marauderrank3,Reinforced Marauder Ravager Leggings of the Priest,3,27
+lightlegs_marauderrank2,Reinforced Marauder Gladiator Leggings of the Priest,2,9
+lightlegs_marauderrank1,Reinforced Marauder Soldier Leggings of the Priest,1,3
+lightlegs_covenantrank5,Reinforced Covenant Adjudicator Leggings of the Priest,5,243
+covenantseal_brigand,Covenant Brigand Seal,0,1
+lightlegs_covenantrank4,Reinforced Covenant Lumen Leggings of the Priest,4,81
+lightlegs_covenantrank3,Reinforced Covenant Excubitor Leggings of the Priest,3,27
+lightlegs_covenantrank2,Reinforced Covenant Templar Leggings of the Priest,2,9
+lightlegs_covenantrank1,Reinforced Covenant Initiate Leggings of the Priest,1,3
+lighthead_syndicaterank5,Reinforced Syndicate Alchemist Headwear of the Priest,5,243
+lighthead_syndicaterank4,Reinforced Syndicate Cabalist Headwear of the Priest,4,81
+lighthead_syndicaterank3,Reinforced Syndicate Chronicler Headwear of the Priest,3,27
+lighthead_syndicaterank2,Reinforced Syndicate Scrivener Headwear of the Priest,2,9
+lighthead_syndicaterank1,Reinforced Syndicate Adept Headwear of the Priest,1,3
+workorder_1303_1311_hat_protectivewyrd,Protective Wyrd Work Order,0,1
+1303_1311_dawnglowomens,Dawnglow Omens,0,1
+1303_1311_protectiveresin,Virid Resin,0,1
+1303_1311_spectralcloth,Spectral Cloth,0,1
+lighthead_marauderrank5,Reinforced Marauder Commander Headwear of the Priest,5,243
+lighthead_marauderrank4,Reinforced Marauder Destroyer Headwear of the Priest,4,81
+lighthead_marauderrank3,Reinforced Marauder Ravager Headwear of the Priest,3,27
+lighthead_marauderrank2,Reinforced Marauder Gladiator Headwear of the Priest,2,9
+lighthead_marauderrank1,Reinforced Marauder Soldier Headwear of the Priest,1,3
+lighthead_covenantrank5,Reinforced Covenant Adjudicator Headwear of the Priest,5,243
+lighthead_covenantrank4,Reinforced Covenant Lumen Headwear of the Priest,4,81
+lighthead_covenantrank3,Reinforced Covenant Excubitor Headwear of the Priest,3,27
+lighthead_covenantrank2,Reinforced Covenant Templar Headwear of the Priest,2,9
+lighthead_covenantrank1,Reinforced Covenant Initiate Headwear of the Priest,1,3
+lighthands_syndicaterank5,Reinforced Syndicate Alchemist Handcovers of the Priest,5,243
+lighthands_syndicaterank4,Reinforced Syndicate Cabalist Handcovers of the Priest,4,81
+lighthands_syndicaterank3,Reinforced Syndicate Chronicler Handcovers of the Priest,3,27
+lighthands_syndicaterank2,Reinforced Syndicate Scrivener Handcovers of the Priest,2,9
+lighthands_syndicaterank1,Reinforced Syndicate Adept Handcovers of the Priest,1,3
+transferanceicon,Transference Icon,0,1
+lighthands_protectivewyrdglovest5,Protective Wyrd Gloves,2,4
+workorder_1303_1311_gloves_protectivewyrd,Protective Wyrd Work Order,0,1
+1303_1311_reinforcedweave,Cragview Reinforced Weave,0,1
+1303_1311_cleansedfibers,Shambhala Cleansed Fibers,0,1
+1303_1311_wyrdwoodcharms,Wyrdwood Charms,0,1
+lighthands_marauderrank5,Reinforced Marauder Commander Handcovers of the Priest,5,243
+lighthands_marauderrank4,Reinforced Marauder Destroyer Handcovers of the Priest,4,81
+lighthands_marauderrank3,Reinforced Marauder Ravager Handcovers of the Priest,3,27
+lighthands_marauderrank2,Reinforced Marauder Gladiator Handcovers of the Priest,2,9
+lighthands_marauderrank1,Reinforced Marauder Soldier Handcovers of the Priest,1,3
+lighthands_covenantrank5,Reinforced Covenant Adjudicator Handcovers of the Priest,5,243
+lighthands_covenantrank4,Reinforced Covenant Lumen Handcovers of the Priest,4,81
+lighthands_covenantrank3,Reinforced Covenant Excubitor Handcovers of the Priest,3,27
+lighthands_covenantrank2,Reinforced Covenant Templar Handcovers of the Priest,2,9
+lighthands_covenantrank1,Reinforced Covenant Initiate Handcovers of the Priest,1,3
+lightfeet_syndicaterank5,Reinforced Syndicate Alchemist Footwear of the Priest,5,243
+lightfeet_syndicaterank4,Reinforced Syndicate Cabalist Footwear of the Priest,4,81
+lightfeet_syndicaterank3,Reinforced Syndicate Chronicler Footwear of the Priest,3,27
+lightfeet_syndicaterank2,Reinforced Syndicate Scrivener Footwear of the Priest,2,9
+lightfeet_syndicaterank1,Reinforced Syndicate Adept Footwear of the Priest,1,3
+transferenceward,Tranference Ward,0,1
+lightfeet_protectivewyrdshoest4,Protective Wyrd Shoes,2,4
+workorder_1303_1311_shoes_protectivewyrd,Protective Wyrd Work Order,0,1
+1303_1311_hallowedfabric,Hallowed Fabric,0,1
+1303_1311_essenceundeath,Essence of Undeath,0,1
+1303_1311_purifiedsap,Purified Pitch,0,1
+lightfeet_marauderrank5,Reinforced Marauder Commander Footwear of the Priest,5,243
+lightfeet_marauderrank4,Reinforced Marauder Destroyer Footwear of the Priest,4,81
+lightfeet_marauderrank3,Reinforced Marauder Ravager Footwear of the Priest,3,27
+lightfeet_marauderrank2,Reinforced Marauder Gladiator Footwear of the Priest,2,9
+lightfeet_marauderrank1,Reinforced Marauder Soldier Footwear of the Priest,1,3
+lightfeet_covenantrank5,Reinforced Covenant Adjudicator Footwear of the Priest,5,243
+lightfeet_covenantrank4,Reinforced Covenant Lumen Footwear of the Priest,4,81
+lightfeet_covenantrank3,Reinforced Covenant Excubitor Footwear of the Priest,3,27
+lightfeet_covenantrank2,Reinforced Covenant Templar Footwear of the Priest,2,9
+lightfeet_covenantrank1,Reinforced Covenant Initiate Footwear of the Priest,1,3
+lightchest_syndicaterank5,Reinforced Syndicate Alchemist Jacket of the Priest,5,243
+lightchest_syndicaterank4,Reinforced Syndicate Cabalist Jacket of the Priest,4,81
+lightchest_syndicaterank3,Reinforced Syndicate Chronicler Jacket of the Priest,3,27
+lightchest_syndicaterank2,Reinforced Syndicate Scrivener Jacket of the Priest,2,9
+lightchest_syndicaterank1,Reinforced Syndicate Adept Jacket of the Priest,1,3
+transferenceseal,Transference Seal,0,1
+lightchest_protectivewyrdshirtt4,Protective Wyrd Shirt,2,4
+workorder_1303_1311_shirt_protectivewyrd,Protective Wyrd Work Order,0,1
+1303_1311_burnishedbuckles,Neptunian Buckles,0,1
+1303_1311_consecratedthread,Consecrated Thread,0,1
+1303_1311_ancientarmorscraps,Ancient Armor Scraps,0,1
+lightchest_marauderrank5,Reinforced Marauder Commander Jacket of the Priest,5,243
+lightchest_marauderrank4,Reinforced Marauder Destroyer Jacket of the Priest,4,81
+lightchest_marauderrank3,Reinforced Marauder Ravager Jacket of the Priest,3,27
+lightchest_marauderrank2,Reinforced Marauder Gladiator Jacket of the Priest,2,9
+lightchest_marauderrank1,Reinforced Marauder Soldier Jacket of the Priest,1,3
+lightchest_covenantrank5,Reinforced Covenant Adjudicator Jacket of the Priest,5,243
+lightchest_covenantrank4,Reinforced Covenant Lumen Jacket of the Priest,4,81
+lightchest_covenantrank3,Reinforced Covenant Excubitor Jacket of the Priest,3,27
+lightchest_covenantrank2,Reinforced Covenant Templar Jacket of the Priest,2,9
+lightchest_covenantrank1,Reinforced Covenant Initiate Jacket of the Priest,1,3
+workorder_0203_0103_hope_manifest_lvl40_weapon,Hope Manifest Work Order,0,1
+0203_0103_menderscloth,Mender's Cloth,0,1
+0203_0103_soothsayersalve,Soothsayer's Salve,0,1
+0203_0103_mercysbreath,Mercy's Breath,0,1
+0203_0103_hopecatalyst,Hope Catalyst,0,1
+leathert5,Infused Leather,0,381
+smolderhidet1,Smolderhide,1,3
+tannint5,Aged Tannin,2,729
+rawhidet5,Iron Hide,5,243
+leathert4,Layered Leather,0,137
+Tannin,Tannin,0,1
+rawhidet4,Thick Hide,4,81
+leathert3,Rugged Leather,0,55
+leathert2,Coarse Leather,0,54
+jaspert3,Brilliant Jasper,2,14
+jaspert2,Jasper,1,7
+jaspert1,Flawed Jasper,1,3
+jaspert4,Pristine Jasper,3,47
+intstrbonust3,Ancient Inscribed Totem,1,192
+intstrbonust2,Ancient Beaded Totem,1,30
+intstrbonust1,Ancient Bone Totem,1,3
+intfocbonust3,Vial of Pulsing Energy,1,192
+intfocbonust2,Vial of Swirling Energy,1,30
+intfocbonust1,Vial of Wispy Energy,1,3
+intdexbonust3,Carved Dryad Bark,1,192
+intdexbonust2,Etched Dryad Bark,1,30
+intdexbonust1,Dryad Bark,1,3
+intconbonust3,Layered Leather Corrupted Fetish,1,192
+intconbonust2,Rugged Leather Corrupted Fetish,1,30
+intconbonust1,Rough Leather Corrupted Fetish,1,3
+intbonust3,Silk Arcane Embroidery,1,192
+intbonust2,Sateen Arcane Embroidery,1,30
+intbonust1,Linen Arcane Embroidery,1,3
+tolviumt1,Tolvium,1,3
+cinnabart1,Cinnabar,1,3
+fluxt5,Obsidian Flux,2,729
+oret5,Orichalcum Ore,5,243
+Flux,Flux,0,1
+oret4,Starmetal Ore,4,81
+oreprecioust3,Platinum Ore,3,27
+oreprecioust2,Gold Ore,2,9
+ingotprecioust1,Silver Ingot,0,64
+herbt1,Hyssop,1,3
+cinnamont1,Cinnamon,1,3
+woodstaint5,Mahogany Stain,3,1461
+fibert1,Fibers,1,3
+dummyframe,Dummy Frame,0,1
+woodstaint4,Oak Stain,2,165
+woodstaint3,Maple Stain,1,57
+woodstaint2,Ash Stain,0,57
+emberstonet1,Ember Stone,1,3
+pigmentred,Red Pigment,0,1
+pigmentblue,Blue Pigment,0,1
+house_housingitem_oldbookgroup_b,Old Books Row Short,0,1
+house_housingitem_oldbookgroup_e,Old Books Stack,0,1
+house_housingitem_oldbookgroup_f,Old Books Row Long,0,1
+fibert5,Wirefiber,5,243
+fibert4,Silk Threads,4,81
+clothweavet3,Crossweave,0,54
+clothweavet5,Wireweave,2,729
+clothweavet4,Silkweave,1,162
+feathert1,Feathers,1,3
+pristinebearpeltt1,Pristine Bear Pelt,1,3
+hornt5,Animal Horn,5,243
+beeswaxt1,Beeswax,1,3
+pigmentyellow,Yellow Pigment,0,1
+pigmentgreen,Green Pigment,0,1
+ancientskullt1,Ancient Skull,1,3
+trackerssealt1,Tracker's Seal,1,3
+house_housingitem_buff_skinning_bonus_t2,Basic Skinning Gathering Trophy,2,594
+notesonaeternumfaunat1,Notes on Aeternum Fauna,1,3
+house_housingitem_buff_skinning_bonus_t1,Minor Skinning Gathering Trophy,1,74
+precisionarmoringtoolst1,Precision Armoring Tools,1,3
+house_housingitem_buff_outfitting_bonus_t2,Basic Armoring Crafting Trophy,2,594
+armorersjournalt1,Armorer's Journal,1,3
+house_housingitem_buff_outfitting_bonus_t1,Minor Armoring Crafting Trophy,1,74
+adamatinedustt1,Adamantine Dust,1,3
+house_housingitem_buff_mining_bonus_t2,Basic Mining Gathering Trophy,2,594
+surveyorstoolst1,Surveyor's Tools,1,3
+house_housingitem_buff_mining_bonus_t1,Minor Mining Gathering Trophy,1,74
+loadeddicet1,Loaded Dice,1,3
+house_housingitem_buff_luck_bonus_t2,Basic Loot Luck Trophy,3,683
+stackeddeckt1,Stacked Deck,1,3
+house_housingitem_buff_luck_bonus_t1,Minor Loot Luck Trophy,2,80
+rabbitsfoott1,Rabbit's Foot,1,3
+pureresint1,Pure Resin,1,3
+house_housingitem_buff_logging_bonus_t2,Basic Logging Gathering Trophy,2,594
+lumberjackstokent1,Lumberjack's Token,1,3
+house_housingitem_buff_logging_bonus_t1,Minor Logging Gathering Trophy,1,74
+mercurialtokent1,Mercurial Token,1,3
+house_housingitem_buff_harvesting_bonus_t2,Basic Harvesting Gathering Trophy,2,594
+journalflorat1,Journal of Aeternum Flora,1,3
+house_housingitem_buff_harvesting_bonus_t1,Minor Harvesting Gathering Trophy,1,74
+house_housingitem_fishing_veryrarefish_c1,Taxidermied Daemonaja,1,3
+house_housingitem_buff_fishing_bonus_t2,Basic Fishing Gathering Trophy,2,666
+house_housingitem_fishing_veryrarefish_a3,Taxidermied Blue-blooded Barb,3,27
+house_housingitem_buff_fishing_bonus_t1,Minor Fishing Gathering Trophy,1,74
+precisionengineeringtoolst1,Precision Engineering Tools,1,3
+house_housingitem_buff_engineering_bonus_t2,Basic Engineering Crafting Trophy,2,594
+engineerstechniquemanualst1,Engineer's Technique Manuals,1,3
+house_housingitem_buff_engineering_bonus_t1,Minor Engineering Crafting Trophy,1,74
+ephemeralsealt1,Ephemeral Seal,1,3
+house_housingitem_buff_damage_vs_lost_t2,Basic Lost Combat Trophy,2,594
+ectoplasmicessencet1,Ectoplasmic Essence,1,3
+house_housingitem_buff_damage_vs_lost_t1,Minor Lost Combat Trophy,1,74
+corruptedtotemt1,Corrupted Totem,1,3
+house_housingitem_buff_damage_vs_corrupted_t2,Basic Corrupted Combat Trophy,2,594
+corruptedcrestt1,Corrupted Crest,1,3
+house_housingitem_buff_damage_vs_corrupted_t1,Minor Corrupted Combat Trophy,1,74
+pristinebearclawt1,Pristine Bear Claw,1,3
+house_housingitem_buff_damage_vs_beasts_t2,Basic Wildlife Combat Trophy,2,594
+pristinewolfclawt1,Pristine Wolf Claw,1,3
+house_housingitem_buff_damage_vs_beasts_t1,Minor Wildlife Combat Trophy,1,74
+glowingsapt1,Glowing Sap,1,3
+house_housingitem_buff_damage_vs_angryearth_t2,Basic Angry Earth Combat Trophy,2,594
+barkflesht1,Barkflesh,1,3
+house_housingitem_buff_damage_vs_angryearth_t1,Minor Angry Earth Combat Trophy,1,74
+ancientmandiblet1,Ancient Mandible,1,3
+house_housingitem_buff_damage_vs_ancients_t2,Basic Ancients Combat Trophy,2,594
+ancientfemurt1,Ancient Femur,1,3
+house_housingitem_buff_damage_vs_ancients_t1,Minor Ancients Combat Trophy,1,74
+chefssecretcookbookt1,Chef's Secret Cookbook,1,3
+house_housingitem_buff_cooking_bonus_t2,Basic Cooking Crafting Trophy,2,594
+chefssecrettechniquest1,Chef's Secret Techniques,1,3
+house_housingitem_buff_cooking_bonus_t1,Minor Cooking Crafting Trophy,1,74
+forgemastersnotest1,Forgemaster's Notes,1,3
+house_housingitem_buff_blacksmithing_bonus_t2,Basic Weaponsmithing Crafting Trophy,2,594
+quartermastersnotest1,Quartermaster's Notes,1,3
+house_housingitem_buff_blacksmithing_bonus_t1,Minor Weaponsmithing Crafting Trophy,1,74
+philosophersstonet1,Philosopher's Stone,1,3
+house_housingitem_buff_alchemy_bonus_t2,Basic Arcana Crafting Trophy,2,594
+ancienttextst1,Ancient Texts,1,3
+house_housingitem_buff_alchemy_bonus_t1,Minor Arcana Crafting Trophy,1,74
+fluffystuffingt1,Fluffy Stuffing,1,3
+reedt1,Reeds,1,3
+workorder_hingest5,Work Order: Orichalcum Hinges,5,243
+workorder_hingest4,Work Order: Starmetal Hinges,4,81
+workorder_hingest3,Work Order: Steel Hinges,3,27
+workorder_hingest2,Work Order: Iron Hinges,2,9
+furt5,Infused Fur,5,243
+heavylegs_syndicaterank5,Reinforced Syndicate Alchemist Legguards of the Barbarian,5,243
+heavylegs_syndicaterank4,Reinforced Syndicate Cabalist Legguards of the Barbarian,4,81
+heavylegs_syndicaterank3,Reinforced Syndicate Chronicler Legguards of the Barbarian,3,27
+heavylegs_syndicaterank2,Reinforced Syndicate Scrivener Legguards of the Barbarian,2,9
+heavylegs_syndicaterank1,Reinforced Syndicate Adept Legguards of the Barbarian,1,3
+heavylegs_marauderrank5,Reinforced Marauder Commander Legguards of the Barbarian,5,243
+heavylegs_marauderrank4,Reinforced Marauder Destroyer Legguards of the Barbarian,4,81
+heavylegs_marauderrank3,Reinforced Marauder Ravager Legguards of the Barbarian,3,27
+heavylegs_marauderrank2,Reinforced Marauder Gladiator Legguards of the Barbarian,2,9
+heavylegs_marauderrank1,Reinforced Marauder Soldier Legguards of the Barbarian,1,3
+heavylegs_marauderlegatust5,Reinforced Marauder Legatus Cuisses of the Knight,5,243
+heavylegs_covenantrank5,Reinforced Covenant Adjudicator Legguards of the Barbarian,5,243
+heavylegs_covenantrank4,Reinforced Covenant Lumen Legguards of the Barbarian,4,81
+heavylegs_covenantrank3,Reinforced Covenant Excubitor Legguards of the Barbarian,3,27
+heavylegs_covenantrank2,Reinforced Covenant Templar Legguards of the Barbarian,2,9
+heavylegs_covenantrank1,Reinforced Covenant Initiate Legguards of the Barbarian,1,3
+heavylegs_covenantinquisitort5,Reinforced Covenant Inquisitor Pants of the Warden,5,243
+sparkwill,Spark of Willpower,0,1
+heavylegs_battlesembracegreavest5,Battle's Embrace Greaves,2,4
+workorder_0205_0102_greaves_battlesembrace,Battle's Embrace Work Order,0,1
+0205_0102_baneseedoil,Baneseed Oil,0,1
+0205_0102_attunedstarmetal,Attuned Starmetal,0,1
+0205_0102_reforgedplating,Reforged Plating,0,1
+heavyhead_syndicaterank5,Reinforced Syndicate Alchemist Helm of the Barbarian,5,243
+heavyhead_syndicaterank4,Reinforced Syndicate Cabalist Helm of the Barbarian,4,81
+heavyhead_syndicaterank3,Reinforced Syndicate Chronicler Helm of the Barbarian,3,27
+heavyhead_syndicaterank2,Reinforced Syndicate Scrivener Helm of the Barbarian,2,9
+heavyhead_syndicaterank1,Reinforced Syndicate Adept Helm of the Barbarian,1,3
+heavyhead_marauderrank5,Reinforced Marauder Commander Helm of the Barbarian,5,243
+heavyhead_marauderrank4,Reinforced Marauder Destroyer Helm of the Barbarian,4,81
+heavyhead_marauderrank3,Reinforced Marauder Ravager Helm of the Barbarian,3,27
+heavyhead_marauderrank2,Reinforced Marauder Gladiator Helm of the Barbarian,2,9
+heavyhead_marauderrank1,Reinforced Marauder Soldier Helm of the Barbarian,1,3
+heavyhead_marauderlegatust5,Reinforced Marauder Legatus Helm of the Knight,5,243
+heavyhead_covenantrank5,Reinforced Covenant Adjudicator Helm of the Barbarian,5,243
+heavyhead_covenantrank4,Reinforced Covenant Lumen Helm of the Barbarian,4,81
+heavyhead_covenantrank3,Reinforced Covenant Excubitor Helm of the Barbarian,3,27
+heavyhead_covenantrank2,Reinforced Covenant Templar Helm of the Barbarian,2,9
+heavyhead_covenantrank1,Reinforced Covenant Initiate Helm of the Barbarian,1,3
+heavyhead_covenantinquisitort5,Reinforced Covenant Inquisitor Hat of the Warden,5,243
+workorder_0205_0102_helm_battlesembrace,Battle's Embrace Work Order,0,1
+0205_0102_shardsbattle,Shards of Battle,0,1
+0205_0102_ruggedvarnish,Prickly Nettle Varnish,0,1
+0205_0102_heavypadding,Extra Slag Padding,0,1
+heavyhands_syndicaterank5,Reinforced Syndicate Alchemist Gauntlets of the Barbarian,5,243
+heavyhands_syndicaterank4,Reinforced Syndicate Cabalist Gauntlets of the Barbarian,4,81
+heavyhands_syndicaterank3,Reinforced Syndicate Chronicler Gauntlets of the Barbarian,3,27
+heavyhands_syndicaterank2,Reinforced Syndicate Scrivener Gauntlets of the Barbarian,2,9
+heavyhands_syndicaterank1,Reinforced Syndicate Adept Gauntlets of the Barbarian,1,3
+heavyhands_marauderrank5,Reinforced Marauder Commander Gauntlets of the Barbarian,5,243
+heavyhands_marauderrank4,Reinforced Marauder Destroyer Gauntlets of the Barbarian,4,81
+heavyhands_marauderrank3,Reinforced Marauder Ravager Gauntlets of the Barbarian,3,27
+heavyhands_marauderrank2,Reinforced Marauder Gladiator Gauntlets of the Barbarian,2,9
+heavyhands_marauderrank1,Reinforced Marauder Soldier Gauntlets of the Barbarian,1,3
+heavyhands_marauderlegatust5,Reinforced Marauder Legatus Gauntlets of the Knight,5,243
+heavyhands_covenantrank5,Reinforced Covenant Adjudicator Gauntlets of the Barbarian,5,243
+heavyhands_covenantrank4,Reinforced Covenant Lumen Gauntlets of the Barbarian,4,81
+heavyhands_covenantrank3,Reinforced Covenant Excubitor Gauntlets of the Barbarian,3,27
+heavyhands_covenantrank2,Reinforced Covenant Templar Gauntlets of the Barbarian,2,9
+heavyhands_covenantrank1,Reinforced Covenant Initiate Gauntlets of the Barbarian,1,3
+heavyhands_covenantinquisitort5,Reinforced Covenant Inquisitor Gauntlets of the Warden,5,243
+sparkimpulse,Spark of Impulse,0,1
+heavyhands_battlesembracegauntletst5,Battle's Embrace Gauntlets,2,4
+workorder_0205_0102_gauntlets_battlesembrace,Battle's Embrace Work Order,0,1
+0205_0102_essencepower,Essence of Power,0,1
+0205_0102_flexiblemesh,Flexible Velan Mesh,0,1
+0205_0102_refinedbalefire,Refined Balefire,0,1
+heavyfeet_syndicaterank5,Reinforced Syndicate Alchemist Boots of the Barbarian,5,243
+heavyfeet_syndicaterank4,Reinforced Syndicate Cabalist Boots of the Barbarian,4,81
+heavyfeet_syndicaterank3,Reinforced Syndicate Chronicler Boots of the Barbarian,3,27
+heavyfeet_syndicaterank2,Reinforced Syndicate Scrivener Boots of the Barbarian,2,9
+heavyfeet_syndicaterank1,Reinforced Syndicate Adept Boots of the Barbarian,1,3
+heavyfeet_marauderrank5,Reinforced Marauder Commander Boots of the Barbarian,5,243
+heavyfeet_marauderrank4,Reinforced Marauder Destroyer Boots of the Barbarian,4,81
+heavyfeet_marauderrank3,Reinforced Marauder Ravager Boots of the Barbarian,3,27
+heavyfeet_marauderrank2,Reinforced Marauder Gladiator Boots of the Barbarian,2,9
+heavyfeet_marauderrank1,Reinforced Marauder Soldier Boots of the Barbarian,1,3
+heavyfeet_marauderlegatust5,Reinforced Marauder Legatus Greaves of the Knight,5,243
+heavyfeet_covenantrank5,Reinforced Covenant Adjudicator Boots of the Barbarian,5,243
+heavyfeet_covenantrank4,Reinforced Covenant Lumen Boots of the Barbarian,4,81
+heavyfeet_covenantrank3,Reinforced Covenant Excubitor Boots of the Barbarian,3,27
+heavyfeet_covenantrank2,Reinforced Covenant Templar Boots of the Barbarian,2,9
+heavyfeet_covenantrank1,Reinforced Covenant Initiate Boots of the Barbarian,1,3
+heavyfeet_covenantinquisitort5,Reinforced Covenant Inquisitor Boots of the Warden,5,243
+sparkbattle,Spark of Battle,0,1
+heavyfeet_battlesembracebootst4,Battle's Embrace Boots,2,4
+workorder_0205_0102_boots_battlesembrace,Battle's Embrace Work Order,0,1
+0205_0102_stouthides,Stout Fenton Hides,0,1
+0205_0102_treatedhobnails,Treated Hobnails,0,1
+0205_0102_metalbanding,Restless Metal Bands,0,1
+heavychest_syndicaterank5,Reinforced Syndicate Alchemist Breastplate of the Barbarian,5,243
+heavychest_syndicaterank4,Reinforced Syndicate Cabalist Breastplate of the Barbarian,4,81
+heavychest_syndicaterank3,Reinforced Syndicate Chronicler Breastplate of the Barbarian,3,27
+heavychest_syndicaterank2,Reinforced Syndicate Scrivener Breastplate of the Barbarian,2,9
+heavychest_syndicaterank1,Reinforced Syndicate Adept Breastplate of the Barbarian,1,3
+heavychest_marauderrank5,Reinforced Marauder Commander Breastplate of the Barbarian,5,243
+heavychest_marauderrank4,Reinforced Marauder Destroyer Breastplate of the Barbarian,4,81
+heavychest_marauderrank3,Reinforced Marauder Ravager Breastplate of the Barbarian,3,27
+heavychest_marauderrank2,Reinforced Marauder Gladiator Breastplate of the Barbarian,2,9
+heavychest_marauderrank1,Reinforced Marauder Soldier Breastplate of the Barbarian,1,3
+heavychest_marauderlegatust5,Reinforced Marauder Legatus Breastplate of the Knight,5,243
+heavychest_covenantrank5,Reinforced Covenant Adjudicator Breastplate of the Barbarian,5,243
+heavychest_covenantrank4,Reinforced Covenant Lumen Breastplate of the Barbarian,4,81
+heavychest_covenantrank3,Reinforced Covenant Excubitor Breastplate of the Barbarian,3,27
+heavychest_covenantrank2,Reinforced Covenant Templar Breastplate of the Barbarian,2,9
+heavychest_covenantrank1,Reinforced Covenant Initiate Breastplate of the Barbarian,1,3
+heavychest_covenantinquisitort5,Reinforced Covenant Inquisitor Coat of the Warden,5,243
+sparkadrenaline,Spark of Adrenaline,0,1
+heavychest_battlesembracebreastplatet4,Battle's Embrace Breastplate,2,4
+workorder_0205_0102_breastplate_battlesembrace,Battle's Embrace Work Order,0,1
+0205_0102_evershinepolish,Evershine Polish,0,1
+0205_0102_stalwartrivets,Once-Golden Rivets,0,1
+0205_0102_hammeredmetal,Undefiled Metal,0,1
+flintt1,Flint,1,3
+saltpetert1,Saltpeter,1,3
+workorder_0204_0104_executioner,Executioner Work Order,0,1
+0204_0104_bucaneersplank,Bucaneer's Plank,0,1
+0204_0104_hangmansbinding,Hangman's Binding,0,1
+0204_0104_bladebrute,Blade of the Brutes,0,1
+0204_0104_infernalcoagulant,Infernal Coagulant,0,1
+Gemstones,Gemstones,0,1
+broccolit1,Broccoli,1,3
+carrott1,Carrot,1,3
+seasoningblendt1,Seasoning Blend,0,1
+oreganot1,Oregano,1,3
+cookingoilt1,Cooking Oil,0,6
+stringbeant1,String Bean,1,3
+cauliflowert1,Cauliflower,1,3
+squasht1,Squash,1,3
+honeyt1,Honey,1,3
+nutt1,Nut,1,3
+cheeset1,Cheese,0,6
+milkt1,Milk,1,3
+buttert1,Butter,0,3
+fishingmerrowt5,Glowing Gnufish,5,243
+oniont1,Onion,1,3
+barleyt1,Barley,1,3
+garlict1,Garlic,1,3
+rosemaryt1,Rosemary,1,3
+fishingclamssmallt2,Clam,2,9
+potatot1,Potato,1,3
+sausaget1,Sausage,0,2
+tomatot1,Tomato,1,3
+mushroomt1,Mushroom,1,3
+porkt1,Pork,1,3
+applet1,Apple,1,3
+pastat1,Pasta,0,4
+redmeatt1,Red Meat,1,3
+turkeybreastt1,Poultry Breast,1,3
+basilt1,Basil,1,3
+parsleyt1,Parsley,1,3
+dillt1,Dill,1,3
+hamhockt1,Juicy Ham Hock,1,3
+sugart1,Sugar,1,3
+oranget1,Orange,1,3
+fisht1,Fish Filet,1,3
+pastrycrustt1,Pastry Crust,0,7
+blueberryt1,Blueberry,1,3
+strawberryt1,Strawberry,1,3
+porkbellyt1,Pork Belly,1,3
+peppercornt1,Peppercorn,1,3
+lemont1,Lemon,1,3
+venisont1,Venison,1,3
+saget1,Sage,1,3
+meatsquidt1,Squid Meat,1,3
+nutmegt1,Nutmeg,1,3
+bearflankt1,Rich Bear Flank,1,3
+poultryt1,Poultry,1,3
+cabbaget1,Cabbage,1,3
+saffront1,Saffron,1,3
+melont1,Melon,1,3
+cornt1,Corn,1,3
+mintt1,Mint,1,3
+gingert1,Ginger,1,3
+berryt1,Berry,1,3
+fishingbishopfisht5,Abaia Serpe,5,243
+thymet1,Thyme,1,3
+squidinkt1,Squid Ink,1,3
+venisontenderloint1,Venison Tenderloin,1,3
+meatgamet1,Game Meat,1,3
+ricet1,Rice,1,3
+breadt1,Bread,0,4
+primeredmeatt1,Prime Red Meat,1,3
+wolfloint1,Tender Wolf Loin,1,3
+cranberryt1,Cranberry,1,3
+paprikat1,Paprika,1,3
+fishingmishipeshut5,Lava Barb,5,243
+baitfreshoystert3,Oyster Bait,3,27
+fishroet1,Fish Roe,1,3
+fishingsalmonlarget1,Large Salmon,1,3
+coconutt1,Coconut,1,3
+turkeythight1,Poultry Thigh,1,3
+tarragont1,Tarragon,1,3
+fishinganglerfisht5,Albenaja,5,243
+rabbitt1,Sumptuous Rabbit,1,3
+fishingmoragt5,Ray-Finned Barb,5,243
+wheatt1,Wheat,1,3
+focstrbonust3,Ancient Rib,1,192
+focstrbonust2,Ancient Femur,1,30
+focstrbonust1,Ancient Mandible,1,3
+focintbonust3,Ancient Gold Talisman,1,192
+focintbonust2,Ancient Silver Talisman,1,30
+focintbonust1,Ancient Wooden Talisman,1,3
+focdexbonust3,Wyrdwood Tree Sap,1,192
+focdexbonust2,Hardwood Tree Sap,1,30
+focdexbonust1,Softwood Tree Sap,1,3
+focconbonust3,Starmetal Pocketwatch,1,192
+focconbonust2,Steel Pocketwatch,1,30
+focconbonust1,Iron Pocketwatch,1,3
+focbonust3,Wyrdwood Prayer Beads,1,192
+focbonust2,Hardwood Prayer Beads,1,30
+focbonust1,Softwood Prayer Beads,1,3
+Cooked Grain,Cooked Grain,0,1
+workorder_firstaidsuppliest5,Advanced First Aid Supplies,5,243
+workorder_firstaidsuppliest4,Large First Aid Supplies,4,81
+workorder_firstaidsuppliest3,Small First Aid Supplies,3,27
+workorder_firstaidsuppliest2,Basic First Aid Supplies,2,9
+workorder_1305_1315_l40fstaff_falmeaswrath,Falmea's Wrath Work Order,0,1
+1305_1315_singedbranches,Singed Branches,0,1
+1305_1315_wyrdwoodashes,Wyrdwood Ashes,0,1
+1305_1315_unhallowedwater,Unhallowed Water,0,1
+1305_1315_heartofallflame,Heart of All Flame,0,1
+workorder_faction_provisions10_t5,Cooking Recipe,0,1
+fisht2,Firm Fish Filet,2,9
+fishoilt1,Fish Oil,1,3
+workorder_faction_provisions10_t4,Cooking Recipe,0,1
+workorder_faction_provisions10_t3,Cooking Recipe,0,1
+workorder_faction_provisions10_t2,Cooking Recipe,0,1
+workorder_faction_provisions09_t5,Cooking Recipe,0,1
+workorder_faction_provisions09_t4,Cooking Recipe,0,1
+workorder_faction_provisions09_t3,Cooking Recipe,0,1
+workorder_faction_provisions09_t2,Cooking Recipe,0,1
+workorder_faction_provisions08_t5,Cooking Recipe,0,1
+workorder_faction_provisions08_t4,Cooking Recipe,0,1
+workorder_faction_provisions08_t3,Cooking Recipe,0,1
+workorder_faction_provisions08_t2,Cooking Recipe,0,1
+workorder_faction_provisions07_t5,Cooking Recipe,0,1
+yeastt1,Yeast,1,3
+workorder_faction_provisions07_t4,Cooking Recipe,0,1
+workorder_faction_provisions07_t3,Cooking Recipe,0,1
+workorder_faction_provisions07_t2,Cooking Recipe,0,1
+workorder_faction_provisions06_t5,Cooking Recipe,0,1
+workorder_faction_provisions06_t4,Cooking Recipe,0,1
+workorder_faction_provisions06_t3,Cooking Recipe,0,1
+workorder_faction_provisions06_t2,Cooking Recipe,0,1
+workorder_faction_provisions05_t5,Cooking Recipe,0,1
+workorder_faction_provisions05_t4,Cooking Recipe,0,1
+workorder_faction_provisions05_t3,Cooking Recipe,0,1
+workorder_faction_provisions05_t2,Cooking Recipe,0,1
+workorder_faction_provisions04_t5,Cooking Recipe,0,1
+workorder_faction_provisions04_t4,Cooking Recipe,0,1
+workorder_faction_provisions04_t3,Cooking Recipe,0,1
+workorder_faction_provisions04_t2,Cooking Recipe,0,1
+workorder_faction_provisions03_t5,Cooking Recipe,0,1
+workorder_faction_provisions03_t4,Cooking Recipe,0,1
+workorder_faction_provisions03_t3,Cooking Recipe,0,1
+workorder_faction_provisions03_t2,Cooking Recipe,0,1
+workorder_faction_provisions03_t1,Cooking Recipe,0,1
+workorder_faction_provisions02_t5,Cooking Recipe,0,1
+workorder_faction_provisions02_t4,Cooking Recipe,0,1
+workorder_faction_provisions02_t3,Cooking Recipe,0,1
+workorder_faction_provisions02_t2,Cooking Recipe,0,1
+workorder_faction_provisions02_t1,Cooking Recipe,0,1
+workorder_faction_provisions01_t5,Cooking Recipe,0,1
+workorder_faction_provisions01_t4,Cooking Recipe,0,1
+workorder_faction_provisions01_t3,Cooking Recipe,0,1
+workorder_faction_provisions01_t2,Cooking Recipe,0,1
+workorder_faction_provisions01_t1,Cooking Recipe,0,1
+workorder_faction_armorset07_t5,Armorsmithing Work Order,0,1
+workorder_faction_armorset07_t4,Armorsmithing Work Order,0,1
+workorder_faction_armorset07_t3,Armorsmithing Work Order,0,1
+workorder_faction_armorset07_t2,Armorsmithing Work Order,0,1
+oret1,Iron Ore,1,3
+rawhidet1,Rawhide,1,3
+workorder_faction_armorset06_t5,Armorsmithing Work Order,0,1
+workorder_faction_armorset06_t4,Armorsmithing Work Order,0,1
+workorder_faction_armorset06_t3,Armorsmithing Work Order,0,1
+workorder_faction_armorset06_t2,Armorsmithing Work Order,0,1
+workorder_faction_armorset05_t5,Armorsmithing Work Order,0,1
+workorder_faction_armorset05_t4,Armorsmithing Work Order,0,1
+workorder_faction_armorset05_t3,Armorsmithing Work Order,0,1
+workorder_faction_armorset05_t2,Armorsmithing Work Order,0,1
+workorder_faction_armorset04_t5,Armorsmithing Work Order,0,1
+workorder_faction_armorset04_t4,Armorsmithing Work Order,0,1
+workorder_faction_armorset04_t3,Armorsmithing Work Order,0,1
+workorder_faction_armorset04_t2,Armorsmithing Work Order,0,1
+workorder_faction_armorset03_t5,Armorsmithing Work Order,0,1
+workorder_faction_armorset03_t4,Armorsmithing Work Order,0,1
+workorder_faction_armorset03_t3,Armorsmithing Work Order,0,1
+workorder_faction_armorset03_t2,Armorsmithing Work Order,0,1
+workorder_faction_armorset02_t5,Armorsmithing Work Order,0,1
+workorder_faction_armorset02_t4,Armorsmithing Work Order,0,1
+workorder_faction_armorset02_t3,Armorsmithing Work Order,0,1
+workorder_faction_armorset02_t2,Armorsmithing Work Order,0,1
+workorder_faction_armorset01_t5,Armorsmithing Work Order,0,1
+workorder_faction_armorset01_t4,Armorsmithing Work Order,0,1
+workorder_faction_armorset01_t3,Armorsmithing Work Order,0,1
+workorder_faction_armorset01_t2,Armorsmithing Work Order,0,1
+workorder_faction_armaments10_t5,Weaponsmithing Work Order,0,1
+workorder_faction_armaments10_t4,Weaponsmithing Work Order,0,1
+workorder_faction_armaments10_t3,Weaponsmithing Work Order,0,1
+workorder_faction_armaments10_t2,Weaponsmithing Work Order,0,1
+woodt1,Green Wood,1,3
+workorder_faction_armaments09_t5,Weaponsmithing Work Order,0,1
+workorder_faction_armaments09_t4,Weaponsmithing Work Order,0,1
+workorder_faction_armaments09_t3,Weaponsmithing Work Order,0,1
+workorder_faction_armaments09_t2,Weaponsmithing Work Order,0,1
+workorder_faction_armaments08_t5,Weaponsmithing Work Order,0,1
+workorder_faction_armaments08_t4,Weaponsmithing Work Order,0,1
+workorder_faction_armaments08_t3,Weaponsmithing Work Order,0,1
+workorder_faction_armaments08_t2,Weaponsmithing Work Order,0,1
+workorder_faction_armaments07_t5,Weaponsmithing Work Order,0,1
+workorder_faction_armaments07_t4,Weaponsmithing Work Order,0,1
+workorder_faction_armaments07_t3,Weaponsmithing Work Order,0,1
+workorder_faction_armaments07_t2,Weaponsmithing Work Order,0,1
+workorder_faction_armaments06_t5,Weaponsmithing Work Order,0,1
+workorder_faction_armaments06_t4,Weaponsmithing Work Order,0,1
+workorder_faction_armaments06_t3,Weaponsmithing Work Order,0,1
+workorder_faction_armaments06_t2,Weaponsmithing Work Order,0,1
+workorder_faction_armaments05_t5,Weaponsmithing Work Order,0,1
+workorder_faction_armaments05_t4,Weaponsmithing Work Order,0,1
+workorder_faction_armaments05_t3,Weaponsmithing Work Order,0,1
+workorder_faction_armaments05_t2,Weaponsmithing Work Order,0,1
+workorder_faction_armaments04_t5,Weaponsmithing Work Order,0,1
+workorder_faction_armaments04_t4,Weaponsmithing Work Order,0,1
+workorder_faction_armaments04_t3,Weaponsmithing Work Order,0,1
+workorder_faction_armaments04_t2,Weaponsmithing Work Order,0,1
+workorder_faction_armaments03_t5,Weaponsmithing Work Order,0,1
+workorder_faction_armaments03_t4,Weaponsmithing Work Order,0,1
+workorder_faction_armaments03_t3,Weaponsmithing Work Order,0,1
+workorder_faction_armaments03_t2,Weaponsmithing Work Order,0,1
+workorder_faction_armaments02_t5,Weaponsmithing Work Order,0,1
+workorder_faction_armaments02_t4,Weaponsmithing Work Order,0,1
+workorder_faction_armaments02_t3,Weaponsmithing Work Order,0,1
+workorder_faction_armaments02_t2,Weaponsmithing Work Order,0,1
+workorder_faction_armaments01_t5,Weaponsmithing Work Order,0,1
+workorder_faction_armaments01_t4,Weaponsmithing Work Order,0,1
+workorder_faction_armaments01_t3,Weaponsmithing Work Order,0,1
+workorder_faction_armaments01_t2,Weaponsmithing Work Order,0,1
+emeraldt3,Brilliant Emerald,2,14
+emeraldt2,Emerald,1,7
+emeraldt1,Flawed Emerald,1,3
+emeraldt4,Pristine Emerald,3,47
+pigmentmagenta,Magenta Pigment,0,1
+pigmentwhite,White Pigment,0,1
+pigmentblack,Black Pigment,0,1
+pigmentpurple,Purple Pigment,0,1
+pigmentbrown,Brown Pigment,0,1
+pigmentcyan,Cyan Pigment,0,1
+pigmentturquoise,Turquoise Pigment,0,1
+pigmentorange,Orange Pigment,0,1
+workorder_dispellingkitt5,Intricate Dispelling Kit,5,243
+workorder_dispellingkitt4,Advanced Dispelling Kit,4,81
+workorder_dispellingkitt3,Complex Dispelling Kit,3,27
+workorder_dispellingkitt2,Basic Dispelling Kit,2,9
+diamondt3,Brilliant Diamond,2,14
+diamondt2,Diamond,1,7
+diamondt1,Flawed Diamond,1,3
+diamondt4,Pristine Diamond,3,47
+dexstrbonust3,Layered Leather Scourge,1,192
+dexstrbonust2,Rugged Leather Scourge,1,30
+dexstrbonust1,Rough Leather Scourge,1,3
+dexintbonust3,Fish Fang,1,192
+dexintbonust2,Fanged Jaw,1,30
+dexintbonust1,Fish Guts,1,3
+dexfocbonust3,Starmetal Corrupted Casing,1,192
+dexfocbonust2,Steel Corrupted Casing,1,30
+dexfocbonust1,Iron Corrupted Casing,1,3
+dexconbonust3,Starmetal Hook,1,192
+dexconbonust2,Steel Hook,1,30
+dexconbonust1,Iron Hook,1,3
+dexbonust3,Layered Leather Beaded Straps,1,192
+dexbonust2,Rugged Leather Beaded Straps,1,30
+dexbonust1,Rough Leather Beaded Straps,1,3
+constrbonust3,Charged Quartz Crystal,1,192
+constrbonust2,Large Quartz Crystal,1,30
+constrbonust1,Small Quartz Crystal,1,3
+conintbonust3,Large Dryad Vine,1,192
+conintbonust2,Young Dryad Vine,1,30
+conintbonust1,Dead Dryad Vine,1,3
+confocbonust3,Glowing Dryad Sap,1,192
+confocbonust2,Vial of Dryad Sap,1,30
+confocbonust1,Dried Dryad Sap,1,3
+condexbonust3,Strong Animal Bone,1,192
+condexbonust2,Large Animal Bone,1,30
+condexbonust1,Small Animal Bone,1,3
+conbonust3,Starmetal Guardsman's Insignia,1,192
+conbonust2,Steel Guardsman's Insignia,1,30
+conbonust1,Iron Guardsman's Insignia,1,3
+workorder_compasst5,Work Order: Orichalcum Compass,5,243
+workorder_compasst4,Work Order: Starmetal Compass,4,81
+workorder_compasst3,Work Order: Steel Compass,3,27
+workorder_compasst2,Work Order: Iron Compass,2,9
+Cloth Weave,Cloth Weave,0,1
+carneliant3,Brilliant Carnelian,2,14
+carneliant2,Carnelian,1,7
+carneliant1,Flawed Carnelian,1,3
+carneliant4,Pristine Carnelian,3,47
+workorder_brewkegt5,Party Keg of Brew,5,243
+workorder_brewkegt4,Large Keg of Brew,4,81
+workorder_brewkegt3,Small Keg of Brew,3,27
+workorder_brewkegt2,Pony Keg of Brew,2,9
+workorder_1310_1314_l40bow_huntress,Huntress Work Order,0,1
+1310_1314_ancientwood,Ancient Wood,0,1
+1310_1314_wyrdwoodresin,Wyrdwood Resin,0,1
+1310_1314_hawkfeathers,Hawk Feather,0,1
+1310_1314_luckyrabbitsfoot,Lucky Rabbit's Foot,0,1
+lodestonedeatht1,Putrid Lodestone,1,3
+stonet4,Lodestone,4,81
+lodestoneeartht1,Loamy Lodestone,1,3
+workorder_bellowst5,Double-Braced Bellows,5,243
+workorder_bellowst4,Reinforced Bellows,4,81
+workorder_bellowst3,Common Bellows,3,27
+workorder_bellowst2,Simple Bellows,2,9
+Fish,Fish,0,1
+workorder_armamentst5,Crate of Orichalcum Armaments,5,243
+workorder_armamentst4,Crate of Starmetal Armamaents,4,81
+workorder_armamentst3,Crate of Steel Armaments,3,27
+workorder_armamentst2,Crate of Iron Armaments,2,9
+workorder_arcanereactort5,Work Order: Intricate Arcane Reactor,5,243
+workorder_arcanereactort4,Work Order: Advanced Arcane Reactor,4,81
+workorder_arcanereactort3,Work Order: Complex Arcane Reactor,3,27
+workorder_arcanereactort2,Work Order: Basic Arcane Reactor,2,9
+aquamarinet3,Brilliant Aquamarine,2,14
+aquamarinet2,Aquamarine,1,7
+aquamarinet1,Flawed Aquamarine,1,3
+aquamarinet4,Pristine Aquamarine,3,47
+workorder_appetizert5,Elegant Appetizer,5,243
+workorder_appetizert4,Large Appetizer,4,81
+workorder_appetizert3,Small Appetizer,3,27
+workorder_appetizert2,Basic Appetizer,2,9
+amethystt3,Brilliant Amethyst,2,14
+amethystt2,Amethyst,1,7
+amethystt1,Flawed Amethyst,1,3
+amethystt4,Pristine Amethyst,3,47
+ambert3,Brilliant Amber,2,14
+ambert2,Amber,1,7
+ambert1,Flawed Amber,1,3
+ambert4,Pristine Amber,3,47
+9907_0053_plantfood_msq_recipe,A recipe for plant food,0,1
+earthspinet2,Earthspine Leaf,2,9
+dragongloryt3,Dragonglory Flower,3,27
+fungalsporest1,Fungal Spores,1,3
+lodestoneairt1,Shocking Lodestone,1,3
+putridbarkt1,Putrid Bark,1,3
+metallicboneweavet1,Metallic Boneweave,1,3
+jadetalismant1,Jade Talisman,1,3
+corruptedtreatiset1,Corrupted Treatise,1,3
+mutagentancientt1,Vial of Ancient Mutagen,1,3
+mutagenlostt1,Vial Of Ectoplasmic Mutagen,1,3
+timbert51,Glittering Ebony,3,1818
+empoweredcounterbalancet5,Empowered Counterbalance,5,243
+scalingpowdert1,Scaling Powder,1,3
+azuritechunkt1,Azurite Chunk,1,3
+shifthidet1,Shifthide,1,3
+blessedcruciblet1,Blessed Crucible,1,3
+brightscalehidet1,Brightscale Hide,1,3
+faeiront1,Fae Iron,1,3
+voidsteelt1,Voidmetal,1,3
+corecrystallifet5,Life Crystal Core,5,243
+scalecordt1,Scalecord,1,3
+blessedsceptert1,Blessed Scepter,1,3
+glintwoolt1,Glintstrands,1,3
+corecrystalfiret5,Fire Crystal Core,5,243
+petrifiedwoodt1,Petrified Wood,1,3
+whisperwoodt1,Whisperwood,1,3
+petrifiedfiret1,Petrified Fire,1,3
+ebonwoodt1,Ebonwood,1,3
+quillbarkt1,Quillbark,1,3
+embossedwrappingt5,Embossed Wrapping,5,243
+witheredbought1,Withered Bough,1,3
+intricatelockt5,Intricate Firearm Lock,5,243
+fragmentedmuskett1,Fragmented Musket,1,3
+ancientbearingt1,Ancient Bearing,1,3
+enchantedbowstringt5,Enchanted Bow String,5,243
+splinteredbowt1,Splintered Bow,1,3
+brokenhatchett1,Broken Hatchet,1,3
+emblemoffortitudet1,Emblem of Fortitude,1,3
+etchedhandguardt5,Etched Handguard,5,243
+serpentinehandguardt1,Serpentine Handguard,1,3
+shatteredswordt1,Shattered Sword,1,3
+crestoffortitudet1,Crest of Fortitude,1,3
+corecrystalicet5,Ice Crystal Core,5,243
+eternalicet1,Eternal Ice,1,3
+workorder_1334_0201_perfume,Recipe: Volusus Perfume,0,1
+1334_0201_spores,Slimy Fungal Drippings,0,1
+1334_0201_elkgland,Stag Anus Gland,0,1
+1334_0201_laudanum,Maggot-Laden Fruit,0,1
+adamantt1,Sliver of Adamant,1,3
+sandpapert3,Coarse Sandpaper,0,54
+fluxt3,Sand Flux,0,54
+tannint3,Tannin,0,54
+phasefibert1,Phasefiber,1,3
+fluxt4,Shelldust Flux,1,162
+scalyhidet1,Scaly Hide,1,3
+toadpott1,Toadpot,1,3
+bumbleblossomt1,Bumbleblossom,1,3
+codeyet1,Cod Eye,1,3
+earthshelltailt1,Earthshell Tail,1,3
+platecapt1,Platecap Flesh,1,3
+petalcapt1,Petalcap,1,3
+spinecapt1,Spinecap,1,3
+twistcapt1,Twistcap Spiral,1,3
+trinket_settingt51,Asmodeum Setting,3,5463
+trinket_chaint51,Asmodeum Chain,3,5463
+ragehidet1,Ragehide,1,3
+shadeclotht1,Shadecloth,1,3
+voidpitchert1,Void Pitcher,1,3
+fungalslimet1,Fungal Slime,1,3
+starfisht1,Starfish,1,3
+salamanderslimet1,Salamander Slime,1,3
+trinket_hookt51,Asmodeum Hook,3,5463
+furt3,Fur,3,27
+furt4,Thick Fur,4,81
+earthspinet3,Earthspine Flower,3,27
+shockbulbt3,Shockbulb Flower,3,27
+lightningbeetlewingst1,Lightning Beetle,1,3
+lodestonewatert1,Freezing Lodestone,1,3
+rivercresst3,Rivercress Flower,3,27
+spinefishfinst1,Spinefish Fins,1,3
+sporebloomt1,Sporebloom Fruit,1,3
+halibutviscerat1,Halibut Viscera,1,3
+lifebloomt3,Lifebloom Flower,3,27
+briarbudst1,Briar Buds,1,3
+mushroomfinst1,Mushroom Fins,1,3
+soulsproutt3,Soulsprout Flower,3,27
+soulwyrmtonguet1,Soulwyrm Tongue,1,3
+trinket_bandt51,Asmodeum Band,3,5463
+workrationst5,workrationst5,0,243
+workrationst4,workrationst4,0,81
+workrationst3,workrationst3,0,27
+workrationst2,workrationst2,0,9
+tannint4,tannint4,1,162
+sandpapert4,sandpapert4,1,162
+repairkitt5,repairkitt5,0,4
+repairkitt4,repairkitt4,0,4
+repairkitt3,repairkitt3,0,4
+repairkitt2,repairkitt2,0,4
+trinket_settingt5,trinket_settingt5,0,336
+trinket_settingt4,trinket_settingt4,0,38
+trinket_settingt3,trinket_settingt3,0,10
+trinket_hookt5,trinket_hookt5,0,336
+trinket_hookt4,trinket_hookt4,0,38
+trinket_hookt3,trinket_hookt3,0,10
+trinket_chaint5,trinket_chaint5,0,336
+trinket_chaint4,trinket_chaint4,0,38
+trinket_chaint3,trinket_chaint3,0,10
+trinket_bandt5,trinket_bandt5,0,336
+trinket_bandt4,trinket_bandt4,0,38
+trinket_bandt3,trinket_bandt3,0,10
+1hlongsword_keentempert4,1hlongsword_keentempert4,3,5
+structuralbracest5,structuralbracest5,0,243
+structuralbracest4,structuralbracest4,0,81
+structuralbracest3,structuralbracest3,0,27
+structuralbracest2,structuralbracest2,0,9
+strintbonust4,strintbonust4,1,921
+strfocbonust4,strfocbonust4,1,921
+strdexbonust4,strdexbonust4,1,921
+strconbonust4,strconbonust4,1,921
+strbonust4,strbonust4,1,921
+shott5,shott5,0,726
+shott4,shott4,0,235
+shott3,shott3,0,68
+shott2,shott2,0,121
+sewingneedlest5,sewingneedlest5,0,243
+sewingneedlest4,sewingneedlest4,0,81
+sewingneedlest3,sewingneedlest3,0,27
+sewingneedlest2,sewingneedlest2,0,9
+reekwater05wc10bosskey,reekwater05wc10bosskey,3,230
+spriggankey,spriggankey,3,230
+reekwater05wc11bosskey,reekwater05wc11bosskey,3,230
+keyshattered,keyshattered,1,37
+keylazarus,keylazarus,4,6987
+keygenesis,keygenesis,4,6131
+keyeradinus,keyeradinus,2,227
+keydynasty,keydynasty,3,513
+keydepts,keydepts,2,227
+keyamrine,keyamrine,1,79
+proficiencyboostert5,proficiencyboostert5,0,42
+proficiencyboostert4,proficiencyboostert4,0,15
+proficiencyboostert3,proficiencyboostert3,0,9
+proficiencyboostert2,proficiencyboostert2,0,9
+2hwarhammert5,2hwarhammert5,0,245
+2hwarhammert4,2hwarhammert4,0,83
+2hwarhammert3,2hwarhammert3,0,29
+2hwarhammert2,2hwarhammert2,0,11
+tincturecorruptiont5,tincturecorruptiont5,0,247
+tincturecorruptiont4,tincturecorruptiont4,0,85
+tincturecorruptiont3,tincturecorruptiont3,0,31
+tincturecorruptiont2,tincturecorruptiont2,0,13
+tinctureblightt5,tinctureblightt5,0,247
+tinctureblightt4,tinctureblightt4,0,85
+tinctureblightt3,tinctureblightt3,0,31
+tinctureblightt2,tinctureblightt2,0,13
+2hcelestialstaff_lifet5,2hcelestialstaff_lifet5,0,245
+2hcelestialstaff_lifet4,2hcelestialstaff_lifet4,0,83
+2hcelestialstaff_lifet3,2hcelestialstaff_lifet3,0,29
+2hcelestialstaff_lifet2,2hcelestialstaff_lifet2,0,11
+2helementalstaff_firet5,2helementalstaff_firet5,0,245
+2helementalstaff_firet4,2helementalstaff_firet4,0,83
+2helementalstaff_firet3,2helementalstaff_firet3,0,29
+2helementalstaff_firet2,2helementalstaff_firet2,0,11
+2hspeart5,2hspeart5,0,245
+2hspeart4,2hspeart4,0,83
+2hspeart3,2hspeart3,0,29
+2hspeart2,2hspeart2,0,11
+1hskinningknifet5,1hskinningknifet5,0,245
+1hskinningknifet4,1hskinningknifet4,0,83
+1hskinningknifet3,1hskinningknifet3,0,29
+1hskinningknifet2,1hskinningknifet2,0,11
+1hsicklet5,1hsicklet5,0,245
+1hsicklet4,1hsicklet4,0,83
+1hsicklet3,1hsicklet3,0,29
+1hsicklet2,1hsicklet2,0,11
+1hshielddt5,1hshielddt5,0,245
+1hshielddt4,1hshielddt4,0,83
+1hshieldat5,1hshieldat5,0,245
+1hshieldat4,1hshieldat4,0,83
+1hshieldat3,1hshieldat3,0,29
+1hshieldat2,1hshieldat2,0,11
+1hshieldbt5,1hshieldbt5,0,245
+1hshieldbt4,1hshieldbt4,0,83
+1hshieldbt3,1hshieldbt3,0,29
+lightlegs_robet5,lightlegs_robet5,0,245
+lightlegs_robet4,lightlegs_robet4,0,83
+lightlegs_robet3,lightlegs_robet3,0,29
+lighthead_robet5,lighthead_robet5,0,245
+lighthead_robet4,lighthead_robet4,0,83
+lighthead_robet3,lighthead_robet3,0,29
+lighthands_robet5,lighthands_robet5,0,245
+lighthands_robet4,lighthands_robet4,0,83
+lighthands_robet3,lighthands_robet3,0,29
+lightfeet_robet5,lightfeet_robet5,0,245
+lightfeet_robet4,lightfeet_robet4,0,83
+lightfeet_robet3,lightfeet_robet3,0,29
+lightchest_robet5,lightchest_robet5,0,245
+lightchest_robet4,lightchest_robet4,0,83
+lightchest_robet3,lightchest_robet3,0,29
+ringtopazt5,ringtopazt5,1,483
+ringtopazt4,ringtopazt4,1,73
+ringtopazt3,ringtopazt3,1,14
+ringtopazt2,ringtopazt2,1,6
+ringsapphiret5,ringsapphiret5,1,483
+ringsapphiret4,ringsapphiret4,1,73
+ringsapphiret3,ringsapphiret3,1,14
+ringsapphiret2,ringsapphiret2,1,6
+ringrubyt5,ringrubyt5,1,483
+ringrubyt4,ringrubyt4,1,73
+ringrubyt3,ringrubyt3,1,14
+ringrubyt2,ringrubyt2,1,6
+ringpearlt5,ringpearlt5,1,246
+ringpearlt4,ringpearlt4,1,57
+ringpearlt3,ringpearlt3,1,12
+ringpearlt2,ringpearlt2,1,6
+ringopalt5,ringopalt5,1,483
+ringopalt4,ringopalt4,1,73
+ringopalt3,ringopalt3,1,14
+ringopalt2,ringopalt2,1,6
+ringonyxt5,ringonyxt5,1,483
+ringonyxt4,ringonyxt4,1,73
+ringonyxt3,ringonyxt3,1,14
+ringonyxt2,ringonyxt2,1,6
+ringmoonstonet5,ringmoonstonet5,1,483
+ringmoonstonet4,ringmoonstonet4,1,73
+ringmoonstonet3,ringmoonstonet3,1,14
+ringmoonstonet2,ringmoonstonet2,1,6
+ringmalachitet5,ringmalachitet5,1,483
+ringmalachitet4,ringmalachitet4,1,73
+ringmalachitet3,ringmalachitet3,1,14
+ringmalachitet2,ringmalachitet2,1,6
+ringjaspert5,ringjaspert5,1,483
+ringjaspert4,ringjaspert4,1,73
+ringjaspert3,ringjaspert3,1,14
+ringjaspert2,ringjaspert2,1,6
+ringemeraldt5,ringemeraldt5,1,483
+ringemeraldt4,ringemeraldt4,1,73
+ringemeraldt3,ringemeraldt3,1,14
+ringemeraldt2,ringemeraldt2,1,6
+ringdiamondt5,ringdiamondt5,1,483
+ringdiamondt4,ringdiamondt4,1,73
+ringdiamondt3,ringdiamondt3,1,14
+ringdiamondt2,ringdiamondt2,1,6
+ringcarneliant5,ringcarneliant5,1,483
+ringcarneliant4,ringcarneliant4,1,73
+ringcarneliant3,ringcarneliant3,1,14
+ringcarneliant2,ringcarneliant2,1,6
+ringaquamarinet5,ringaquamarinet5,1,483
+ringaquamarinet4,ringaquamarinet4,1,73
+ringaquamarinet3,ringaquamarinet3,1,14
+ringaquamarinet2,ringaquamarinet2,1,6
+ringamethystt5,ringamethystt5,1,483
+ringamethystt4,ringamethystt4,1,73
+ringamethystt3,ringamethystt3,1,14
+ringamethystt2,ringamethystt2,1,6
+ringambert5,ringambert5,1,483
+ringambert4,ringambert4,1,73
+ringambert3,ringambert3,1,14
+ringambert2,ringambert2,1,6
+1hswordbt5,1hswordbt5,0,245
+1hswordbt4,1hswordbt4,0,83
+1hswordbt3,1hswordbt3,0,29
+1hswordbt2,1hswordbt2,0,11
+potionregent4,potionregent4,0,248
+potionregent3,potionregent3,0,86
+potionregent2,potionregent2,0,31
+potionregent1,potionregent1,0,13
+potionmanat5,potionmanat5,0,248
+potionmanat4,potionmanat4,0,86
+potionmanat3,potionmanat3,0,31
+potionmanat2,potionmanat2,0,12
+potionmanat1,potionmanat1,0,6
+potionhealtht5,potionhealtht5,0,248
+potionhealtht4,potionhealtht4,0,86
+potionhealtht3,potionhealtht3,0,31
+potionhealtht2,potionhealtht2,0,12
+potionhealtht1,potionhealtht1,0,6
+potionfocust4,potionfocust4,0,248
+potionfocust3,potionfocust3,0,86
+potionfocust2,potionfocust2,0,31
+potionfocust1,potionfocust1,0,12
+potionendurancet3,potionendurancet3,0,248
+potionendurancet2,potionendurancet2,0,86
+potionendurancet1,potionendurancet1,0,31
+potionencumbrancet3,potionencumbrancet3,0,248
+potionencumbrancet2,potionencumbrancet2,0,86
+potionencumbrancet1,potionencumbrancet1,0,31
+potionboostvoidabst5,potionboostvoidabst5,0,248
+potionboostvoidabst4,potionboostvoidabst4,0,86
+potionboostvoidabst3,potionboostvoidabst3,0,31
+potionboostnatureabst5,potionboostnatureabst5,0,248
+potionboostnatureabst4,potionboostnatureabst4,0,86
+potionboostnatureabst3,potionboostnatureabst3,0,31
+potionboostlightningabst5,potionboostlightningabst5,0,248
+potionboostlightningabst4,potionboostlightningabst4,0,86
+potionboostlightningabst3,potionboostlightningabst3,0,31
+potionboostfireabst5,potionboostfireabst5,0,248
+potionboostfireabst4,potionboostfireabst4,0,86
+potionboostfireabst3,potionboostfireabst3,0,31
+potionboostarcaneabst5,potionboostarcaneabst5,0,248
+potionboostarcaneabst4,potionboostarcaneabst4,0,86
+potionboostarcaneabst3,potionboostarcaneabst3,0,31
+heavylegs_platet5,heavylegs_platet5,0,245
+heavylegs_platet4,heavylegs_platet4,0,83
+heavylegs_platet3,heavylegs_platet3,0,29
+heavylegs_platet2,heavylegs_platet2,0,11
+heavyhead_platet5,heavyhead_platet5,0,245
+heavyhead_platet4,heavyhead_platet4,0,83
+heavyhead_platet3,heavyhead_platet3,0,29
+heavyhead_platet2,heavyhead_platet2,0,11
+heavyhands_platet5,heavyhands_platet5,0,245
+heavyhands_platet4,heavyhands_platet4,0,83
+heavyhands_platet3,heavyhands_platet3,0,29
+heavyhands_platet2,heavyhands_platet2,0,11
+heavyfeet_platet5,heavyfeet_platet5,0,245
+heavyfeet_platet4,heavyfeet_platet4,0,83
+heavyfeet_platet3,heavyfeet_platet3,0,29
+heavyfeet_platet2,heavyfeet_platet2,0,11
+heavychest_platet5,heavychest_platet5,0,245
+heavychest_platet4,heavychest_platet4,0,83
+heavychest_platet3,heavychest_platet3,0,29
+heavychest_platet2,heavychest_platet2,0,11
+2hmuskett5,2hmuskett5,0,245
+2hmuskett4,2hmuskett4,0,83
+2hmuskett3,2hmuskett3,0,29
+2hmuskett2,2hmuskett2,0,11
+2hpickt5,2hpickt5,0,245
+2hpickt4,2hpickt4,0,83
+2hpickt3,2hpickt3,0,29
+2hpickt2,2hpickt2,0,11
+foodmanat5,foodmanat5,0,245
+foodmanat4,foodmanat4,0,82
+foodmanat3,foodmanat3,0,28
+foodmanat2,foodmanat2,0,10
+foodmanat1,foodmanat1,0,3
+1hswordt5,1hswordt5,0,245
+1hswordt4,1hswordt4,0,83
+1hswordt3,1hswordt3,0,29
+1hswordt2,1hswordt2,0,11
+2haxet5,2haxet5,0,245
+2haxet4,2haxet4,0,83
+2haxet3,2haxet3,0,29
+2haxet2,2haxet2,0,11
+lightlegs_dresst5,lightlegs_dresst5,0,245
+lightlegs_dresst4,lightlegs_dresst4,0,83
+lightlegs_dresst3,lightlegs_dresst3,0,29
+lightlegs_dresst2,lightlegs_dresst2,0,11
+lighthead_dresst5,lighthead_dresst5,0,245
+lighthead_dresst4,lighthead_dresst4,0,83
+lighthead_dresst3,lighthead_dresst3,0,29
+lighthead_dresst2,lighthead_dresst2,0,11
+lighthands_dresst5,lighthands_dresst5,0,245
+lighthands_dresst4,lighthands_dresst4,0,83
+lighthands_dresst3,lighthands_dresst3,0,29
+lighthands_dresst2,lighthands_dresst2,0,11
+lightfeet_dresst5,lightfeet_dresst5,0,245
+lightfeet_dresst4,lightfeet_dresst4,0,83
+lightfeet_dresst3,lightfeet_dresst3,0,29
+lightfeet_dresst2,lightfeet_dresst2,0,11
+lightchest_dresst5,lightchest_dresst5,0,245
+lightchest_dresst4,lightchest_dresst4,0,83
+lightchest_dresst3,lightchest_dresst3,0,29
+lightchest_dresst2,lightchest_dresst2,0,11
+mediumlegs_leathert5,mediumlegs_leathert5,0,245
+mediumlegs_leathert4,mediumlegs_leathert4,0,83
+mediumlegs_leathert3,mediumlegs_leathert3,0,29
+mediumlegs_leathert2,mediumlegs_leathert2,0,11
+mediumhead_leathert5,mediumhead_leathert5,0,245
+mediumhead_leathert4,mediumhead_leathert4,0,83
+mediumhead_leathert3,mediumhead_leathert3,0,29
+mediumhead_leathert2,mediumhead_leathert2,0,11
+mediumhands_leathert5,mediumhands_leathert5,0,245
+mediumhands_leathert4,mediumhands_leathert4,0,83
+mediumhands_leathert3,mediumhands_leathert3,0,29
+mediumhands_leathert2,mediumhands_leathert2,0,11
+mediumfeet_leathert5,mediumfeet_leathert5,0,245
+mediumfeet_leathert4,mediumfeet_leathert4,0,83
+mediumfeet_leathert3,mediumfeet_leathert3,0,29
+mediumfeet_leathert2,mediumfeet_leathert2,0,11
+mediumchest_leathert5,mediumchest_leathert5,0,245
+mediumchest_leathert4,mediumchest_leathert4,0,83
+mediumchest_leathert3,mediumchest_leathert3,0,29
+mediumchest_leathert2,mediumchest_leathert2,0,11
+heavylegs_heavyt5,heavylegs_heavyt5,0,245
+heavylegs_heavyt4,heavylegs_heavyt4,0,83
+heavylegs_heavyt3,heavylegs_heavyt3,0,29
+heavyhead_heavyt5,heavyhead_heavyt5,0,245
+heavyhead_heavyt4,heavyhead_heavyt4,0,83
+heavyhead_heavyt3,heavyhead_heavyt3,0,29
+heavyhands_heavyt5,heavyhands_heavyt5,0,245
+heavyhands_heavyt4,heavyhands_heavyt4,0,83
+heavyhands_heavyt3,heavyhands_heavyt3,0,29
+heavyfeet_heavyt5,heavyfeet_heavyt5,0,245
+heavyfeet_heavyt4,heavyfeet_heavyt4,0,83
+heavyfeet_heavyt3,heavyfeet_heavyt3,0,29
+heavychest_heavyt5,heavychest_heavyt5,0,245
+heavychest_heavyt4,heavychest_heavyt4,0,83
+heavychest_heavyt3,heavychest_heavyt3,0,29
+foodhealthrecoveryt5,foodhealthrecoveryt5,0,245
+foodhealthrecoveryt4,foodhealthrecoveryt4,0,82
+foodhealthrecoveryt3,foodhealthrecoveryt3,0,28
+foodhealthrecoveryt2,foodhealthrecoveryt2,0,10
+foodhealthrecoveryt1,foodhealthrecoveryt1,0,3
+1hhatchett5,1hhatchett5,0,245
+1hhatchett4,1hhatchett4,0,83
+1hhatchett3,1hhatchett3,0,29
+1hhatchett2,1hhatchett2,0,11
+1helementalgauntlet_icet5,1helementalgauntlet_icet5,0,245
+1helementalgauntlet_icet4,1helementalgauntlet_icet4,0,83
+1helementalgauntlet_icet3,1helementalgauntlet_icet3,0,29
+1helementalgauntlet_icet2,1helementalgauntlet_icet2,0,11
+mediumlegs_furt5,mediumlegs_furt5,0,245
+mediumlegs_furt4,mediumlegs_furt4,0,83
+mediumlegs_furt3,mediumlegs_furt3,0,29
+mediumhead_furt5,mediumhead_furt5,0,245
+mediumhead_furt4,mediumhead_furt4,0,83
+mediumhead_furt3,mediumhead_furt3,0,29
+mediumhands_furt5,mediumhands_furt5,0,245
+mediumhands_furt4,mediumhands_furt4,0,83
+mediumhands_furt3,mediumhands_furt3,0,29
+mediumfeet_furt5,mediumfeet_furt5,0,245
+mediumfeet_furt4,mediumfeet_furt4,0,83
+mediumfeet_furt3,mediumfeet_furt3,0,29
+mediumchest_furt5,mediumchest_furt5,0,245
+mediumchest_furt4,mediumchest_furt4,0,83
+mediumchest_furt3,mediumchest_furt3,0,29
+2hfishingpolet5,2hfishingpolet5,0,245
+2hfishingpolet4,2hfishingpolet4,0,83
+2hfishingpolet3,2hfishingpolet3,0,29
+2hfishingpolet2,2hfishingpolet2,0,11
+earringtopazt5,earringtopazt5,1,483
+earringtopazt4,earringtopazt4,1,73
+earringtopazt3,earringtopazt3,1,14
+earringtopazt2,earringtopazt2,1,6
+earringsapphiret5,earringsapphiret5,1,483
+earringsapphiret4,earringsapphiret4,1,73
+earringsapphiret3,earringsapphiret3,1,14
+earringsapphiret2,earringsapphiret2,1,6
+earringrubyt5,earringrubyt5,1,483
+earringrubyt4,earringrubyt4,1,73
+earringrubyt3,earringrubyt3,1,14
+earringrubyt2,earringrubyt2,1,6
+earringpearlt5,earringpearlt5,1,246
+earringpearlt4,earringpearlt4,1,57
+earringpearlt3,earringpearlt3,1,12
+earringpearlt2,earringpearlt2,1,6
+earringopalt5,earringopalt5,1,483
+earringopalt4,earringopalt4,1,73
+earringopalt3,earringopalt3,1,14
+earringopalt2,earringopalt2,1,6
+earringonyxt5,earringonyxt5,1,483
+earringonyxt4,earringonyxt4,1,73
+earringonyxt3,earringonyxt3,1,14
+earringonyxt2,earringonyxt2,1,6
+earringmoonstonet5,earringmoonstonet5,1,483
+earringmoonstonet4,earringmoonstonet4,1,73
+earringmoonstonet3,earringmoonstonet3,1,14
+earringmoonstonet2,earringmoonstonet2,1,6
+earringmalachitet5,earringmalachitet5,1,483
+earringmalachitet4,earringmalachitet4,1,73
+earringmalachitet3,earringmalachitet3,1,14
+earringmalachitet2,earringmalachitet2,1,6
+earringjaspert5,earringjaspert5,1,483
+earringjaspert4,earringjaspert4,1,73
+earringjaspert3,earringjaspert3,1,14
+earringjaspert2,earringjaspert2,1,6
+earringemeraldt5,earringemeraldt5,1,483
+earringemeraldt4,earringemeraldt4,1,73
+earringemeraldt3,earringemeraldt3,1,14
+earringemeraldt2,earringemeraldt2,1,6
+earringdiamondt5,earringdiamondt5,1,483
+earringdiamondt4,earringdiamondt4,1,73
+earringdiamondt3,earringdiamondt3,1,14
+earringdiamondt2,earringdiamondt2,1,6
+earringcarneliant5,earringcarneliant5,1,483
+earringcarneliant4,earringcarneliant4,1,73
+earringcarneliant3,earringcarneliant3,1,14
+earringcarneliant2,earringcarneliant2,1,6
+earringaquamarinet5,earringaquamarinet5,1,483
+earringaquamarinet4,earringaquamarinet4,1,73
+earringaquamarinet3,earringaquamarinet3,1,14
+earringaquamarinet2,earringaquamarinet2,1,6
+earringamethystt5,earringamethystt5,1,483
+earringamethystt4,earringamethystt4,1,73
+earringamethystt3,earringamethystt3,1,14
+earringamethystt2,earringamethystt2,1,6
+earringambert5,earringambert5,1,483
+earringambert4,earringambert4,1,73
+earringambert3,earringambert3,1,14
+earringambert2,earringambert2,1,6
+coatinglostt5,coatinglostt5,0,248
+coatinglostt4,coatinglostt4,0,86
+coatinglostt3,coatinglostt3,0,31
+coatinglostt2,coatinglostt2,0,13
+coatingcorruptedt5,coatingcorruptedt5,0,248
+coatingcorruptedt4,coatingcorruptedt4,0,86
+coatingcorruptedt3,coatingcorruptedt3,0,31
+coatingcorruptedt2,coatingcorruptedt2,0,13
+coatingbeastt5,coatingbeastt5,0,248
+coatingbeastt4,coatingbeastt4,0,86
+coatingbeastt3,coatingbeastt3,0,31
+coatingbeastt2,coatingbeastt2,0,13
+coatingangryeartht5,coatingangryeartht5,0,248
+coatingangryeartht4,coatingangryeartht4,0,86
+coatingangryeartht3,coatingangryeartht3,0,31
+coatingangryeartht2,coatingangryeartht2,0,13
+coatingancientt5,coatingancientt5,0,248
+coatingancientt4,coatingancientt4,0,86
+coatingancientt3,coatingancientt3,0,31
+coatingancientt2,coatingancientt2,0,13
+lightlegs_clotht5,lightlegs_clotht5,0,245
+lightlegs_clotht4,lightlegs_clotht4,0,83
+lightlegs_clotht3,lightlegs_clotht3,0,29
+lightlegs_clotht2,lightlegs_clotht2,0,11
+lighthead_clotht5,lighthead_clotht5,0,245
+lighthead_clotht4,lighthead_clotht4,0,83
+lighthead_clotht3,lighthead_clotht3,0,29
+lighthead_clotht2,lighthead_clotht2,0,11
+lighthands_clotht5,lighthands_clotht5,0,245
+lighthands_clotht4,lighthands_clotht4,0,83
+lighthands_clotht3,lighthands_clotht3,0,29
+lighthands_clotht2,lighthands_clotht2,0,11
+lightfeet_clotht5,lightfeet_clotht5,0,245
+lightfeet_clotht4,lightfeet_clotht4,0,83
+lightfeet_clotht3,lightfeet_clotht3,0,29
+lightfeet_clotht2,lightfeet_clotht2,0,11
+lightchest_clotht5,lightchest_clotht5,0,245
+lightchest_clotht4,lightchest_clotht4,0,83
+lightchest_clotht3,lightchest_clotht3,0,29
+lightchest_clotht2,lightchest_clotht2,0,11
+2hbowt5,2hbowt5,0,245
+2hbowt4,2hbowt4,0,83
+2hbowt3,2hbowt3,0,29
+2hbowt2,2hbowt2,0,11
+bagat5,bagat5,0,974
+bagat4,bagat4,0,245
+bagat3,bagat3,0,56
+bagat2,bagat2,0,20
+amulettopazt5,amulettopazt5,1,483
+amulettopazt4,amulettopazt4,1,73
+amulettopazt3,amulettopazt3,1,14
+amulettopazt2,amulettopazt2,1,6
+amuletsapphiret5,amuletsapphiret5,1,483
+amuletsapphiret4,amuletsapphiret4,1,73
+amuletsapphiret3,amuletsapphiret3,1,14
+amuletrubyt5,amuletrubyt5,1,483
+amuletrubyt4,amuletrubyt4,1,73
+amuletrubyt3,amuletrubyt3,1,14
+amuletpearlt5,amuletpearlt5,1,246
+amuletpearlt4,amuletpearlt4,1,57
+amuletpearlt3,amuletpearlt3,1,12
+amuletpearlt2,amuletpearlt2,1,6
+amuletopalt5,amuletopalt5,1,483
+amuletopalt4,amuletopalt4,1,73
+amuletopalt3,amuletopalt3,1,14
+amuletonyxt5,amuletonyxt5,1,483
+amuletonyxt4,amuletonyxt4,1,73
+amuletonyxt3,amuletonyxt3,1,14
+amuletmoonstonet5,amuletmoonstonet5,1,483
+amuletmoonstonet4,amuletmoonstonet4,1,73
+amuletmoonstonet3,amuletmoonstonet3,1,14
+amuletmoonstonet2,amuletmoonstonet2,1,6
+amuletmalachitet5,amuletmalachitet5,1,483
+amuletmalachitet4,amuletmalachitet4,1,73
+amuletmalachitet3,amuletmalachitet3,1,14
+amuletmalachitet2,amuletmalachitet2,1,6
+amuletjaspert5,amuletjaspert5,1,483
+amuletjaspert4,amuletjaspert4,1,73
+amuletjaspert3,amuletjaspert3,1,14
+amuletjaspert2,amuletjaspert2,1,6
+amuletemeraldt5,amuletemeraldt5,1,483
+amuletemeraldt4,amuletemeraldt4,1,73
+amuletemeraldt3,amuletemeraldt3,1,14
+amuletemeraldt2,amuletemeraldt2,1,6
+amuletdiamondt5,amuletdiamondt5,1,483
+amuletdiamondt4,amuletdiamondt4,1,73
+amuletdiamondt3,amuletdiamondt3,1,14
+amuletdiamondt2,amuletdiamondt2,1,6
+amuletcarneliant5,amuletcarneliant5,1,483
+amuletcarneliant4,amuletcarneliant4,1,73
+amuletcarneliant3,amuletcarneliant3,1,14
+amuletcarneliant2,amuletcarneliant2,1,6
+amuletaquamarinet5,amuletaquamarinet5,1,483
+amuletaquamarinet4,amuletaquamarinet4,1,73
+amuletaquamarinet3,amuletaquamarinet3,1,14
+amuletamethystt5,amuletamethystt5,1,483
+amuletamethystt4,amuletamethystt4,1,73
+amuletamethystt3,amuletamethystt3,1,14
+amuletamethystt2,amuletamethystt2,1,6
+amuletambert5,amuletambert5,1,483
+amuletambert4,amuletambert4,1,73
+amuletambert3,amuletambert3,1,14
+amuletambert2,amuletambert2,1,6
+2hgreataxet5,2hgreataxet5,0,245
+2hgreataxet4,2hgreataxet4,0,83
+2hgreataxet3,2hgreataxet3,0,29
+2hgreataxet2,2hgreataxet2,0,11
+precisiontoolst5,precisiontoolst5,0,243
+precisiontoolst4,precisiontoolst4,0,81
+precisiontoolst3,precisiontoolst3,0,27
+precisiontoolst2,precisiontoolst2,0,9
+practicedummyt5,practicedummyt5,0,243
+practicedummyt4,practicedummyt4,0,81
+practicedummyt3,practicedummyt3,0,27
+practicedummyt2,practicedummyt2,0,9
+potionfamilywardlostt5,potionfamilywardlostt5,0,248
+potionfamilywardlostt4,potionfamilywardlostt4,0,86
+potionfamilywardlostt3,potionfamilywardlostt3,0,31
+potionfamilywardcorruptedt5,potionfamilywardcorruptedt5,0,248
+potionfamilywardcorruptedt4,potionfamilywardcorruptedt4,0,86
+potionfamilywardcorruptedt3,potionfamilywardcorruptedt3,0,31
+potionfamilywardbeastt5,potionfamilywardbeastt5,0,248
+potionfamilywardbeastt4,potionfamilywardbeastt4,0,86
+potionfamilywardbeastt3,potionfamilywardbeastt3,0,31
+potionfamilywardangryeartht5,potionfamilywardangryeartht5,0,248
+potionfamilywardangryeartht4,potionfamilywardangryeartht4,0,86
+potionfamilywardangryeartht3,potionfamilywardangryeartht3,0,31
+potionfamiliywardancientt5,potionfamiliywardancientt5,0,248
+potionfamiliywardancientt4,potionfamiliywardancientt4,0,86
+potionfamiliywardancientt3,potionfamiliywardancientt3,0,31
+partyspreadt5,partyspreadt5,0,243
+partyspreadt4,partyspreadt4,0,81
+partyspreadt3,partyspreadt3,0,27
+partyspreadt2,partyspreadt2,0,9
+oakfleshbalmt5,oakfleshbalmt5,0,39
+oakfleshbalmt4,oakfleshbalmt4,0,15
+oakfleshbalmt3,oakfleshbalmt3,0,9
+oakfleshbalmt2,oakfleshbalmt2,0,9
+nailst5,nailst5,0,243
+nailst4,nailst4,0,81
+nailst3,nailst3,0,27
+nailst2,nailst2,0,9
+mediumlegs_voidbentt5,mediumlegs_voidbentt5,4,17629
+mediumlegs_syndicaterank5_occultist,mediumlegs_syndicaterank5_occultist,2,488
+mediumlegs_syndicaterank5_cleric,mediumlegs_syndicaterank5_cleric,2,488
+mediumlegs_syndicaterank5_barbarian,mediumlegs_syndicaterank5_barbarian,2,488
+mediumlegs_syndicaterank4_occultist,mediumlegs_syndicaterank4_occultist,3,164
+mediumlegs_syndicaterank4_cleric,mediumlegs_syndicaterank4_cleric,3,164
+mediumlegs_syndicaterank4_barbarian,mediumlegs_syndicaterank4_barbarian,3,164
+mediumlegs_syndicaterank3_occultist,mediumlegs_syndicaterank3_occultist,3,56
+mediumlegs_syndicaterank3_cleric,mediumlegs_syndicaterank3_cleric,3,56
+mediumlegs_syndicaterank3_barbarian,mediumlegs_syndicaterank3_barbarian,3,56
+mediumlegs_syndicaterank2_occultist,mediumlegs_syndicaterank2_occultist,2,20
+mediumlegs_syndicaterank2_cleric,mediumlegs_syndicaterank2_cleric,2,20
+mediumlegs_syndicaterank2_barbarian,mediumlegs_syndicaterank2_barbarian,2,20
+mediumlegs_syndicaterank1_occultist,mediumlegs_syndicaterank1_occultist,1,5
+mediumlegs_syndicaterank1_cleric,mediumlegs_syndicaterank1_cleric,1,5
+mediumlegs_syndicaterank1_barbarian,mediumlegs_syndicaterank1_barbarian,1,5
+mediumlegs_syndicateplaguedoctort5_cleric,mediumlegs_syndicateplaguedoctort5_cleric,3,731
+mediumlegs_syndicateplaguedoctort5_brigand,mediumlegs_syndicateplaguedoctort5_brigand,3,731
+mediumlegs_syndicateplaguedoctort5_barbarian,mediumlegs_syndicateplaguedoctort5_barbarian,3,731
+mediumlegs_shroudedintentpantst5a,mediumlegs_shroudedintentpantst5a,3,12
+mediumlegs_marauderrank5_occultist,mediumlegs_marauderrank5_occultist,3,488
+mediumlegs_marauderrank5_cleric,mediumlegs_marauderrank5_cleric,3,488
+mediumlegs_marauderrank5_barbarian,mediumlegs_marauderrank5_barbarian,3,488
+mediumlegs_marauderrank4_occultist,mediumlegs_marauderrank4_occultist,3,164
+mediumlegs_marauderrank4_cleric,mediumlegs_marauderrank4_cleric,3,164
+mediumlegs_marauderrank4_barbarian,mediumlegs_marauderrank4_barbarian,3,164
+mediumlegs_marauderrank3_occultist,mediumlegs_marauderrank3_occultist,2,56
+mediumlegs_marauderrank3_cleric,mediumlegs_marauderrank3_cleric,2,56
+mediumlegs_marauderrank3_barbarian,mediumlegs_marauderrank3_barbarian,2,56
+mediumlegs_marauderrank2_occultist,mediumlegs_marauderrank2_occultist,2,20
+mediumlegs_marauderrank2_cleric,mediumlegs_marauderrank2_cleric,2,20
+mediumlegs_marauderrank2_barbarian,mediumlegs_marauderrank2_barbarian,2,20
+mediumlegs_marauderrank1_occultist,mediumlegs_marauderrank1_occultist,1,5
+mediumlegs_marauderrank1_cleric,mediumlegs_marauderrank1_cleric,1,5
+mediumlegs_marauderrank1_barbarian,mediumlegs_marauderrank1_barbarian,1,5
+mediumlegs_crafteddungeon7t5,mediumlegs_crafteddungeon7t5,0,248
+mediumlegs_crafteddungeon6t5,mediumlegs_crafteddungeon6t5,0,248
+mediumlegs_crafteddungeon5t4,mediumlegs_crafteddungeon5t4,0,86
+mediumlegs_crafteddungeon4t4,mediumlegs_crafteddungeon4t4,0,86
+mediumlegs_crafteddungeon2t3,mediumlegs_crafteddungeon2t3,0,32
+mediumlegs_crafteddungeon1t3,mediumlegs_crafteddungeon1t3,0,32
+mediumlegs_covenantrank5_occultist,mediumlegs_covenantrank5_occultist,3,488
+mediumlegs_covenantrank5_cleric,mediumlegs_covenantrank5_cleric,3,488
+mediumlegs_covenantrank5_barbarian,mediumlegs_covenantrank5_barbarian,3,488
+mediumlegs_covenantrank4_occultist,mediumlegs_covenantrank4_occultist,3,164
+mediumlegs_covenantrank4_cleric,mediumlegs_covenantrank4_cleric,3,164
+mediumlegs_covenantrank4_barbarian,mediumlegs_covenantrank4_barbarian,3,164
+mediumlegs_covenantrank3_occultist,mediumlegs_covenantrank3_occultist,2,56
+mediumlegs_covenantrank3_cleric,mediumlegs_covenantrank3_cleric,2,56
+mediumlegs_covenantrank3_barbarian,mediumlegs_covenantrank3_barbarian,2,56
+mediumlegs_covenantrank2_occultist,mediumlegs_covenantrank2_occultist,2,20
+mediumlegs_covenantrank2_cleric,mediumlegs_covenantrank2_cleric,2,20
+mediumlegs_covenantrank2_barbarian,mediumlegs_covenantrank2_barbarian,2,20
+mediumlegs_covenantrank1_occultist,mediumlegs_covenantrank1_occultist,1,5
+mediumlegs_covenantrank1_cleric,mediumlegs_covenantrank1_cleric,1,5
+mediumlegs_covenantrank1_barbarian,mediumlegs_covenantrank1_barbarian,1,5
+mediumlegs_beasthuntert5,mediumlegs_beasthuntert5,0,245
+mediumhead_voidbentt5,mediumhead_voidbentt5,4,17629
+mediumhead_syndicaterank5_occultist,mediumhead_syndicaterank5_occultist,3,488
+mediumhead_syndicaterank5_cleric,mediumhead_syndicaterank5_cleric,3,488
+mediumhead_syndicaterank5_barbarian,mediumhead_syndicaterank5_barbarian,3,488
+mediumhead_syndicaterank4_occultist,mediumhead_syndicaterank4_occultist,3,164
+mediumhead_syndicaterank4_cleric,mediumhead_syndicaterank4_cleric,3,164
+mediumhead_syndicaterank4_barbarian,mediumhead_syndicaterank4_barbarian,3,164
+mediumhead_syndicaterank3_occultist,mediumhead_syndicaterank3_occultist,2,56
+mediumhead_syndicaterank3_cleric,mediumhead_syndicaterank3_cleric,2,56
+mediumhead_syndicaterank3_barbarian,mediumhead_syndicaterank3_barbarian,2,56
+mediumhead_syndicaterank2_occultist,mediumhead_syndicaterank2_occultist,2,20
+mediumhead_syndicaterank2_cleric,mediumhead_syndicaterank2_cleric,2,20
+mediumhead_syndicaterank2_barbarian,mediumhead_syndicaterank2_barbarian,2,20
+mediumhead_syndicaterank1_occultist,mediumhead_syndicaterank1_occultist,1,5
+mediumhead_syndicaterank1_cleric,mediumhead_syndicaterank1_cleric,1,5
+mediumhead_syndicaterank1_barbarian,mediumhead_syndicaterank1_barbarian,1,5
+mediumhead_syndicateplaguedoctort5_cleric,mediumhead_syndicateplaguedoctort5_cleric,3,731
+mediumhead_syndicateplaguedoctort5_brigand,mediumhead_syndicateplaguedoctort5_brigand,3,731
+mediumhead_syndicateplaguedoctort5_barbarian,mediumhead_syndicateplaguedoctort5_barbarian,3,731
+mediumhead_shroudedintenthatt5,mediumhead_shroudedintenthatt5,3,4
+mediumhead_marauderrank5_occultist,mediumhead_marauderrank5_occultist,3,488
+mediumhead_marauderrank5_cleric,mediumhead_marauderrank5_cleric,3,488
+mediumhead_marauderrank5_barbarian,mediumhead_marauderrank5_barbarian,3,488
+mediumhead_marauderrank4_occultist,mediumhead_marauderrank4_occultist,3,164
+mediumhead_marauderrank4_cleric,mediumhead_marauderrank4_cleric,3,164
+mediumhead_marauderrank4_barbarian,mediumhead_marauderrank4_barbarian,3,164
+mediumhead_marauderrank3_occultist,mediumhead_marauderrank3_occultist,2,56
+mediumhead_marauderrank3_cleric,mediumhead_marauderrank3_cleric,2,56
+mediumhead_marauderrank3_barbarian,mediumhead_marauderrank3_barbarian,2,56
+mediumhead_marauderrank2_occultist,mediumhead_marauderrank2_occultist,2,20
+mediumhead_marauderrank2_cleric,mediumhead_marauderrank2_cleric,2,20
+mediumhead_marauderrank2_barbarian,mediumhead_marauderrank2_barbarian,2,20
+mediumhead_marauderrank1_occultist,mediumhead_marauderrank1_occultist,1,5
+mediumhead_marauderrank1_cleric,mediumhead_marauderrank1_cleric,1,5
+mediumhead_marauderrank1_barbarian,mediumhead_marauderrank1_barbarian,1,5
+mediumhead_crafteddungeon7t5,mediumhead_crafteddungeon7t5,0,248
+mediumhead_crafteddungeon6t5,mediumhead_crafteddungeon6t5,0,248
+mediumhead_crafteddungeon5t4,mediumhead_crafteddungeon5t4,0,86
+mediumhead_crafteddungeon4t4,mediumhead_crafteddungeon4t4,0,86
+mediumhead_crafteddungeon2t3,mediumhead_crafteddungeon2t3,0,32
+mediumhead_crafteddungeon1t3,mediumhead_crafteddungeon1t3,0,32
+mediumhead_covenantrank5_occultist,mediumhead_covenantrank5_occultist,3,488
+mediumhead_covenantrank5_cleric,mediumhead_covenantrank5_cleric,3,488
+mediumhead_covenantrank5_barbarian,mediumhead_covenantrank5_barbarian,3,488
+mediumhead_covenantrank4_occultist,mediumhead_covenantrank4_occultist,3,164
+mediumhead_covenantrank4_cleric,mediumhead_covenantrank4_cleric,3,164
+mediumhead_covenantrank4_barbarian,mediumhead_covenantrank4_barbarian,3,164
+mediumhead_covenantrank3_occultist,mediumhead_covenantrank3_occultist,2,56
+mediumhead_covenantrank3_cleric,mediumhead_covenantrank3_cleric,2,56
+mediumhead_covenantrank3_barbarian,mediumhead_covenantrank3_barbarian,2,56
+mediumhead_covenantrank2_occultist,mediumhead_covenantrank2_occultist,2,20
+mediumhead_covenantrank2_cleric,mediumhead_covenantrank2_cleric,2,20
+mediumhead_covenantrank2_barbarian,mediumhead_covenantrank2_barbarian,2,20
+mediumhead_covenantrank1_occultist,mediumhead_covenantrank1_occultist,1,5
+mediumhead_covenantrank1_cleric,mediumhead_covenantrank1_cleric,1,5
+mediumhead_covenantrank1_barbarian,mediumhead_covenantrank1_barbarian,1,5
+mediumhead_beasthuntert5,mediumhead_beasthuntert5,0,245
+mediumhands_voidbentt5,mediumhands_voidbentt5,4,17629
+mediumhands_syndicaterank5_occultist,mediumhands_syndicaterank5_occultist,3,488
+mediumhands_syndicaterank5_cleric,mediumhands_syndicaterank5_cleric,3,488
+mediumhands_syndicaterank5_barbarian,mediumhands_syndicaterank5_barbarian,3,488
+mediumhands_syndicaterank4_occultist,mediumhands_syndicaterank4_occultist,3,164
+mediumhands_syndicaterank4_cleric,mediumhands_syndicaterank4_cleric,3,164
+mediumhands_syndicaterank4_barbarian,mediumhands_syndicaterank4_barbarian,3,164
+mediumhands_syndicaterank3_occultist,mediumhands_syndicaterank3_occultist,2,56
+mediumhands_syndicaterank3_cleric,mediumhands_syndicaterank3_cleric,2,56
+mediumhands_syndicaterank3_barbarian,mediumhands_syndicaterank3_barbarian,2,56
+mediumhands_syndicaterank2_occultist,mediumhands_syndicaterank2_occultist,2,20
+mediumhands_syndicaterank2_cleric,mediumhands_syndicaterank2_cleric,2,20
+mediumhands_syndicaterank2_barbarian,mediumhands_syndicaterank2_barbarian,2,20
+mediumhands_syndicaterank1_occultist,mediumhands_syndicaterank1_occultist,1,5
+mediumhands_syndicaterank1_cleric,mediumhands_syndicaterank1_cleric,1,5
+mediumhands_syndicaterank1_barbarian,mediumhands_syndicaterank1_barbarian,1,5
+mediumhands_syndicateplaguedoctort5_cleric,mediumhands_syndicateplaguedoctort5_cleric,3,731
+mediumhands_syndicateplaguedoctort5_brigand,mediumhands_syndicateplaguedoctort5_brigand,3,731
+mediumhands_syndicateplaguedoctort5_barbarian,mediumhands_syndicateplaguedoctort5_barbarian,3,731
+mediumhands_shroudedintentglovest5a,mediumhands_shroudedintentglovest5a,3,12
+mediumhands_marauderrank5_occultist,mediumhands_marauderrank5_occultist,3,488
+mediumhands_marauderrank5_cleric,mediumhands_marauderrank5_cleric,3,488
+mediumhands_marauderrank5_barbarian,mediumhands_marauderrank5_barbarian,3,488
+mediumhands_marauderrank4_occultist,mediumhands_marauderrank4_occultist,3,164
+mediumhands_marauderrank4_cleric,mediumhands_marauderrank4_cleric,3,164
+mediumhands_marauderrank4_barbarian,mediumhands_marauderrank4_barbarian,3,164
+mediumhands_marauderrank3_occultist,mediumhands_marauderrank3_occultist,2,56
+mediumhands_marauderrank3_cleric,mediumhands_marauderrank3_cleric,2,56
+mediumhands_marauderrank3_barbarian,mediumhands_marauderrank3_barbarian,2,56
+mediumhands_marauderrank2_occultist,mediumhands_marauderrank2_occultist,2,20
+mediumhands_marauderrank2_cleric,mediumhands_marauderrank2_cleric,2,20
+mediumhands_marauderrank2_barbarian,mediumhands_marauderrank2_barbarian,2,20
+mediumhands_marauderrank1_occultist,mediumhands_marauderrank1_occultist,1,5
+mediumhands_marauderrank1_cleric,mediumhands_marauderrank1_cleric,1,5
+mediumhands_marauderrank1_barbarian,mediumhands_marauderrank1_barbarian,1,5
+mediumhands_crafteddungeon7t5,mediumhands_crafteddungeon7t5,0,248
+mediumhands_crafteddungeon6t5,mediumhands_crafteddungeon6t5,0,248
+mediumhands_crafteddungeon5t4,mediumhands_crafteddungeon5t4,0,86
+mediumhands_crafteddungeon4t4,mediumhands_crafteddungeon4t4,0,86
+mediumhands_crafteddungeon2t3,mediumhands_crafteddungeon2t3,0,32
+mediumhands_crafteddungeon1t3,mediumhands_crafteddungeon1t3,0,32
+mediumhands_covenantrank5_occultist,mediumhands_covenantrank5_occultist,3,488
+mediumhands_covenantrank5_cleric,mediumhands_covenantrank5_cleric,3,488
+mediumhands_covenantrank5_barbarian,mediumhands_covenantrank5_barbarian,3,488
+mediumhands_covenantrank4_occultist,mediumhands_covenantrank4_occultist,3,164
+mediumhands_covenantrank4_cleric,mediumhands_covenantrank4_cleric,3,164
+mediumhands_covenantrank4_barbarian,mediumhands_covenantrank4_barbarian,3,164
+mediumhands_covenantrank3_occultist,mediumhands_covenantrank3_occultist,2,56
+mediumhands_covenantrank3_cleric,mediumhands_covenantrank3_cleric,2,56
+mediumhands_covenantrank3_barbarian,mediumhands_covenantrank3_barbarian,2,56
+mediumhands_covenantrank2_occultist,mediumhands_covenantrank2_occultist,2,20
+mediumhands_covenantrank2_cleric,mediumhands_covenantrank2_cleric,2,20
+mediumhands_covenantrank2_barbarian,mediumhands_covenantrank2_barbarian,2,20
+mediumhands_covenantrank1_occultist,mediumhands_covenantrank1_occultist,1,5
+mediumhands_covenantrank1_cleric,mediumhands_covenantrank1_cleric,1,5
+mediumhands_covenantrank1_barbarian,mediumhands_covenantrank1_barbarian,1,5
+mediumhands_beasthuntert5,mediumhands_beasthuntert5,0,245
+mediumfeet_voidbentt5,mediumfeet_voidbentt5,4,17629
+mediumfeet_syndicaterank5_occultist,mediumfeet_syndicaterank5_occultist,3,488
+mediumfeet_syndicaterank5_cleric,mediumfeet_syndicaterank5_cleric,3,488
+mediumfeet_syndicaterank5_barbarian,mediumfeet_syndicaterank5_barbarian,3,488
+mediumfeet_syndicaterank4_occultist,mediumfeet_syndicaterank4_occultist,3,164
+mediumfeet_syndicaterank4_cleric,mediumfeet_syndicaterank4_cleric,3,164
+mediumfeet_syndicaterank4_barbarian,mediumfeet_syndicaterank4_barbarian,3,164
+mediumfeet_syndicaterank3_occultist,mediumfeet_syndicaterank3_occultist,2,56
+mediumfeet_syndicaterank3_cleric,mediumfeet_syndicaterank3_cleric,2,56
+mediumfeet_syndicaterank3_barbarian,mediumfeet_syndicaterank3_barbarian,2,56
+mediumfeet_syndicaterank2_occultist,mediumfeet_syndicaterank2_occultist,2,20
+mediumfeet_syndicaterank2_cleric,mediumfeet_syndicaterank2_cleric,2,20
+mediumfeet_syndicaterank2_barbarian,mediumfeet_syndicaterank2_barbarian,2,20
+mediumfeet_syndicaterank1_occultist,mediumfeet_syndicaterank1_occultist,1,5
+mediumfeet_syndicaterank1_cleric,mediumfeet_syndicaterank1_cleric,1,5
+mediumfeet_syndicaterank1_barbarian,mediumfeet_syndicaterank1_barbarian,1,5
+mediumfeet_syndicateplaguedoctort5_cleric,mediumfeet_syndicateplaguedoctort5_cleric,3,731
+mediumfeet_syndicateplaguedoctort5_brigand,mediumfeet_syndicateplaguedoctort5_brigand,3,731
+mediumfeet_syndicateplaguedoctort5_barbarian,mediumfeet_syndicateplaguedoctort5_barbarian,3,731
+mediumfeet_shroudedintentbootst4a,mediumfeet_shroudedintentbootst4a,3,12
+mediumfeet_marauderrank5_occultist,mediumfeet_marauderrank5_occultist,3,488
+mediumfeet_marauderrank5_cleric,mediumfeet_marauderrank5_cleric,3,488
+mediumfeet_marauderrank5_barbarian,mediumfeet_marauderrank5_barbarian,3,488
+mediumfeet_marauderrank4_occultist,mediumfeet_marauderrank4_occultist,3,164
+mediumfeet_marauderrank4_cleric,mediumfeet_marauderrank4_cleric,3,164
+mediumfeet_marauderrank4_barbarian,mediumfeet_marauderrank4_barbarian,3,164
+mediumfeet_marauderrank3_occultist,mediumfeet_marauderrank3_occultist,2,56
+mediumfeet_marauderrank3_cleric,mediumfeet_marauderrank3_cleric,2,56
+mediumfeet_marauderrank3_barbarian,mediumfeet_marauderrank3_barbarian,2,56
+mediumfeet_marauderrank2_occultist,mediumfeet_marauderrank2_occultist,2,20
+mediumfeet_marauderrank2_cleric,mediumfeet_marauderrank2_cleric,2,20
+mediumfeet_marauderrank2_barbarian,mediumfeet_marauderrank2_barbarian,2,20
+mediumfeet_marauderrank1_occultist,mediumfeet_marauderrank1_occultist,1,5
+mediumfeet_marauderrank1_cleric,mediumfeet_marauderrank1_cleric,1,5
+mediumfeet_marauderrank1_barbarian,mediumfeet_marauderrank1_barbarian,1,5
+mediumfeet_crafteddungeon7t5,mediumfeet_crafteddungeon7t5,0,248
+mediumfeet_crafteddungeon6t5,mediumfeet_crafteddungeon6t5,0,248
+mediumfeet_crafteddungeon5t4,mediumfeet_crafteddungeon5t4,0,86
+mediumfeet_crafteddungeon4t4,mediumfeet_crafteddungeon4t4,0,86
+mediumfeet_crafteddungeon2t3,mediumfeet_crafteddungeon2t3,0,32
+mediumfeet_crafteddungeon1t3,mediumfeet_crafteddungeon1t3,0,32
+mediumfeet_covenantrank5_occultist,mediumfeet_covenantrank5_occultist,3,488
+mediumfeet_covenantrank5_cleric,mediumfeet_covenantrank5_cleric,3,488
+mediumfeet_covenantrank5_barbarian,mediumfeet_covenantrank5_barbarian,3,488
+mediumfeet_covenantrank4_occultist,mediumfeet_covenantrank4_occultist,3,164
+mediumfeet_covenantrank4_cleric,mediumfeet_covenantrank4_cleric,3,164
+mediumfeet_covenantrank4_barbarian,mediumfeet_covenantrank4_barbarian,3,164
+mediumfeet_covenantrank3_occultist,mediumfeet_covenantrank3_occultist,2,56
+mediumfeet_covenantrank3_cleric,mediumfeet_covenantrank3_cleric,2,56
+mediumfeet_covenantrank3_barbarian,mediumfeet_covenantrank3_barbarian,2,56
+mediumfeet_covenantrank2_occultist,mediumfeet_covenantrank2_occultist,2,20
+mediumfeet_covenantrank2_cleric,mediumfeet_covenantrank2_cleric,2,20
+mediumfeet_covenantrank2_barbarian,mediumfeet_covenantrank2_barbarian,2,20
+mediumfeet_covenantrank1_occultist,mediumfeet_covenantrank1_occultist,1,5
+mediumfeet_covenantrank1_cleric,mediumfeet_covenantrank1_cleric,1,5
+mediumfeet_covenantrank1_barbarian,mediumfeet_covenantrank1_barbarian,1,5
+mediumfeet_beasthuntert5,mediumfeet_beasthuntert5,0,245
+mediumchest_voidbentt5,mediumchest_voidbentt5,4,17629
+mediumchest_syndicaterank5_occultist,mediumchest_syndicaterank5_occultist,3,488
+mediumchest_syndicaterank5_cleric,mediumchest_syndicaterank5_cleric,3,488
+mediumchest_syndicaterank5_barbarian,mediumchest_syndicaterank5_barbarian,3,488
+mediumchest_syndicaterank4_occultist,mediumchest_syndicaterank4_occultist,3,164
+mediumchest_syndicaterank4_cleric,mediumchest_syndicaterank4_cleric,3,164
+mediumchest_syndicaterank4_barbarian,mediumchest_syndicaterank4_barbarian,3,164
+mediumchest_syndicaterank3_occultist,mediumchest_syndicaterank3_occultist,2,56
+mediumchest_syndicaterank3_cleric,mediumchest_syndicaterank3_cleric,2,56
+mediumchest_syndicaterank3_barbarian,mediumchest_syndicaterank3_barbarian,2,56
+mediumchest_syndicaterank2_occultist,mediumchest_syndicaterank2_occultist,2,20
+mediumchest_syndicaterank2_cleric,mediumchest_syndicaterank2_cleric,2,20
+mediumchest_syndicaterank2_barbarian,mediumchest_syndicaterank2_barbarian,2,20
+mediumchest_syndicaterank1_occultist,mediumchest_syndicaterank1_occultist,1,5
+mediumchest_syndicaterank1_cleric,mediumchest_syndicaterank1_cleric,1,5
+mediumchest_syndicaterank1_barbarian,mediumchest_syndicaterank1_barbarian,1,5
+mediumchest_syndicateplaguedoctort5_cleric,mediumchest_syndicateplaguedoctort5_cleric,3,731
+mediumchest_syndicateplaguedoctort5_brigand,mediumchest_syndicateplaguedoctort5_brigand,3,731
+mediumchest_syndicateplaguedoctort5_barbarian,mediumchest_syndicateplaguedoctort5_barbarian,3,731
+mediumchest_shroudedintentcoatt4a,mediumchest_shroudedintentcoatt4a,3,12
+mediumchest_marauderrank5_occultist,mediumchest_marauderrank5_occultist,3,488
+mediumchest_marauderrank5_cleric,mediumchest_marauderrank5_cleric,3,488
+mediumchest_marauderrank5_barbarian,mediumchest_marauderrank5_barbarian,3,488
+mediumchest_marauderrank4_occultist,mediumchest_marauderrank4_occultist,3,164
+mediumchest_marauderrank4_cleric,mediumchest_marauderrank4_cleric,3,164
+mediumchest_marauderrank4_barbarian,mediumchest_marauderrank4_barbarian,3,164
+mediumchest_marauderrank3_occultist,mediumchest_marauderrank3_occultist,2,56
+mediumchest_marauderrank3_cleric,mediumchest_marauderrank3_cleric,2,56
+mediumchest_marauderrank3_barbarian,mediumchest_marauderrank3_barbarian,2,56
+mediumchest_marauderrank2_occultist,mediumchest_marauderrank2_occultist,2,20
+mediumchest_marauderrank2_cleric,mediumchest_marauderrank2_cleric,2,20
+mediumchest_marauderrank2_barbarian,mediumchest_marauderrank2_barbarian,2,20
+mediumchest_marauderrank1_occultist,mediumchest_marauderrank1_occultist,1,5
+mediumchest_marauderrank1_cleric,mediumchest_marauderrank1_cleric,1,5
+mediumchest_marauderrank1_barbarian,mediumchest_marauderrank1_barbarian,1,5
+mediumchest_crafteddungeon7t5,mediumchest_crafteddungeon7t5,0,248
+mediumchest_crafteddungeon6t5,mediumchest_crafteddungeon6t5,0,248
+mediumchest_crafteddungeon5t4,mediumchest_crafteddungeon5t4,0,86
+mediumchest_crafteddungeon4t4,mediumchest_crafteddungeon4t4,0,86
+mediumchest_crafteddungeon2t3,mediumchest_crafteddungeon2t3,0,32
+mediumchest_crafteddungeon1t3,mediumchest_crafteddungeon1t3,0,32
+mediumchest_covenantrank5_occultist,mediumchest_covenantrank5_occultist,3,488
+mediumchest_covenantrank5_cleric,mediumchest_covenantrank5_cleric,3,488
+mediumchest_covenantrank5_barbarian,mediumchest_covenantrank5_barbarian,3,488
+mediumchest_covenantrank4_occultist,mediumchest_covenantrank4_occultist,3,164
+mediumchest_covenantrank4_cleric,mediumchest_covenantrank4_cleric,3,164
+mediumchest_covenantrank4_barbarian,mediumchest_covenantrank4_barbarian,3,164
+mediumchest_covenantrank3_occultist,mediumchest_covenantrank3_occultist,2,56
+mediumchest_covenantrank3_cleric,mediumchest_covenantrank3_cleric,2,56
+mediumchest_covenantrank3_barbarian,mediumchest_covenantrank3_barbarian,2,56
+mediumchest_covenantrank2_occultist,mediumchest_covenantrank2_occultist,2,20
+mediumchest_covenantrank2_cleric,mediumchest_covenantrank2_cleric,2,20
+mediumchest_covenantrank2_barbarian,mediumchest_covenantrank2_barbarian,2,20
+mediumchest_covenantrank1_occultist,mediumchest_covenantrank1_occultist,1,5
+mediumchest_covenantrank1_cleric,mediumchest_covenantrank1_cleric,1,5
+mediumchest_covenantrank1_barbarian,mediumchest_covenantrank1_barbarian,1,5
+mediumchest_beasthuntert5,mediumchest_beasthuntert5,0,245
+measuringvesselt5,measuringvesselt5,0,243
+measuringvesselt4,measuringvesselt4,0,81
+measuringvesselt3,measuringvesselt3,0,27
+measuringvesselt2,measuringvesselt2,0,9
+lightlegs_voidbentt5,lightlegs_voidbentt5,4,17641
+lightlegs_syndicaterank5_occultist,lightlegs_syndicaterank5_occultist,3,488
+lightlegs_syndicaterank5_cleric,lightlegs_syndicaterank5_cleric,3,488
+lightlegs_syndicaterank5_brigand,lightlegs_syndicaterank5_brigand,3,488
+lightlegs_syndicaterank5_barbarian,lightlegs_syndicaterank5_barbarian,3,488
+lightlegs_syndicaterank4_occultist,lightlegs_syndicaterank4_occultist,3,164
+lightlegs_syndicaterank4_cleric,lightlegs_syndicaterank4_cleric,3,164
+lightlegs_syndicaterank4_brigand,lightlegs_syndicaterank4_brigand,3,164
+lightlegs_syndicaterank4_barbarian,lightlegs_syndicaterank4_barbarian,3,164
+lightlegs_syndicaterank3_occultist,lightlegs_syndicaterank3_occultist,2,56
+lightlegs_syndicaterank3_cleric,lightlegs_syndicaterank3_cleric,2,56
+lightlegs_syndicaterank3_brigand,lightlegs_syndicaterank3_brigand,2,56
+lightlegs_syndicaterank3_barbarian,lightlegs_syndicaterank3_barbarian,2,56
+lightlegs_syndicaterank2_occultist,lightlegs_syndicaterank2_occultist,2,20
+lightlegs_syndicaterank2_cleric,lightlegs_syndicaterank2_cleric,2,20
+lightlegs_syndicaterank2_brigand,lightlegs_syndicaterank2_brigand,2,20
+lightlegs_syndicaterank2_barbarian,lightlegs_syndicaterank2_barbarian,2,20
+lightlegs_syndicaterank1_occultist,lightlegs_syndicaterank1_occultist,1,5
+lightlegs_syndicaterank1_cleric,lightlegs_syndicaterank1_cleric,1,5
+lightlegs_syndicaterank1_brigand,lightlegs_syndicaterank1_brigand,1,5
+lightlegs_syndicaterank1_barbarian,lightlegs_syndicaterank1_barbarian,1,5
+lightlegs_shadewalkert5,lightlegs_shadewalkert5,0,245
+lightlegs_protectivewyrdpantst5a,lightlegs_protectivewyrdpantst5a,3,12
+lightlegs_marauderrank5_occultist,lightlegs_marauderrank5_occultist,3,488
+lightlegs_marauderrank5_cleric,lightlegs_marauderrank5_cleric,3,488
+lightlegs_marauderrank5_brigand,lightlegs_marauderrank5_brigand,3,488
+lightlegs_marauderrank5_barbarian,lightlegs_marauderrank5_barbarian,3,488
+lightlegs_marauderrank4_occultist,lightlegs_marauderrank4_occultist,3,164
+lightlegs_marauderrank4_cleric,lightlegs_marauderrank4_cleric,3,164
+lightlegs_marauderrank4_brigand,lightlegs_marauderrank4_brigand,3,164
+lightlegs_marauderrank4_barbarian,lightlegs_marauderrank4_barbarian,3,164
+lightlegs_marauderrank3_occultist,lightlegs_marauderrank3_occultist,2,56
+lightlegs_marauderrank3_cleric,lightlegs_marauderrank3_cleric,2,56
+lightlegs_marauderrank3_brigand,lightlegs_marauderrank3_brigand,2,56
+lightlegs_marauderrank3_barbarian,lightlegs_marauderrank3_barbarian,2,56
+lightlegs_marauderrank2_occultist,lightlegs_marauderrank2_occultist,2,20
+lightlegs_marauderrank2_cleric,lightlegs_marauderrank2_cleric,2,20
+lightlegs_marauderrank2_brigand,lightlegs_marauderrank2_brigand,2,20
+lightlegs_marauderrank2_barbarian,lightlegs_marauderrank2_barbarian,2,20
+lightlegs_marauderrank1_occultist,lightlegs_marauderrank1_occultist,1,5
+lightlegs_marauderrank1_cleric,lightlegs_marauderrank1_cleric,1,5
+lightlegs_marauderrank1_brigand,lightlegs_marauderrank1_brigand,1,5
+lightlegs_marauderrank1_barbarian,lightlegs_marauderrank1_barbarian,1,5
+lightlegs_crafteddungeon7t5,lightlegs_crafteddungeon7t5,0,248
+lightlegs_crafteddungeon6t5,lightlegs_crafteddungeon6t5,0,248
+lightlegs_crafteddungeon5t4,lightlegs_crafteddungeon5t4,0,86
+lightlegs_crafteddungeon4t4,lightlegs_crafteddungeon4t4,0,86
+lightlegs_crafteddungeon2t3,lightlegs_crafteddungeon2t3,0,32
+lightlegs_crafteddungeon1t3,lightlegs_crafteddungeon1t3,0,32
+lightlegs_covenantrank5_occultist,lightlegs_covenantrank5_occultist,3,488
+lightlegs_covenantrank5_cleric,lightlegs_covenantrank5_cleric,3,488
+lightlegs_covenantrank5_brigand,lightlegs_covenantrank5_brigand,3,488
+lightlegs_covenantrank5_barbarian,lightlegs_covenantrank5_barbarian,3,488
+lightlegs_covenantrank4_occultist,lightlegs_covenantrank4_occultist,3,164
+lightlegs_covenantrank4_cleric,lightlegs_covenantrank4_cleric,3,164
+lightlegs_covenantrank4_brigand,lightlegs_covenantrank4_brigand,3,164
+lightlegs_covenantrank4_barbarian,lightlegs_covenantrank4_barbarian,3,164
+lightlegs_covenantrank3_occultist,lightlegs_covenantrank3_occultist,2,56
+lightlegs_covenantrank3_cleric,lightlegs_covenantrank3_cleric,2,56
+lightlegs_covenantrank3_brigand,lightlegs_covenantrank3_brigand,2,56
+lightlegs_covenantrank3_barbarian,lightlegs_covenantrank3_barbarian,2,56
+lightlegs_covenantrank2_occultist,lightlegs_covenantrank2_occultist,2,20
+lightlegs_covenantrank2_cleric,lightlegs_covenantrank2_cleric,2,20
+lightlegs_covenantrank2_brigand,lightlegs_covenantrank2_brigand,2,20
+lightlegs_covenantrank2_barbarian,lightlegs_covenantrank2_barbarian,2,20
+lightlegs_covenantrank1_occultist,lightlegs_covenantrank1_occultist,1,5
+lightlegs_covenantrank1_cleric,lightlegs_covenantrank1_cleric,1,5
+lightlegs_covenantrank1_brigand,lightlegs_covenantrank1_brigand,1,5
+lightlegs_covenantrank1_barbarian,lightlegs_covenantrank1_barbarian,1,5
+lighthead_voidbentt5,lighthead_voidbentt5,4,17641
+lighthead_syndicaterank5_occultist,lighthead_syndicaterank5_occultist,3,488
+lighthead_syndicaterank5_cleric,lighthead_syndicaterank5_cleric,3,488
+lighthead_syndicaterank5_brigand,lighthead_syndicaterank5_brigand,3,488
+lighthead_syndicaterank5_barbarian,lighthead_syndicaterank5_barbarian,3,488
+lighthead_syndicaterank4_occultist,lighthead_syndicaterank4_occultist,3,164
+lighthead_syndicaterank4_cleric,lighthead_syndicaterank4_cleric,3,164
+lighthead_syndicaterank4_brigand,lighthead_syndicaterank4_brigand,3,164
+lighthead_syndicaterank4_barbarian,lighthead_syndicaterank4_barbarian,3,164
+lighthead_syndicaterank3_occultist,lighthead_syndicaterank3_occultist,2,56
+lighthead_syndicaterank3_cleric,lighthead_syndicaterank3_cleric,2,56
+lighthead_syndicaterank3_brigand,lighthead_syndicaterank3_brigand,2,56
+lighthead_syndicaterank3_barbarian,lighthead_syndicaterank3_barbarian,2,56
+lighthead_syndicaterank2_occultist,lighthead_syndicaterank2_occultist,2,20
+lighthead_syndicaterank2_cleric,lighthead_syndicaterank2_cleric,2,20
+lighthead_syndicaterank2_brigand,lighthead_syndicaterank2_brigand,2,20
+lighthead_syndicaterank2_barbarian,lighthead_syndicaterank2_barbarian,2,20
+lighthead_syndicaterank1_occultist,lighthead_syndicaterank1_occultist,1,5
+lighthead_syndicaterank1_cleric,lighthead_syndicaterank1_cleric,1,5
+lighthead_syndicaterank1_brigand,lighthead_syndicaterank1_brigand,1,5
+lighthead_syndicaterank1_barbarian,lighthead_syndicaterank1_barbarian,1,5
+lighthead_shadewalkert5,lighthead_shadewalkert5,0,245
+lighthead_protectivewyrdhatt5,lighthead_protectivewyrdhatt5,3,4
+lighthead_marauderrank5_occultist,lighthead_marauderrank5_occultist,3,488
+lighthead_marauderrank5_cleric,lighthead_marauderrank5_cleric,3,488
+lighthead_marauderrank5_brigand,lighthead_marauderrank5_brigand,3,488
+lighthead_marauderrank5_barbarian,lighthead_marauderrank5_barbarian,3,488
+lighthead_marauderrank4_occultist,lighthead_marauderrank4_occultist,3,164
+lighthead_marauderrank4_cleric,lighthead_marauderrank4_cleric,3,164
+lighthead_marauderrank4_brigand,lighthead_marauderrank4_brigand,3,164
+lighthead_marauderrank4_barbarian,lighthead_marauderrank4_barbarian,3,164
+lighthead_marauderrank3_occultist,lighthead_marauderrank3_occultist,2,56
+lighthead_marauderrank3_cleric,lighthead_marauderrank3_cleric,2,56
+lighthead_marauderrank3_brigand,lighthead_marauderrank3_brigand,2,56
+lighthead_marauderrank3_barbarian,lighthead_marauderrank3_barbarian,2,56
+lighthead_marauderrank2_occultist,lighthead_marauderrank2_occultist,2,20
+lighthead_marauderrank2_cleric,lighthead_marauderrank2_cleric,2,20
+lighthead_marauderrank2_brigand,lighthead_marauderrank2_brigand,2,20
+lighthead_marauderrank2_barbarian,lighthead_marauderrank2_barbarian,2,20
+lighthead_marauderrank1_occultist,lighthead_marauderrank1_occultist,1,5
+lighthead_marauderrank1_cleric,lighthead_marauderrank1_cleric,1,5
+lighthead_marauderrank1_brigand,lighthead_marauderrank1_brigand,1,5
+lighthead_marauderrank1_barbarian,lighthead_marauderrank1_barbarian,1,5
+lighthead_crafteddungeon7t5,lighthead_crafteddungeon7t5,0,248
+lighthead_crafteddungeon6t5,lighthead_crafteddungeon6t5,0,248
+lighthead_crafteddungeon5t4,lighthead_crafteddungeon5t4,0,86
+lighthead_crafteddungeon4t4,lighthead_crafteddungeon4t4,0,86
+lighthead_crafteddungeon2t3,lighthead_crafteddungeon2t3,0,32
+lighthead_crafteddungeon1t3,lighthead_crafteddungeon1t3,0,32
+lighthead_covenantrank5_occultist,lighthead_covenantrank5_occultist,3,488
+lighthead_covenantrank5_cleric,lighthead_covenantrank5_cleric,3,488
+lighthead_covenantrank5_brigand,lighthead_covenantrank5_brigand,3,488
+lighthead_covenantrank5_barbarian,lighthead_covenantrank5_barbarian,3,488
+lighthead_covenantrank4_occultist,lighthead_covenantrank4_occultist,3,164
+lighthead_covenantrank4_cleric,lighthead_covenantrank4_cleric,3,164
+lighthead_covenantrank4_brigand,lighthead_covenantrank4_brigand,3,164
+lighthead_covenantrank4_barbarian,lighthead_covenantrank4_barbarian,3,164
+lighthead_covenantrank3_occultist,lighthead_covenantrank3_occultist,2,56
+lighthead_covenantrank3_cleric,lighthead_covenantrank3_cleric,2,56
+lighthead_covenantrank3_brigand,lighthead_covenantrank3_brigand,2,56
+lighthead_covenantrank3_barbarian,lighthead_covenantrank3_barbarian,2,56
+lighthead_covenantrank2_occultist,lighthead_covenantrank2_occultist,2,20
+lighthead_covenantrank2_cleric,lighthead_covenantrank2_cleric,2,20
+lighthead_covenantrank2_brigand,lighthead_covenantrank2_brigand,2,20
+lighthead_covenantrank2_barbarian,lighthead_covenantrank2_barbarian,2,20
+lighthead_covenantrank1_occultist,lighthead_covenantrank1_occultist,1,5
+lighthead_covenantrank1_cleric,lighthead_covenantrank1_cleric,1,5
+lighthead_covenantrank1_brigand,lighthead_covenantrank1_brigand,1,5
+lighthead_covenantrank1_barbarian,lighthead_covenantrank1_barbarian,1,5
+lighthands_voidbentt5,lighthands_voidbentt5,4,17641
+lighthands_syndicaterank5_occultist,lighthands_syndicaterank5_occultist,3,488
+lighthands_syndicaterank5_cleric,lighthands_syndicaterank5_cleric,3,488
+lighthands_syndicaterank5_brigand,lighthands_syndicaterank5_brigand,3,488
+lighthands_syndicaterank5_barbarian,lighthands_syndicaterank5_barbarian,3,488
+lighthands_syndicaterank4_occultist,lighthands_syndicaterank4_occultist,3,164
+lighthands_syndicaterank4_cleric,lighthands_syndicaterank4_cleric,3,164
+lighthands_syndicaterank4_brigand,lighthands_syndicaterank4_brigand,3,164
+lighthands_syndicaterank4_barbarian,lighthands_syndicaterank4_barbarian,3,164
+lighthands_syndicaterank3_occultist,lighthands_syndicaterank3_occultist,2,56
+lighthands_syndicaterank3_cleric,lighthands_syndicaterank3_cleric,2,56
+lighthands_syndicaterank3_brigand,lighthands_syndicaterank3_brigand,2,56
+lighthands_syndicaterank3_barbarian,lighthands_syndicaterank3_barbarian,2,56
+lighthands_syndicaterank2_occultist,lighthands_syndicaterank2_occultist,2,20
+lighthands_syndicaterank2_cleric,lighthands_syndicaterank2_cleric,2,20
+lighthands_syndicaterank2_brigand,lighthands_syndicaterank2_brigand,2,20
+lighthands_syndicaterank2_barbarian,lighthands_syndicaterank2_barbarian,2,20
+lighthands_syndicaterank1_occultist,lighthands_syndicaterank1_occultist,1,5
+lighthands_syndicaterank1_cleric,lighthands_syndicaterank1_cleric,1,5
+lighthands_syndicaterank1_brigand,lighthands_syndicaterank1_brigand,1,5
+lighthands_syndicaterank1_barbarian,lighthands_syndicaterank1_barbarian,1,5
+lighthands_shadewalkert5,lighthands_shadewalkert5,0,245
+lighthands_protectivewyrdglovest5a,lighthands_protectivewyrdglovest5a,3,12
+lighthands_marauderrank5_occultist,lighthands_marauderrank5_occultist,3,488
+lighthands_marauderrank5_cleric,lighthands_marauderrank5_cleric,3,488
+lighthands_marauderrank5_brigand,lighthands_marauderrank5_brigand,3,488
+lighthands_marauderrank5_barbarian,lighthands_marauderrank5_barbarian,3,488
+lighthands_marauderrank4_occultist,lighthands_marauderrank4_occultist,3,164
+lighthands_marauderrank4_cleric,lighthands_marauderrank4_cleric,3,164
+lighthands_marauderrank4_brigand,lighthands_marauderrank4_brigand,3,164
+lighthands_marauderrank4_barbarian,lighthands_marauderrank4_barbarian,3,164
+lighthands_marauderrank3_occultist,lighthands_marauderrank3_occultist,2,56
+lighthands_marauderrank3_cleric,lighthands_marauderrank3_cleric,2,56
+lighthands_marauderrank3_brigand,lighthands_marauderrank3_brigand,2,56
+lighthands_marauderrank3_barbarian,lighthands_marauderrank3_barbarian,2,56
+lighthands_marauderrank2_occultist,lighthands_marauderrank2_occultist,2,20
+lighthands_marauderrank2_cleric,lighthands_marauderrank2_cleric,2,20
+lighthands_marauderrank2_brigand,lighthands_marauderrank2_brigand,2,20
+lighthands_marauderrank2_barbarian,lighthands_marauderrank2_barbarian,2,20
+lighthands_marauderrank1_occultist,lighthands_marauderrank1_occultist,1,5
+lighthands_marauderrank1_cleric,lighthands_marauderrank1_cleric,1,5
+lighthands_marauderrank1_brigand,lighthands_marauderrank1_brigand,1,5
+lighthands_marauderrank1_barbarian,lighthands_marauderrank1_barbarian,1,5
+lighthands_crafteddungeon7t5,lighthands_crafteddungeon7t5,0,248
+lighthands_crafteddungeon6t5,lighthands_crafteddungeon6t5,0,248
+lighthands_crafteddungeon5t4,lighthands_crafteddungeon5t4,0,86
+lighthands_crafteddungeon4t4,lighthands_crafteddungeon4t4,0,86
+lighthands_crafteddungeon2t3,lighthands_crafteddungeon2t3,0,32
+lighthands_crafteddungeon1t3,lighthands_crafteddungeon1t3,0,32
+lighthands_covenantrank5_occultist,lighthands_covenantrank5_occultist,3,488
+lighthands_covenantrank5_cleric,lighthands_covenantrank5_cleric,3,488
+lighthands_covenantrank5_brigand,lighthands_covenantrank5_brigand,3,488
+lighthands_covenantrank5_barbarian,lighthands_covenantrank5_barbarian,3,488
+lighthands_covenantrank4_occultist,lighthands_covenantrank4_occultist,3,164
+lighthands_covenantrank4_cleric,lighthands_covenantrank4_cleric,3,164
+lighthands_covenantrank4_brigand,lighthands_covenantrank4_brigand,3,164
+lighthands_covenantrank4_barbarian,lighthands_covenantrank4_barbarian,3,164
+lighthands_covenantrank3_occultist,lighthands_covenantrank3_occultist,2,56
+lighthands_covenantrank3_cleric,lighthands_covenantrank3_cleric,2,56
+lighthands_covenantrank3_brigand,lighthands_covenantrank3_brigand,2,56
+lighthands_covenantrank3_barbarian,lighthands_covenantrank3_barbarian,2,56
+lighthands_covenantrank2_occultist,lighthands_covenantrank2_occultist,2,20
+lighthands_covenantrank2_cleric,lighthands_covenantrank2_cleric,2,20
+lighthands_covenantrank2_brigand,lighthands_covenantrank2_brigand,2,20
+lighthands_covenantrank2_barbarian,lighthands_covenantrank2_barbarian,2,20
+lighthands_covenantrank1_occultist,lighthands_covenantrank1_occultist,1,5
+lighthands_covenantrank1_cleric,lighthands_covenantrank1_cleric,1,5
+lighthands_covenantrank1_brigand,lighthands_covenantrank1_brigand,1,5
+lighthands_covenantrank1_barbarian,lighthands_covenantrank1_barbarian,1,5
+lightfeet_voidbentt5,lightfeet_voidbentt5,4,17641
+lightfeet_syndicaterank5_occultist,lightfeet_syndicaterank5_occultist,3,488
+lightfeet_syndicaterank5_cleric,lightfeet_syndicaterank5_cleric,3,488
+lightfeet_syndicaterank5_brigand,lightfeet_syndicaterank5_brigand,3,488
+lightfeet_syndicaterank5_barbarian,lightfeet_syndicaterank5_barbarian,3,488
+lightfeet_syndicaterank4_occultist,lightfeet_syndicaterank4_occultist,3,164
+lightfeet_syndicaterank4_cleric,lightfeet_syndicaterank4_cleric,3,164
+lightfeet_syndicaterank4_brigand,lightfeet_syndicaterank4_brigand,3,164
+lightfeet_syndicaterank4_barbarian,lightfeet_syndicaterank4_barbarian,3,164
+lightfeet_syndicaterank3_occultist,lightfeet_syndicaterank3_occultist,2,56
+lightfeet_syndicaterank3_cleric,lightfeet_syndicaterank3_cleric,2,56
+lightfeet_syndicaterank3_brigand,lightfeet_syndicaterank3_brigand,2,56
+lightfeet_syndicaterank3_barbarian,lightfeet_syndicaterank3_barbarian,2,56
+lightfeet_syndicaterank2_occultist,lightfeet_syndicaterank2_occultist,2,20
+lightfeet_syndicaterank2_cleric,lightfeet_syndicaterank2_cleric,2,20
+lightfeet_syndicaterank2_brigand,lightfeet_syndicaterank2_brigand,2,20
+lightfeet_syndicaterank2_barbarian,lightfeet_syndicaterank2_barbarian,2,20
+lightfeet_syndicaterank1_occultist,lightfeet_syndicaterank1_occultist,1,5
+lightfeet_syndicaterank1_cleric,lightfeet_syndicaterank1_cleric,1,5
+lightfeet_syndicaterank1_brigand,lightfeet_syndicaterank1_brigand,1,5
+lightfeet_syndicaterank1_barbarian,lightfeet_syndicaterank1_barbarian,1,5
+lightfeet_shadewalkert5,lightfeet_shadewalkert5,0,245
+lightfeet_protectivewyrdshoest4a,lightfeet_protectivewyrdshoest4a,3,12
+lightfeet_marauderrank5_occultist,lightfeet_marauderrank5_occultist,3,488
+lightfeet_marauderrank5_cleric,lightfeet_marauderrank5_cleric,3,488
+lightfeet_marauderrank5_brigand,lightfeet_marauderrank5_brigand,3,488
+lightfeet_marauderrank5_barbarian,lightfeet_marauderrank5_barbarian,3,488
+lightfeet_marauderrank4_occultist,lightfeet_marauderrank4_occultist,3,164
+lightfeet_marauderrank4_cleric,lightfeet_marauderrank4_cleric,3,164
+lightfeet_marauderrank4_brigand,lightfeet_marauderrank4_brigand,3,164
+lightfeet_marauderrank4_barbarian,lightfeet_marauderrank4_barbarian,3,164
+lightfeet_marauderrank3_occultist,lightfeet_marauderrank3_occultist,2,56
+lightfeet_marauderrank3_cleric,lightfeet_marauderrank3_cleric,2,56
+lightfeet_marauderrank3_brigand,lightfeet_marauderrank3_brigand,2,56
+lightfeet_marauderrank3_barbarian,lightfeet_marauderrank3_barbarian,2,56
+lightfeet_marauderrank2_occultist,lightfeet_marauderrank2_occultist,2,20
+lightfeet_marauderrank2_cleric,lightfeet_marauderrank2_cleric,2,20
+lightfeet_marauderrank2_brigand,lightfeet_marauderrank2_brigand,2,20
+lightfeet_marauderrank2_barbarian,lightfeet_marauderrank2_barbarian,2,20
+lightfeet_marauderrank1_occultist,lightfeet_marauderrank1_occultist,1,5
+lightfeet_marauderrank1_cleric,lightfeet_marauderrank1_cleric,1,5
+lightfeet_marauderrank1_brigand,lightfeet_marauderrank1_brigand,1,5
+lightfeet_marauderrank1_barbarian,lightfeet_marauderrank1_barbarian,1,5
+lightfeet_crafteddungeon7t5,lightfeet_crafteddungeon7t5,0,248
+lightfeet_crafteddungeon6t5,lightfeet_crafteddungeon6t5,0,248
+lightfeet_crafteddungeon5t4,lightfeet_crafteddungeon5t4,0,86
+lightfeet_crafteddungeon4t4,lightfeet_crafteddungeon4t4,0,86
+lightfeet_crafteddungeon2t3,lightfeet_crafteddungeon2t3,0,32
+lightfeet_crafteddungeon1t3,lightfeet_crafteddungeon1t3,0,32
+lightfeet_covenantrank5_occultist,lightfeet_covenantrank5_occultist,3,488
+lightfeet_covenantrank5_cleric,lightfeet_covenantrank5_cleric,3,488
+lightfeet_covenantrank5_brigand,lightfeet_covenantrank5_brigand,3,488
+lightfeet_covenantrank5_barbarian,lightfeet_covenantrank5_barbarian,3,488
+lightfeet_covenantrank4_occultist,lightfeet_covenantrank4_occultist,3,164
+lightfeet_covenantrank4_cleric,lightfeet_covenantrank4_cleric,3,164
+lightfeet_covenantrank4_brigand,lightfeet_covenantrank4_brigand,3,164
+lightfeet_covenantrank4_barbarian,lightfeet_covenantrank4_barbarian,3,164
+lightfeet_covenantrank3_occultist,lightfeet_covenantrank3_occultist,2,56
+lightfeet_covenantrank3_cleric,lightfeet_covenantrank3_cleric,2,56
+lightfeet_covenantrank3_brigand,lightfeet_covenantrank3_brigand,2,56
+lightfeet_covenantrank3_barbarian,lightfeet_covenantrank3_barbarian,2,56
+lightfeet_covenantrank2_occultist,lightfeet_covenantrank2_occultist,2,20
+lightfeet_covenantrank2_cleric,lightfeet_covenantrank2_cleric,2,20
+lightfeet_covenantrank2_brigand,lightfeet_covenantrank2_brigand,2,20
+lightfeet_covenantrank2_barbarian,lightfeet_covenantrank2_barbarian,2,20
+lightfeet_covenantrank1_occultist,lightfeet_covenantrank1_occultist,1,5
+lightfeet_covenantrank1_cleric,lightfeet_covenantrank1_cleric,1,5
+lightfeet_covenantrank1_brigand,lightfeet_covenantrank1_brigand,1,5
+lightfeet_covenantrank1_barbarian,lightfeet_covenantrank1_barbarian,1,5
+lightchest_voidbentt5,lightchest_voidbentt5,4,17641
+lightchest_syndicaterank5_occultist,lightchest_syndicaterank5_occultist,3,488
+lightchest_syndicaterank5_cleric,lightchest_syndicaterank5_cleric,3,488
+lightchest_syndicaterank5_brigand,lightchest_syndicaterank5_brigand,3,488
+lightchest_syndicaterank5_barbarian,lightchest_syndicaterank5_barbarian,3,488
+lightchest_syndicaterank4_occultist,lightchest_syndicaterank4_occultist,3,164
+lightchest_syndicaterank4_cleric,lightchest_syndicaterank4_cleric,3,164
+lightchest_syndicaterank4_brigand,lightchest_syndicaterank4_brigand,3,164
+lightchest_syndicaterank4_barbarian,lightchest_syndicaterank4_barbarian,3,164
+lightchest_syndicaterank3_occultist,lightchest_syndicaterank3_occultist,2,56
+lightchest_syndicaterank3_cleric,lightchest_syndicaterank3_cleric,2,56
+lightchest_syndicaterank3_brigand,lightchest_syndicaterank3_brigand,2,56
+lightchest_syndicaterank3_barbarian,lightchest_syndicaterank3_barbarian,2,56
+lightchest_syndicaterank2_occultist,lightchest_syndicaterank2_occultist,2,20
+lightchest_syndicaterank2_cleric,lightchest_syndicaterank2_cleric,2,20
+lightchest_syndicaterank2_brigand,lightchest_syndicaterank2_brigand,2,20
+lightchest_syndicaterank2_barbarian,lightchest_syndicaterank2_barbarian,2,20
+lightchest_syndicaterank1_occultist,lightchest_syndicaterank1_occultist,1,5
+lightchest_syndicaterank1_cleric,lightchest_syndicaterank1_cleric,1,5
+lightchest_syndicaterank1_brigand,lightchest_syndicaterank1_brigand,1,5
+lightchest_syndicaterank1_barbarian,lightchest_syndicaterank1_barbarian,1,5
+lightchest_shadewalkert5,lightchest_shadewalkert5,0,245
+lightchest_protectivewyrdshirtt4a,lightchest_protectivewyrdshirtt4a,3,12
+lightchest_marauderrank5_occultist,lightchest_marauderrank5_occultist,3,488
+lightchest_marauderrank5_cleric,lightchest_marauderrank5_cleric,3,488
+lightchest_marauderrank5_brigand,lightchest_marauderrank5_brigand,3,488
+lightchest_marauderrank5_barbarian,lightchest_marauderrank5_barbarian,3,488
+lightchest_marauderrank4_occultist,lightchest_marauderrank4_occultist,3,164
+lightchest_marauderrank4_cleric,lightchest_marauderrank4_cleric,3,164
+lightchest_marauderrank4_brigand,lightchest_marauderrank4_brigand,3,164
+lightchest_marauderrank4_barbarian,lightchest_marauderrank4_barbarian,3,164
+lightchest_marauderrank3_occultist,lightchest_marauderrank3_occultist,2,56
+lightchest_marauderrank3_cleric,lightchest_marauderrank3_cleric,2,56
+lightchest_marauderrank3_brigand,lightchest_marauderrank3_brigand,2,56
+lightchest_marauderrank3_barbarian,lightchest_marauderrank3_barbarian,2,56
+lightchest_marauderrank2_occultist,lightchest_marauderrank2_occultist,2,20
+lightchest_marauderrank2_cleric,lightchest_marauderrank2_cleric,2,20
+lightchest_marauderrank2_brigand,lightchest_marauderrank2_brigand,2,20
+lightchest_marauderrank2_barbarian,lightchest_marauderrank2_barbarian,2,20
+lightchest_marauderrank1_occultist,lightchest_marauderrank1_occultist,1,5
+lightchest_marauderrank1_cleric,lightchest_marauderrank1_cleric,1,5
+lightchest_marauderrank1_brigand,lightchest_marauderrank1_brigand,1,5
+lightchest_marauderrank1_barbarian,lightchest_marauderrank1_barbarian,1,5
+lightchest_crafteddungeon7t5,lightchest_crafteddungeon7t5,0,248
+lightchest_crafteddungeon6t5,lightchest_crafteddungeon6t5,0,248
+lightchest_crafteddungeon5t4,lightchest_crafteddungeon5t4,0,86
+lightchest_crafteddungeon4t4,lightchest_crafteddungeon4t4,0,86
+lightchest_crafteddungeon2t3,lightchest_crafteddungeon2t3,0,32
+lightchest_crafteddungeon1t3,lightchest_crafteddungeon1t3,0,32
+lightchest_covenantrank5_occultist,lightchest_covenantrank5_occultist,3,488
+lightchest_covenantrank5_cleric,lightchest_covenantrank5_cleric,3,488
+lightchest_covenantrank5_brigand,lightchest_covenantrank5_brigand,3,488
+lightchest_covenantrank5_barbarian,lightchest_covenantrank5_barbarian,3,488
+lightchest_covenantrank4_occultist,lightchest_covenantrank4_occultist,3,164
+lightchest_covenantrank4_cleric,lightchest_covenantrank4_cleric,3,164
+lightchest_covenantrank4_brigand,lightchest_covenantrank4_brigand,3,164
+lightchest_covenantrank4_barbarian,lightchest_covenantrank4_barbarian,3,164
+lightchest_covenantrank3_occultist,lightchest_covenantrank3_occultist,2,56
+lightchest_covenantrank3_cleric,lightchest_covenantrank3_cleric,2,56
+lightchest_covenantrank3_brigand,lightchest_covenantrank3_brigand,2,56
+lightchest_covenantrank3_barbarian,lightchest_covenantrank3_barbarian,2,56
+lightchest_covenantrank2_occultist,lightchest_covenantrank2_occultist,2,20
+lightchest_covenantrank2_cleric,lightchest_covenantrank2_cleric,2,20
+lightchest_covenantrank2_brigand,lightchest_covenantrank2_brigand,2,20
+lightchest_covenantrank2_barbarian,lightchest_covenantrank2_barbarian,2,20
+lightchest_covenantrank1_occultist,lightchest_covenantrank1_occultist,1,5
+lightchest_covenantrank1_cleric,lightchest_covenantrank1_cleric,1,5
+lightchest_covenantrank1_brigand,lightchest_covenantrank1_brigand,1,5
+lightchest_covenantrank1_barbarian,lightchest_covenantrank1_barbarian,1,5
+2hstafflife_hopemanifestt4,2hstafflife_hopemanifestt4,3,5
+intstrbonust4,intstrbonust4,1,921
+intfocbonust4,intfocbonust4,1,921
+intdexbonust4,intdexbonust4,1,921
+intconbonust4,intconbonust4,1,921
+intbonust4,intbonust4,1,921
+incenset5,incenset5,0,345
+incenset4,incenset4,0,101
+incenset3,incenset3,0,19
+incenset2,incenset2,0,73
+house_housingitem_windchimes_post_c,house_housingitem_windchimes_post_c,1,5055
+house_housingitem_targetdummy,house_housingitem_targetdummy,2,17
+house_housingitem_table_settler_table02_d,house_housingitem_table_settler_table02_d,2,5055
+house_housingitem_table_settler_table02_c,house_housingitem_table_settler_table02_c,1,511
+house_housingitem_table_settler_table02_b,house_housingitem_table_settler_table02_b,0,71
+house_housingitem_table_settler_table02_a,house_housingitem_table_settler_table02_a,0,71
+house_housingitem_table_settler_table01_d,house_housingitem_table_settler_table01_d,2,5055
+house_housingitem_table_settler_table01_c,house_housingitem_table_settler_table01_c,1,511
+house_housingitem_table_settler_table01_b,house_housingitem_table_settler_table01_b,0,71
+house_housingitem_table_settler_table01_a,house_housingitem_table_settler_table01_a,0,179
+house_housingitem_table_settler_desk01_d,house_housingitem_table_settler_desk01_d,2,5055
+house_housingitem_table_settler_desk01_c,house_housingitem_table_settler_desk01_c,1,511
+house_housingitem_table_settler_desk01_b,house_housingitem_table_settler_desk01_b,0,71
+house_housingitem_table_settler_desk01_a,house_housingitem_table_settler_desk01_a,0,179
+house_housingitem_table_settler_decor_garden_picnictable01,house_housingitem_table_settler_decor_garden_picnictable01,1,5055
+house_housingitem_table_settler_bedsidetable_d,house_housingitem_table_settler_bedsidetable_d,2,5055
+house_housingitem_table_settler_bedsidetable_c,house_housingitem_table_settler_bedsidetable_c,1,511
+house_housingitem_table_settler_bedsidetable_b,house_housingitem_table_settler_bedsidetable_b,0,71
+house_housingitem_table_settler_bedsidetable_a,house_housingitem_table_settler_bedsidetable_a,0,179
+house_housingitem_table_pirate_table02_d,house_housingitem_table_pirate_table02_d,3,5055
+house_housingitem_table_pirate_table02_c,house_housingitem_table_pirate_table02_c,3,5055
+house_housingitem_table_pirate_table02_b,house_housingitem_table_pirate_table02_b,2,511
+house_housingitem_table_pirate_table02_a,house_housingitem_table_pirate_table02_a,2,511
+house_housingitem_table_pirate_table01_d,house_housingitem_table_pirate_table01_d,3,5055
+house_housingitem_table_pirate_table01_c,house_housingitem_table_pirate_table01_c,3,5055
+house_housingitem_table_pirate_table01_b,house_housingitem_table_pirate_table01_b,2,511
+house_housingitem_table_pirate_table01_a,house_housingitem_table_pirate_table01_a,2,511
+house_housingitem_table_pirate_island01,house_housingitem_table_pirate_island01,1,5055
+house_housingitem_table_pirate_dresser01_d,house_housingitem_table_pirate_dresser01_d,3,5055
+house_housingitem_table_pirate_dresser01_c,house_housingitem_table_pirate_dresser01_c,3,5055
+house_housingitem_table_pirate_dresser01_b,house_housingitem_table_pirate_dresser01_b,2,511
+house_housingitem_table_pirate_dresser01_a,house_housingitem_table_pirate_dresser01_a,2,511
+house_housingitem_table_pirate_desk01_d,house_housingitem_table_pirate_desk01_d,3,5055
+house_housingitem_table_pirate_desk01_c,house_housingitem_table_pirate_desk01_c,3,5055
+house_housingitem_table_pirate_desk01_b,house_housingitem_table_pirate_desk01_b,2,511
+house_housingitem_table_pirate_desk01_a,house_housingitem_table_pirate_desk01_a,2,511
+house_housingitem_table_logtablestump,house_housingitem_table_logtablestump,0,121
+house_housingitem_table_logtable,house_housingitem_table_logtable,0,71
+house_housingitem_table_dintable_lg_a,house_housingitem_table_dintable_lg_a,1,511
+house_housingitem_storage_t4_cheststeel,house_housingitem_storage_t4_cheststeel,3,5784
+house_housingitem_storage_t3_settler,house_housingitem_storage_t3_settler,2,673
+house_housingitem_storage_t2_chestiron,house_housingitem_storage_t2_chestiron,1,98
+house_housingitem_storage_t1_chestoldlog,house_housingitem_storage_t1_chestoldlog,0,188
+house_housingitem_stonefurnace_alchemy,house_housingitem_stonefurnace_alchemy,3,16
+house_housingitem_smallalchemycabinet,house_housingitem_smallalchemycabinet,1,511
+house_housingitem_singleshelf_a,house_housingitem_singleshelf_a,0,179
+house_housingitem_settler_stove01_d,house_housingitem_settler_stove01_d,2,5055
+house_housingitem_settler_stove01_c,house_housingitem_settler_stove01_c,1,511
+house_housingitem_settler_stove01_b,house_housingitem_settler_stove01_b,0,71
+house_housingitem_settler_stove01_a,house_housingitem_settler_stove01_a,0,179
+house_housingitem_settler_shelf01_d,house_housingitem_settler_shelf01_d,2,5055
+house_housingitem_settler_shelf01_c,house_housingitem_settler_shelf01_c,1,511
+house_housingitem_settler_shelf01_b,house_housingitem_settler_shelf01_b,0,71
+house_housingitem_settler_shelf01_a,house_housingitem_settler_shelf01_a,0,179
+house_housingitem_settler_dresser01_d,house_housingitem_settler_dresser01_d,2,5055
+house_housingitem_settler_dresser01_c,house_housingitem_settler_dresser01_c,1,511
+house_housingitem_settler_dresser01_b,house_housingitem_settler_dresser01_b,0,71
+house_housingitem_settler_dresser01_a,house_housingitem_settler_dresser01_a,0,179
+house_housingitem_settler_decor_wall_curtain03_b,house_housingitem_settler_decor_wall_curtain03_b,1,718
+house_housingitem_settler_decor_wall_curtain03_a,house_housingitem_settler_decor_wall_curtain03_a,0,113
+house_housingitem_settler_decor_wall_curtain02_b,house_housingitem_settler_decor_wall_curtain02_b,1,718
+house_housingitem_settler_decor_wall_curtain02_a,house_housingitem_settler_decor_wall_curtain02_a,0,113
+house_housingitem_settler_decor_wall_curtain01_b,house_housingitem_settler_decor_wall_curtain01_b,1,718
+house_housingitem_settler_decor_wall_curtain01_a,house_housingitem_settler_decor_wall_curtain01_a,0,113
+house_housingitem_settler_decor_garden_windchimes02,house_housingitem_settler_decor_garden_windchimes02,1,99
+house_housingitem_settler_decor_garden_windchimes01,house_housingitem_settler_decor_garden_windchimes01,2,71
+house_housingitem_settler_decor_floor_fireplace03,house_housingitem_settler_decor_floor_fireplace03,1,5436
+house_housingitem_settler_decor_floor_fireplace02,house_housingitem_settler_decor_floor_fireplace02,1,5436
+house_housingitem_settler_decor_floor_fireplace01,house_housingitem_settler_decor_floor_fireplace01,1,3
+house_housingitem_settler_cabinet02_d,house_housingitem_settler_cabinet02_d,2,5055
+house_housingitem_settler_cabinet02_c,house_housingitem_settler_cabinet02_c,1,511
+house_housingitem_settler_cabinet02_b,house_housingitem_settler_cabinet02_b,0,71
+house_housingitem_settler_cabinet02_a,house_housingitem_settler_cabinet02_a,0,179
+house_housingitem_settler_cabinet01_d,house_housingitem_settler_cabinet01_d,2,5055
+house_housingitem_settler_cabinet01_c,house_housingitem_settler_cabinet01_c,1,511
+house_housingitem_settler_cabinet01_b,house_housingitem_settler_cabinet01_b,0,71
+house_housingitem_settler_cabinet01_a,house_housingitem_settler_cabinet01_a,0,179
+house_housingitem_settler_bookcase02_d,house_housingitem_settler_bookcase02_d,2,5055
+house_housingitem_settler_bookcase02_c,house_housingitem_settler_bookcase02_c,1,511
+house_housingitem_settler_bookcase02_b,house_housingitem_settler_bookcase02_b,0,71
+house_housingitem_settler_bookcase02_a,house_housingitem_settler_bookcase02_a,0,179
+house_housingitem_settler_bookcase01_d,house_housingitem_settler_bookcase01_d,2,5055
+house_housingitem_settler_bookcase01_c,house_housingitem_settler_bookcase01_c,1,511
+house_housingitem_settler_bookcase01_b,house_housingitem_settler_bookcase01_b,0,71
+house_housingitem_settler_bookcase01_a,house_housingitem_settler_bookcase01_a,0,179
+house_housingitem_settler_armoire01_d,house_housingitem_settler_armoire01_d,2,5055
+house_housingitem_settler_armoire01_c,house_housingitem_settler_armoire01_c,1,511
+house_housingitem_settler_armoire01_b,house_housingitem_settler_armoire01_b,0,71
+house_housingitem_settler_armoire01_a,house_housingitem_settler_armoire01_a,0,179
+house_housingitem_scrollbookcase_lg,house_housingitem_scrollbookcase_lg,1,5055
+house_housingitem_rug_settler_decor_floor_rug03,house_housingitem_rug_settler_decor_floor_rug03,0,517
+house_housingitem_rug_settler_decor_floor_rug02,house_housingitem_rug_settler_decor_floor_rug02,1,191
+house_housingitem_rug_settler_decor_floor_rug01,house_housingitem_rug_settler_decor_floor_rug01,0,111
+house_housingitem_rug_pirate_decor_rug02,house_housingitem_rug_pirate_decor_rug02,2,2082
+house_housingitem_rug_pirate_decor_rug01,house_housingitem_rug_pirate_decor_rug01,1,380
+house_housingitem_rug_bearpelt,house_housingitem_rug_bearpelt,2,149
+house_housingitem_roundbirdcage,house_housingitem_roundbirdcage,1,5055
+house_housingitem_powderhorn,house_housingitem_powderhorn,1,741
+house_housingitem_pirate_stove01_d,house_housingitem_pirate_stove01_d,3,5055
+house_housingitem_pirate_stove01_c,house_housingitem_pirate_stove01_c,3,5055
+house_housingitem_pirate_stove01_b,house_housingitem_pirate_stove01_b,2,511
+house_housingitem_pirate_stove01_a,house_housingitem_pirate_stove01_a,2,511
+house_housingitem_pirate_shelf01_d,house_housingitem_pirate_shelf01_d,3,5055
+house_housingitem_pirate_shelf01_c,house_housingitem_pirate_shelf01_c,3,5055
+house_housingitem_pirate_shelf01_b,house_housingitem_pirate_shelf01_b,2,511
+house_housingitem_pirate_shelf01_a,house_housingitem_pirate_shelf01_a,2,511
+house_housingitem_pirate_decor_curtain03_b,house_housingitem_pirate_decor_curtain03_b,2,718
+house_housingitem_pirate_decor_curtain03_a,house_housingitem_pirate_decor_curtain03_a,1,227
+house_housingitem_pirate_decor_curtain02_b,house_housingitem_pirate_decor_curtain02_b,3,718
+house_housingitem_pirate_decor_curtain02_a,house_housingitem_pirate_decor_curtain02_a,2,227
+house_housingitem_pirate_decor_curtain01_b,house_housingitem_pirate_decor_curtain01_b,3,718
+house_housingitem_pirate_decor_curtain01_a,house_housingitem_pirate_decor_curtain01_a,2,227
+house_housingitem_pirate_cabinet02_d,house_housingitem_pirate_cabinet02_d,3,5055
+house_housingitem_pirate_cabinet02_c,house_housingitem_pirate_cabinet02_c,3,5055
+house_housingitem_pirate_cabinet02_b,house_housingitem_pirate_cabinet02_b,2,511
+house_housingitem_pirate_cabinet02_a,house_housingitem_pirate_cabinet02_a,2,511
+house_housingitem_pirate_cabinet01_d,house_housingitem_pirate_cabinet01_d,3,5055
+house_housingitem_pirate_cabinet01_c,house_housingitem_pirate_cabinet01_c,3,5055
+house_housingitem_pirate_cabinet01_b,house_housingitem_pirate_cabinet01_b,2,511
+house_housingitem_pirate_cabinet01_a,house_housingitem_pirate_cabinet01_a,2,511
+house_housingitem_pirate_bookcase02_d,house_housingitem_pirate_bookcase02_d,3,5055
+house_housingitem_pirate_bookcase02_c,house_housingitem_pirate_bookcase02_c,3,5055
+house_housingitem_pirate_bookcase02_b,house_housingitem_pirate_bookcase02_b,2,511
+house_housingitem_pirate_bookcase02_a,house_housingitem_pirate_bookcase02_a,2,511
+house_housingitem_pirate_bookcase01_d,house_housingitem_pirate_bookcase01_d,3,5055
+house_housingitem_pirate_bookcase01_c,house_housingitem_pirate_bookcase01_c,3,5055
+house_housingitem_pirate_bookcase01_b,house_housingitem_pirate_bookcase01_b,2,511
+house_housingitem_pirate_bookcase01_a,house_housingitem_pirate_bookcase01_a,2,511
+house_housingitem_pirate_bedsidetable_d,house_housingitem_pirate_bedsidetable_d,3,5055
+house_housingitem_pirate_bedsidetable_c,house_housingitem_pirate_bedsidetable_c,3,5055
+house_housingitem_pirate_bedsidetable_b,house_housingitem_pirate_bedsidetable_b,2,511
+house_housingitem_pirate_bedsidetable_a,house_housingitem_pirate_bedsidetable_a,2,511
+house_housingitem_pirate_armoire01_d,house_housingitem_pirate_armoire01_d,3,5055
+house_housingitem_pirate_armoire01_c,house_housingitem_pirate_armoire01_c,3,5055
+house_housingitem_pirate_armoire01_b,house_housingitem_pirate_armoire01_b,2,511
+house_housingitem_pirate_armoire01_a,house_housingitem_pirate_armoire01_a,2,511
+house_housingitem_lighting_settler_lightwall01_a,house_housingitem_lighting_settler_lightwall01_a,1,125
+house_housingitem_lighting_settler_lighttable01_a,house_housingitem_lighting_settler_lighttable01_a,1,64
+house_housingitem_lighting_settler_lighthanging01_a,house_housingitem_lighting_settler_lighthanging01_a,1,64
+house_housingitem_lighting_pirate_lightwall01_a,house_housingitem_lighting_pirate_lightwall01_a,1,339
+house_housingitem_lighting_pirate_lighttable01_a,house_housingitem_lighting_pirate_lighttable01_a,1,339
+house_housingitem_lighting_pirate_lightceiling01_a,house_housingitem_lighting_pirate_lightceiling01_a,1,339
+house_housingitem_lighting_pirate_decor_skullcandle01,house_housingitem_lighting_pirate_decor_skullcandle01,2,16
+house_housingitem_lighting_lantern_c,house_housingitem_lighting_lantern_c,1,64
+house_housingitem_lighting_candleholder_a,house_housingitem_lighting_candleholder_a,1,342
+house_housingitem_hw_placesetting,house_housingitem_hw_placesetting,0,176
+house_housingitem_chair_stoolb_t2,house_housingitem_chair_stoolb_t2,1,179
+house_housingitem_chair_settler_stool_d,house_housingitem_chair_settler_stool_d,2,5055
+house_housingitem_chair_settler_stool_c,house_housingitem_chair_settler_stool_c,1,511
+house_housingitem_chair_settler_stool_b,house_housingitem_chair_settler_stool_b,0,71
+house_housingitem_chair_settler_stool_a,house_housingitem_chair_settler_stool_a,0,179
+house_housingitem_chair_settler_chair02_d,house_housingitem_chair_settler_chair02_d,2,5055
+house_housingitem_chair_settler_chair02_c,house_housingitem_chair_settler_chair02_c,1,511
+house_housingitem_chair_settler_chair02_b,house_housingitem_chair_settler_chair02_b,0,71
+house_housingitem_chair_settler_chair02_a,house_housingitem_chair_settler_chair02_a,0,71
+house_housingitem_chair_settler_chair01_d,house_housingitem_chair_settler_chair01_d,2,5055
+house_housingitem_chair_settler_chair01_c,house_housingitem_chair_settler_chair01_c,1,511
+house_housingitem_chair_settler_chair01_b,house_housingitem_chair_settler_chair01_b,0,71
+house_housingitem_chair_settler_chair01_a,house_housingitem_chair_settler_chair01_a,0,179
+house_housingitem_chair_pirate_stool_d,house_housingitem_chair_pirate_stool_d,3,5055
+house_housingitem_chair_pirate_stool_c,house_housingitem_chair_pirate_stool_c,3,5055
+house_housingitem_chair_pirate_stool_b,house_housingitem_chair_pirate_stool_b,2,511
+house_housingitem_chair_pirate_stool_a,house_housingitem_chair_pirate_stool_a,2,511
+house_housingitem_chair_pirate_chair02_d,house_housingitem_chair_pirate_chair02_d,3,5055
+house_housingitem_chair_pirate_chair02_c,house_housingitem_chair_pirate_chair02_c,3,5055
+house_housingitem_chair_pirate_chair02_b,house_housingitem_chair_pirate_chair02_b,2,511
+house_housingitem_chair_pirate_chair02_a,house_housingitem_chair_pirate_chair02_a,2,511
+house_housingitem_chair_pirate_chair01_d,house_housingitem_chair_pirate_chair01_d,3,5055
+house_housingitem_chair_pirate_chair01_c,house_housingitem_chair_pirate_chair01_c,3,5055
+house_housingitem_chair_pirate_chair01_b,house_housingitem_chair_pirate_chair01_b,2,511
+house_housingitem_chair_pirate_chair01_a,house_housingitem_chair_pirate_chair01_a,2,511
+house_housingitem_chair_lg_a,house_housingitem_chair_lg_a,1,5055
+house_housingitem_chair_finechair_b,house_housingitem_chair_finechair_b,0,5055
+house_housingitem_chair_finechair_a,house_housingitem_chair_finechair_a,0,511
+house_housingitem_cairn_d,house_housingitem_cairn_d,0,8
+house_housingitem_buff_skinning_bonus_t3,house_housingitem_buff_skinning_bonus_t3,3,6255
+house_housingitem_buff_outfitting_bonus_t3,house_housingitem_buff_outfitting_bonus_t3,3,6255
+house_housingitem_buff_mining_bonus_t3,house_housingitem_buff_mining_bonus_t3,3,6255
+house_housingitem_buff_luck_bonus_t3,house_housingitem_buff_luck_bonus_t3,4,7116
+house_housingitem_buff_logging_bonus_t3,house_housingitem_buff_logging_bonus_t3,3,6255
+house_housingitem_buff_harvesting_bonus_t3,house_housingitem_buff_harvesting_bonus_t3,3,6255
+house_housingitem_buff_fishing_bonus_t3,house_housingitem_buff_fishing_bonus_t3,3,6396
+house_housingitem_buff_engineering_bonus_t3,house_housingitem_buff_engineering_bonus_t3,3,6255
+house_housingitem_buff_damage_vs_lost_t3,house_housingitem_buff_damage_vs_lost_t3,3,6255
+house_housingitem_buff_damage_vs_corrupted_t3,house_housingitem_buff_damage_vs_corrupted_t3,3,6255
+house_housingitem_buff_damage_vs_beasts_t3,house_housingitem_buff_damage_vs_beasts_t3,3,6255
+house_housingitem_buff_damage_vs_angryearth_t3,house_housingitem_buff_damage_vs_angryearth_t3,3,6255
+house_housingitem_buff_damage_vs_ancients_t3,house_housingitem_buff_damage_vs_ancients_t3,3,6255
+house_housingitem_buff_cooking_bonus_t3,house_housingitem_buff_cooking_bonus_t3,3,6255
+house_housingitem_buff_blacksmithing_bonus_t3,house_housingitem_buff_blacksmithing_bonus_t3,3,6255
+house_housingitem_buff_alchemy_bonus_t3,house_housingitem_buff_alchemy_bonus_t3,3,6255
+house_housingitem_bed_single_t2,house_housingitem_bed_single_t2,0,71
+house_housingitem_bed_settler_decor_floor_dogbed01,house_housingitem_bed_settler_decor_floor_dogbed01,3,241
+house_housingitem_bed_settler_bed02_d,house_housingitem_bed_settler_bed02_d,2,5055
+house_housingitem_bed_settler_bed02_c,house_housingitem_bed_settler_bed02_c,1,511
+house_housingitem_bed_settler_bed02_b,house_housingitem_bed_settler_bed02_b,0,71
+house_housingitem_bed_settler_bed02_a,house_housingitem_bed_settler_bed02_a,0,179
+house_housingitem_bed_settler_bed01_d,house_housingitem_bed_settler_bed01_d,2,5055
+house_housingitem_bed_settler_bed01_c,house_housingitem_bed_settler_bed01_c,1,511
+house_housingitem_bed_settler_bed01_b,house_housingitem_bed_settler_bed01_b,0,125
+house_housingitem_bed_settler_bed01_a,house_housingitem_bed_settler_bed01_a,0,179
+house_housingitem_bed_pirate_bed02_a,house_housingitem_bed_pirate_bed02_a,1,5055
+house_housingitem_bed_pirate_bed01_d,house_housingitem_bed_pirate_bed01_d,2,5055
+house_housingitem_bed_pirate_bed01_c,house_housingitem_bed_pirate_bed01_c,2,5055
+house_housingitem_bed_pirate_bed01_b,house_housingitem_bed_pirate_bed01_b,1,511
+house_housingitem_bed_pirate_bed01_a,house_housingitem_bed_pirate_bed01_a,1,511
+house_housingitem_bed_cot_t1_a,house_housingitem_bed_cot_t1_a,0,114
+house_housingitem_bed_bunk_t2,house_housingitem_bed_bunk_t2,0,676
+house_housingitem_basket_a,house_housingitem_basket_a,0,60
+house_housingitem_appr_winecask_indoor,house_housingitem_appr_winecask_indoor,1,511
+house_housingitem_alchemist_cabinet_c,house_housingitem_alchemist_cabinet_c,0,71
+house_housingitem_alchemist_cabinet_a,house_housingitem_alchemist_cabinet_a,0,179
+honingstonet5,honingstonet5,0,204
+honingstonet4,honingstonet4,0,95
+honingstonet3,honingstonet3,0,7
+honingstonet2,honingstonet2,0,61
+hingest5,hingest5,0,243
+hingest4,hingest4,0,81
+hingest3,hingest3,0,27
+hingest2,hingest2,0,9
+heavylegs_voidbentt5,heavylegs_voidbentt5,4,16912
+heavylegs_syndicaterank5_occultist,heavylegs_syndicaterank5_occultist,3,488
+heavylegs_syndicaterank5_cleric,heavylegs_syndicaterank5_cleric,3,488
+heavylegs_syndicaterank5_brigand,heavylegs_syndicaterank5_brigand,3,488
+heavylegs_syndicaterank4_occultist,heavylegs_syndicaterank4_occultist,3,164
+heavylegs_syndicaterank4_cleric,heavylegs_syndicaterank4_cleric,3,164
+heavylegs_syndicaterank4_brigand,heavylegs_syndicaterank4_brigand,3,164
+heavylegs_syndicaterank3_occultist,heavylegs_syndicaterank3_occultist,2,56
+heavylegs_syndicaterank3_cleric,heavylegs_syndicaterank3_cleric,2,56
+heavylegs_syndicaterank3_brigand,heavylegs_syndicaterank3_brigand,2,56
+heavylegs_syndicaterank2_occultist,heavylegs_syndicaterank2_occultist,2,20
+heavylegs_syndicaterank2_cleric,heavylegs_syndicaterank2_cleric,2,20
+heavylegs_syndicaterank2_brigand,heavylegs_syndicaterank2_brigand,2,20
+heavylegs_syndicaterank1_occultist,heavylegs_syndicaterank1_occultist,1,5
+heavylegs_syndicaterank1_cleric,heavylegs_syndicaterank1_cleric,1,5
+heavylegs_syndicaterank1_brigand,heavylegs_syndicaterank1_brigand,1,5
+heavylegs_marauderrank5_occultist,heavylegs_marauderrank5_occultist,3,488
+heavylegs_marauderrank5_cleric,heavylegs_marauderrank5_cleric,3,488
+heavylegs_marauderrank5_brigand,heavylegs_marauderrank5_brigand,3,488
+heavylegs_marauderrank4_occultist,heavylegs_marauderrank4_occultist,3,164
+heavylegs_marauderrank4_cleric,heavylegs_marauderrank4_cleric,3,164
+heavylegs_marauderrank4_brigand,heavylegs_marauderrank4_brigand,3,164
+heavylegs_marauderrank3_occultist,heavylegs_marauderrank3_occultist,2,56
+heavylegs_marauderrank3_cleric,heavylegs_marauderrank3_cleric,2,56
+heavylegs_marauderrank3_brigand,heavylegs_marauderrank3_brigand,2,56
+heavylegs_marauderrank2_occultist,heavylegs_marauderrank2_occultist,2,20
+heavylegs_marauderrank2_cleric,heavylegs_marauderrank2_cleric,2,20
+heavylegs_marauderrank2_brigand,heavylegs_marauderrank2_brigand,2,20
+heavylegs_marauderrank1_occultist,heavylegs_marauderrank1_occultist,1,5
+heavylegs_marauderrank1_cleric,heavylegs_marauderrank1_cleric,1,5
+heavylegs_marauderrank1_brigand,heavylegs_marauderrank1_brigand,1,5
+heavylegs_marauderlegatust5_occultist,heavylegs_marauderlegatust5_occultist,3,731
+heavylegs_marauderlegatust5_cleric,heavylegs_marauderlegatust5_cleric,3,731
+heavylegs_marauderlegatust5_brigand,heavylegs_marauderlegatust5_brigand,3,731
+heavylegs_furlinedt5,heavylegs_furlinedt5,0,245
+heavylegs_crafteddungeon7t5,heavylegs_crafteddungeon7t5,0,248
+heavylegs_crafteddungeon6t5,heavylegs_crafteddungeon6t5,0,248
+heavylegs_crafteddungeon5t4,heavylegs_crafteddungeon5t4,0,86
+heavylegs_crafteddungeon4t4,heavylegs_crafteddungeon4t4,0,86
+heavylegs_crafteddungeon2t3,heavylegs_crafteddungeon2t3,0,32
+heavylegs_crafteddungeon1t3,heavylegs_crafteddungeon1t3,0,32
+heavylegs_covenantrank5_occultist,heavylegs_covenantrank5_occultist,3,488
+heavylegs_covenantrank5_cleric,heavylegs_covenantrank5_cleric,3,488
+heavylegs_covenantrank5_brigand,heavylegs_covenantrank5_brigand,3,488
+heavylegs_covenantrank4_occultist,heavylegs_covenantrank4_occultist,3,164
+heavylegs_covenantrank4_cleric,heavylegs_covenantrank4_cleric,3,164
+heavylegs_covenantrank4_brigand,heavylegs_covenantrank4_brigand,3,164
+heavylegs_covenantrank3_occultist,heavylegs_covenantrank3_occultist,2,56
+heavylegs_covenantrank3_cleric,heavylegs_covenantrank3_cleric,2,56
+heavylegs_covenantrank3_brigand,heavylegs_covenantrank3_brigand,2,56
+heavylegs_covenantrank2_occultist,heavylegs_covenantrank2_occultist,2,20
+heavylegs_covenantrank2_cleric,heavylegs_covenantrank2_cleric,2,20
+heavylegs_covenantrank2_brigand,heavylegs_covenantrank2_brigand,2,20
+heavylegs_covenantrank1_occultist,heavylegs_covenantrank1_occultist,1,5
+heavylegs_covenantrank1_cleric,heavylegs_covenantrank1_cleric,1,5
+heavylegs_covenantrank1_brigand,heavylegs_covenantrank1_brigand,1,5
+heavylegs_covenantinquisitort5_occultist,heavylegs_covenantinquisitort5_occultist,3,731
+heavylegs_covenantinquisitort5_brigand,heavylegs_covenantinquisitort5_brigand,3,731
+heavylegs_covenantinquisitort5_barbarian,heavylegs_covenantinquisitort5_barbarian,3,731
+heavylegs_battlesembracegreavest5a,heavylegs_battlesembracegreavest5a,3,12
+heavyhead_voidbentt5,heavyhead_voidbentt5,4,16912
+heavyhead_syndicaterank5_occultist,heavyhead_syndicaterank5_occultist,3,488
+heavyhead_syndicaterank5_cleric,heavyhead_syndicaterank5_cleric,3,488
+heavyhead_syndicaterank5_brigand,heavyhead_syndicaterank5_brigand,3,488
+heavyhead_syndicaterank4_occultist,heavyhead_syndicaterank4_occultist,3,164
+heavyhead_syndicaterank4_cleric,heavyhead_syndicaterank4_cleric,3,164
+heavyhead_syndicaterank4_brigand,heavyhead_syndicaterank4_brigand,3,164
+heavyhead_syndicaterank3_occultist,heavyhead_syndicaterank3_occultist,2,56
+heavyhead_syndicaterank3_cleric,heavyhead_syndicaterank3_cleric,2,56
+heavyhead_syndicaterank3_brigand,heavyhead_syndicaterank3_brigand,2,56
+heavyhead_syndicaterank2_occultist,heavyhead_syndicaterank2_occultist,2,20
+heavyhead_syndicaterank2_cleric,heavyhead_syndicaterank2_cleric,2,20
+heavyhead_syndicaterank2_brigand,heavyhead_syndicaterank2_brigand,2,20
+heavyhead_syndicaterank1_occultist,heavyhead_syndicaterank1_occultist,1,5
+heavyhead_syndicaterank1_cleric,heavyhead_syndicaterank1_cleric,1,5
+heavyhead_syndicaterank1_brigand,heavyhead_syndicaterank1_brigand,1,5
+heavyhead_marauderrank5_occultist,heavyhead_marauderrank5_occultist,3,488
+heavyhead_marauderrank5_cleric,heavyhead_marauderrank5_cleric,3,488
+heavyhead_marauderrank5_brigand,heavyhead_marauderrank5_brigand,3,488
+heavyhead_marauderrank4_occultist,heavyhead_marauderrank4_occultist,3,164
+heavyhead_marauderrank4_cleric,heavyhead_marauderrank4_cleric,3,164
+heavyhead_marauderrank4_brigand,heavyhead_marauderrank4_brigand,3,164
+heavyhead_marauderrank3_occultist,heavyhead_marauderrank3_occultist,2,56
+heavyhead_marauderrank3_cleric,heavyhead_marauderrank3_cleric,2,56
+heavyhead_marauderrank3_brigand,heavyhead_marauderrank3_brigand,2,56
+heavyhead_marauderrank2_occultist,heavyhead_marauderrank2_occultist,2,20
+heavyhead_marauderrank2_cleric,heavyhead_marauderrank2_cleric,2,20
+heavyhead_marauderrank2_brigand,heavyhead_marauderrank2_brigand,2,20
+heavyhead_marauderrank1_occultist,heavyhead_marauderrank1_occultist,1,5
+heavyhead_marauderrank1_cleric,heavyhead_marauderrank1_cleric,1,5
+heavyhead_marauderrank1_brigand,heavyhead_marauderrank1_brigand,1,5
+heavyhead_marauderlegatust5_occultist,heavyhead_marauderlegatust5_occultist,3,731
+heavyhead_marauderlegatust5_cleric,heavyhead_marauderlegatust5_cleric,3,731
+heavyhead_marauderlegatust5_brigand,heavyhead_marauderlegatust5_brigand,3,731
+heavyhead_furlinedt5,heavyhead_furlinedt5,0,245
+heavyhead_crafteddungeon7t5,heavyhead_crafteddungeon7t5,0,248
+heavyhead_crafteddungeon6t5,heavyhead_crafteddungeon6t5,0,248
+heavyhead_crafteddungeon5t4,heavyhead_crafteddungeon5t4,0,86
+heavyhead_crafteddungeon4t4,heavyhead_crafteddungeon4t4,0,86
+heavyhead_crafteddungeon2t3,heavyhead_crafteddungeon2t3,0,32
+heavyhead_crafteddungeon1t3,heavyhead_crafteddungeon1t3,0,32
+heavyhead_covenantrank5_occultist,heavyhead_covenantrank5_occultist,3,488
+heavyhead_covenantrank5_cleric,heavyhead_covenantrank5_cleric,3,488
+heavyhead_covenantrank5_brigand,heavyhead_covenantrank5_brigand,3,488
+heavyhead_covenantrank4_occultist,heavyhead_covenantrank4_occultist,3,164
+heavyhead_covenantrank4_cleric,heavyhead_covenantrank4_cleric,3,164
+heavyhead_covenantrank4_brigand,heavyhead_covenantrank4_brigand,3,164
+heavyhead_covenantrank3_occultist,heavyhead_covenantrank3_occultist,2,56
+heavyhead_covenantrank3_cleric,heavyhead_covenantrank3_cleric,2,56
+heavyhead_covenantrank3_brigand,heavyhead_covenantrank3_brigand,2,56
+heavyhead_covenantrank2_occultist,heavyhead_covenantrank2_occultist,2,20
+heavyhead_covenantrank2_cleric,heavyhead_covenantrank2_cleric,2,20
+heavyhead_covenantrank2_brigand,heavyhead_covenantrank2_brigand,2,20
+heavyhead_covenantrank1_occultist,heavyhead_covenantrank1_occultist,1,5
+heavyhead_covenantrank1_cleric,heavyhead_covenantrank1_cleric,1,5
+heavyhead_covenantrank1_brigand,heavyhead_covenantrank1_brigand,1,5
+heavyhead_covenantinquisitort5_occultist,heavyhead_covenantinquisitort5_occultist,3,731
+heavyhead_covenantinquisitort5_brigand,heavyhead_covenantinquisitort5_brigand,3,731
+heavyhead_covenantinquisitort5_barbarian,heavyhead_covenantinquisitort5_barbarian,3,731
+heavyhead_battlesembracehelmt5,heavyhead_battlesembracehelmt5,3,4
+heavyhands_voidbentt5,heavyhands_voidbentt5,4,16912
+heavyhands_syndicaterank5_occultist,heavyhands_syndicaterank5_occultist,3,488
+heavyhands_syndicaterank5_cleric,heavyhands_syndicaterank5_cleric,3,488
+heavyhands_syndicaterank5_brigand,heavyhands_syndicaterank5_brigand,3,488
+heavyhands_syndicaterank4_occultist,heavyhands_syndicaterank4_occultist,3,164
+heavyhands_syndicaterank4_cleric,heavyhands_syndicaterank4_cleric,3,164
+heavyhands_syndicaterank4_brigand,heavyhands_syndicaterank4_brigand,3,164
+heavyhands_syndicaterank3_occultist,heavyhands_syndicaterank3_occultist,2,56
+heavyhands_syndicaterank3_cleric,heavyhands_syndicaterank3_cleric,2,56
+heavyhands_syndicaterank3_brigand,heavyhands_syndicaterank3_brigand,2,56
+heavyhands_syndicaterank2_occultist,heavyhands_syndicaterank2_occultist,2,20
+heavyhands_syndicaterank2_cleric,heavyhands_syndicaterank2_cleric,2,20
+heavyhands_syndicaterank2_brigand,heavyhands_syndicaterank2_brigand,2,20
+heavyhands_syndicaterank1_occultist,heavyhands_syndicaterank1_occultist,1,5
+heavyhands_syndicaterank1_cleric,heavyhands_syndicaterank1_cleric,1,5
+heavyhands_syndicaterank1_brigand,heavyhands_syndicaterank1_brigand,1,5
+heavyhands_marauderrank5_occultist,heavyhands_marauderrank5_occultist,3,488
+heavyhands_marauderrank5_cleric,heavyhands_marauderrank5_cleric,3,488
+heavyhands_marauderrank5_brigand,heavyhands_marauderrank5_brigand,3,488
+heavyhands_marauderrank4_occultist,heavyhands_marauderrank4_occultist,3,164
+heavyhands_marauderrank4_cleric,heavyhands_marauderrank4_cleric,3,164
+heavyhands_marauderrank4_brigand,heavyhands_marauderrank4_brigand,3,164
+heavyhands_marauderrank3_occultist,heavyhands_marauderrank3_occultist,2,56
+heavyhands_marauderrank3_cleric,heavyhands_marauderrank3_cleric,2,56
+heavyhands_marauderrank3_brigand,heavyhands_marauderrank3_brigand,2,56
+heavyhands_marauderrank2_occultist,heavyhands_marauderrank2_occultist,2,20
+heavyhands_marauderrank2_cleric,heavyhands_marauderrank2_cleric,2,20
+heavyhands_marauderrank2_brigand,heavyhands_marauderrank2_brigand,2,20
+heavyhands_marauderrank1_occultist,heavyhands_marauderrank1_occultist,1,5
+heavyhands_marauderrank1_cleric,heavyhands_marauderrank1_cleric,1,5
+heavyhands_marauderrank1_brigand,heavyhands_marauderrank1_brigand,1,5
+heavyhands_marauderlegatust5_occultist,heavyhands_marauderlegatust5_occultist,3,731
+heavyhands_marauderlegatust5_cleric,heavyhands_marauderlegatust5_cleric,3,731
+heavyhands_marauderlegatust5_brigand,heavyhands_marauderlegatust5_brigand,3,731
+heavyhands_furlinedt5,heavyhands_furlinedt5,0,245
+heavyhands_crafteddungeon7t5,heavyhands_crafteddungeon7t5,0,248
+heavyhands_crafteddungeon6t5,heavyhands_crafteddungeon6t5,0,248
+heavyhands_crafteddungeon5t4,heavyhands_crafteddungeon5t4,0,86
+heavyhands_crafteddungeon4t4,heavyhands_crafteddungeon4t4,0,86
+heavyhands_crafteddungeon2t3,heavyhands_crafteddungeon2t3,0,32
+heavyhands_crafteddungeon1t3,heavyhands_crafteddungeon1t3,0,32
+heavyhands_covenantrank5_occultist,heavyhands_covenantrank5_occultist,3,488
+heavyhands_covenantrank5_cleric,heavyhands_covenantrank5_cleric,3,488
+heavyhands_covenantrank5_brigand,heavyhands_covenantrank5_brigand,3,488
+heavyhands_covenantrank4_occultist,heavyhands_covenantrank4_occultist,3,164
+heavyhands_covenantrank4_cleric,heavyhands_covenantrank4_cleric,3,164
+heavyhands_covenantrank4_brigand,heavyhands_covenantrank4_brigand,3,164
+heavyhands_covenantrank3_occultist,heavyhands_covenantrank3_occultist,2,56
+heavyhands_covenantrank3_cleric,heavyhands_covenantrank3_cleric,2,56
+heavyhands_covenantrank3_brigand,heavyhands_covenantrank3_brigand,2,56
+heavyhands_covenantrank2_occultist,heavyhands_covenantrank2_occultist,2,20
+heavyhands_covenantrank2_cleric,heavyhands_covenantrank2_cleric,2,20
+heavyhands_covenantrank2_brigand,heavyhands_covenantrank2_brigand,2,20
+heavyhands_covenantrank1_occultist,heavyhands_covenantrank1_occultist,1,5
+heavyhands_covenantrank1_cleric,heavyhands_covenantrank1_cleric,1,5
+heavyhands_covenantrank1_brigand,heavyhands_covenantrank1_brigand,1,5
+heavyhands_covenantinquisitort5_occultist,heavyhands_covenantinquisitort5_occultist,3,731
+heavyhands_covenantinquisitort5_brigand,heavyhands_covenantinquisitort5_brigand,3,731
+heavyhands_covenantinquisitort5_barbarian,heavyhands_covenantinquisitort5_barbarian,3,731
+heavyhands_battlesembracegauntletst5a,heavyhands_battlesembracegauntletst5a,3,12
+heavyfeet_voidbentt5,heavyfeet_voidbentt5,4,16912
+heavyfeet_syndicaterank5_occultist,heavyfeet_syndicaterank5_occultist,3,488
+heavyfeet_syndicaterank5_cleric,heavyfeet_syndicaterank5_cleric,3,488
+heavyfeet_syndicaterank5_brigand,heavyfeet_syndicaterank5_brigand,3,488
+heavyfeet_syndicaterank4_occultist,heavyfeet_syndicaterank4_occultist,3,164
+heavyfeet_syndicaterank4_cleric,heavyfeet_syndicaterank4_cleric,3,164
+heavyfeet_syndicaterank4_brigand,heavyfeet_syndicaterank4_brigand,3,164
+heavyfeet_syndicaterank3_occultist,heavyfeet_syndicaterank3_occultist,2,56
+heavyfeet_syndicaterank3_cleric,heavyfeet_syndicaterank3_cleric,2,56
+heavyfeet_syndicaterank3_brigand,heavyfeet_syndicaterank3_brigand,2,56
+heavyfeet_syndicaterank2_occultist,heavyfeet_syndicaterank2_occultist,2,20
+heavyfeet_syndicaterank2_cleric,heavyfeet_syndicaterank2_cleric,2,20
+heavyfeet_syndicaterank2_brigand,heavyfeet_syndicaterank2_brigand,2,20
+heavyfeet_syndicaterank1_occultist,heavyfeet_syndicaterank1_occultist,1,5
+heavyfeet_syndicaterank1_cleric,heavyfeet_syndicaterank1_cleric,1,5
+heavyfeet_syndicaterank1_brigand,heavyfeet_syndicaterank1_brigand,1,5
+heavyfeet_marauderrank5_occultist,heavyfeet_marauderrank5_occultist,3,488
+heavyfeet_marauderrank5_cleric,heavyfeet_marauderrank5_cleric,3,488
+heavyfeet_marauderrank5_brigand,heavyfeet_marauderrank5_brigand,3,488
+heavyfeet_marauderrank4_occultist,heavyfeet_marauderrank4_occultist,3,164
+heavyfeet_marauderrank4_cleric,heavyfeet_marauderrank4_cleric,3,164
+heavyfeet_marauderrank4_brigand,heavyfeet_marauderrank4_brigand,3,164
+heavyfeet_marauderrank3_occultist,heavyfeet_marauderrank3_occultist,2,56
+heavyfeet_marauderrank3_cleric,heavyfeet_marauderrank3_cleric,2,56
+heavyfeet_marauderrank3_brigand,heavyfeet_marauderrank3_brigand,2,56
+heavyfeet_marauderrank2_occultist,heavyfeet_marauderrank2_occultist,2,20
+heavyfeet_marauderrank2_cleric,heavyfeet_marauderrank2_cleric,2,20
+heavyfeet_marauderrank2_brigand,heavyfeet_marauderrank2_brigand,2,20
+heavyfeet_marauderrank1_occultist,heavyfeet_marauderrank1_occultist,1,5
+heavyfeet_marauderrank1_cleric,heavyfeet_marauderrank1_cleric,1,5
+heavyfeet_marauderrank1_brigand,heavyfeet_marauderrank1_brigand,1,5
+heavyfeet_marauderlegatust5_occultist,heavyfeet_marauderlegatust5_occultist,3,731
+heavyfeet_marauderlegatust5_cleric,heavyfeet_marauderlegatust5_cleric,3,731
+heavyfeet_marauderlegatust5_brigand,heavyfeet_marauderlegatust5_brigand,3,731
+heavyfeet_furlinedt5,heavyfeet_furlinedt5,0,245
+heavyfeet_crafteddungeon7t5,heavyfeet_crafteddungeon7t5,0,248
+heavyfeet_crafteddungeon6t5,heavyfeet_crafteddungeon6t5,0,248
+heavyfeet_crafteddungeon5t4,heavyfeet_crafteddungeon5t4,0,86
+heavyfeet_crafteddungeon4t4,heavyfeet_crafteddungeon4t4,0,86
+heavyfeet_crafteddungeon2t3,heavyfeet_crafteddungeon2t3,0,32
+heavyfeet_crafteddungeon1t3,heavyfeet_crafteddungeon1t3,0,32
+heavyfeet_covenantrank5_occultist,heavyfeet_covenantrank5_occultist,3,488
+heavyfeet_covenantrank5_cleric,heavyfeet_covenantrank5_cleric,3,488
+heavyfeet_covenantrank5_brigand,heavyfeet_covenantrank5_brigand,3,488
+heavyfeet_covenantrank4_occultist,heavyfeet_covenantrank4_occultist,3,164
+heavyfeet_covenantrank4_cleric,heavyfeet_covenantrank4_cleric,3,164
+heavyfeet_covenantrank4_brigand,heavyfeet_covenantrank4_brigand,3,164
+heavyfeet_covenantrank3_occultist,heavyfeet_covenantrank3_occultist,2,56
+heavyfeet_covenantrank3_cleric,heavyfeet_covenantrank3_cleric,2,56
+heavyfeet_covenantrank3_brigand,heavyfeet_covenantrank3_brigand,2,56
+heavyfeet_covenantrank2_occultist,heavyfeet_covenantrank2_occultist,2,20
+heavyfeet_covenantrank2_cleric,heavyfeet_covenantrank2_cleric,2,20
+heavyfeet_covenantrank2_brigand,heavyfeet_covenantrank2_brigand,2,20
+heavyfeet_covenantrank1_occultist,heavyfeet_covenantrank1_occultist,1,5
+heavyfeet_covenantrank1_cleric,heavyfeet_covenantrank1_cleric,1,5
+heavyfeet_covenantrank1_brigand,heavyfeet_covenantrank1_brigand,1,5
+heavyfeet_covenantinquisitort5_occultist,heavyfeet_covenantinquisitort5_occultist,3,731
+heavyfeet_covenantinquisitort5_brigand,heavyfeet_covenantinquisitort5_brigand,3,731
+heavyfeet_covenantinquisitort5_barbarian,heavyfeet_covenantinquisitort5_barbarian,3,731
+heavyfeet_battlesembracebootst4a,heavyfeet_battlesembracebootst4a,3,12
+heavychest_voidbentt5,heavychest_voidbentt5,4,16912
+heavychest_syndicaterank5_occultist,heavychest_syndicaterank5_occultist,3,488
+heavychest_syndicaterank5_cleric,heavychest_syndicaterank5_cleric,3,488
+heavychest_syndicaterank5_brigand,heavychest_syndicaterank5_brigand,3,488
+heavychest_syndicaterank4_occultist,heavychest_syndicaterank4_occultist,3,164
+heavychest_syndicaterank4_cleric,heavychest_syndicaterank4_cleric,3,164
+heavychest_syndicaterank4_brigand,heavychest_syndicaterank4_brigand,3,164
+heavychest_syndicaterank3_occultist,heavychest_syndicaterank3_occultist,2,56
+heavychest_syndicaterank3_cleric,heavychest_syndicaterank3_cleric,2,56
+heavychest_syndicaterank3_brigand,heavychest_syndicaterank3_brigand,2,56
+heavychest_syndicaterank2_occultist,heavychest_syndicaterank2_occultist,2,20
+heavychest_syndicaterank2_cleric,heavychest_syndicaterank2_cleric,2,20
+heavychest_syndicaterank2_brigand,heavychest_syndicaterank2_brigand,2,20
+heavychest_syndicaterank1_occultist,heavychest_syndicaterank1_occultist,1,5
+heavychest_syndicaterank1_cleric,heavychest_syndicaterank1_cleric,1,5
+heavychest_syndicaterank1_brigand,heavychest_syndicaterank1_brigand,1,5
+heavychest_marauderrank5_occultist,heavychest_marauderrank5_occultist,3,488
+heavychest_marauderrank5_cleric,heavychest_marauderrank5_cleric,3,488
+heavychest_marauderrank5_brigand,heavychest_marauderrank5_brigand,3,488
+heavychest_marauderrank4_occultist,heavychest_marauderrank4_occultist,3,164
+heavychest_marauderrank4_cleric,heavychest_marauderrank4_cleric,3,164
+heavychest_marauderrank4_brigand,heavychest_marauderrank4_brigand,3,164
+heavychest_marauderrank3_occultist,heavychest_marauderrank3_occultist,2,56
+heavychest_marauderrank3_cleric,heavychest_marauderrank3_cleric,2,56
+heavychest_marauderrank3_brigand,heavychest_marauderrank3_brigand,2,56
+heavychest_marauderrank2_occultist,heavychest_marauderrank2_occultist,2,20
+heavychest_marauderrank2_cleric,heavychest_marauderrank2_cleric,2,20
+heavychest_marauderrank2_brigand,heavychest_marauderrank2_brigand,2,20
+heavychest_marauderrank1_occultist,heavychest_marauderrank1_occultist,1,5
+heavychest_marauderrank1_cleric,heavychest_marauderrank1_cleric,1,5
+heavychest_marauderrank1_brigand,heavychest_marauderrank1_brigand,1,5
+heavychest_marauderlegatust5_occultist,heavychest_marauderlegatust5_occultist,3,731
+heavychest_marauderlegatust5_cleric,heavychest_marauderlegatust5_cleric,3,731
+heavychest_marauderlegatust5_brigand,heavychest_marauderlegatust5_brigand,3,731
+heavychest_furlinedt5,heavychest_furlinedt5,0,245
+heavychest_crafteddungeon7t5,heavychest_crafteddungeon7t5,0,248
+heavychest_crafteddungeon6t5,heavychest_crafteddungeon6t5,0,248
+heavychest_crafteddungeon5t4,heavychest_crafteddungeon5t4,0,86
+heavychest_crafteddungeon4t4,heavychest_crafteddungeon4t4,0,86
+heavychest_crafteddungeon2t3,heavychest_crafteddungeon2t3,0,32
+heavychest_crafteddungeon1t3,heavychest_crafteddungeon1t3,0,32
+heavychest_covenantrank5_occultist,heavychest_covenantrank5_occultist,3,488
+heavychest_covenantrank5_cleric,heavychest_covenantrank5_cleric,3,488
+heavychest_covenantrank5_brigand,heavychest_covenantrank5_brigand,3,488
+heavychest_covenantrank4_occultist,heavychest_covenantrank4_occultist,3,164
+heavychest_covenantrank4_cleric,heavychest_covenantrank4_cleric,3,164
+heavychest_covenantrank4_brigand,heavychest_covenantrank4_brigand,3,164
+heavychest_covenantrank3_occultist,heavychest_covenantrank3_occultist,2,56
+heavychest_covenantrank3_cleric,heavychest_covenantrank3_cleric,2,56
+heavychest_covenantrank3_brigand,heavychest_covenantrank3_brigand,2,56
+heavychest_covenantrank2_occultist,heavychest_covenantrank2_occultist,2,20
+heavychest_covenantrank2_cleric,heavychest_covenantrank2_cleric,2,20
+heavychest_covenantrank2_brigand,heavychest_covenantrank2_brigand,2,20
+heavychest_covenantrank1_occultist,heavychest_covenantrank1_occultist,1,5
+heavychest_covenantrank1_cleric,heavychest_covenantrank1_cleric,1,5
+heavychest_covenantrank1_brigand,heavychest_covenantrank1_brigand,1,5
+heavychest_covenantinquisitort5_occultist,heavychest_covenantinquisitort5_occultist,3,731
+heavychest_covenantinquisitort5_brigand,heavychest_covenantinquisitort5_brigand,3,731
+heavychest_covenantinquisitort5_barbarian,heavychest_covenantinquisitort5_barbarian,3,731
+heavychest_battlesembracebreastplatet4a,heavychest_battlesembracebreastplatet4a,3,12
+2hgreataxe_executionert4,2hgreataxe_executionert4,3,5
+gemstonedustt5,gemstonedustt5,0,1
+gemstonedustt4,gemstonedustt4,0,1
+gemstonedustt3,gemstonedustt3,0,1
+gemstonedustt2,gemstonedustt2,0,1
+foodweaponsmitht5,foodweaponsmitht5,0,22
+foodweaponsmitht4,foodweaponsmitht4,0,19
+foodweaponsmitht3,foodweaponsmitht3,0,16
+foodweaponsmitht2,foodweaponsmitht2,0,15
+foodweaponsmitht1,foodweaponsmitht1,0,9
+foodstrt5,foodstrt5,0,990
+foodstrt4,foodstrt4,0,22
+foodstrt3,foodstrt3,0,17
+foodstrt2,foodstrt2,0,15
+foodstrintt5,foodstrintt5,0,22
+foodstrintt4,foodstrintt4,0,27
+foodstrintt3,foodstrintt3,0,18
+foodstrintt2,foodstrintt2,0,12
+foodstrfoct5,foodstrfoct5,0,21
+foodstrfoct4,foodstrfoct4,0,19
+foodstrfoct3,foodstrfoct3,0,19
+foodstrfoct2,foodstrfoct2,0,12
+foodstrdext5,foodstrdext5,0,27
+foodstrdext4,foodstrdext4,0,18
+foodstrdext3,foodstrdext3,0,16
+foodstrdext2,foodstrdext2,0,12
+foodstrcont5,foodstrcont5,0,19
+foodstrcont4,foodstrcont4,0,24
+foodstrcont3,foodstrcont3,0,13
+foodstrcont2,foodstrcont2,0,15
+foodminert5,foodminert5,0,21
+foodminert4,foodminert4,0,15
+foodminert3,foodminert3,0,13
+foodminert2,foodminert2,0,12
+foodminert1,foodminert1,0,9
+foodlumberjackt5,foodlumberjackt5,0,19
+foodlumberjackt4,foodlumberjackt4,0,19
+foodlumberjackt3,foodlumberjackt3,0,13
+foodlumberjackt2,foodlumberjackt2,0,15
+foodlumberjackt1,foodlumberjackt1,0,12
+foodjewelcraftert5,foodjewelcraftert5,0,24
+foodjewelcraftert4,foodjewelcraftert4,0,18
+foodjewelcraftert3,foodjewelcraftert3,0,15
+foodjewelcraftert2,foodjewelcraftert2,0,12
+foodjewelcraftert1,foodjewelcraftert1,0,9
+foodintt5,foodintt5,0,990
+foodintt4,foodintt4,0,21
+foodintt3,foodintt3,0,15
+foodintt2,foodintt2,0,10
+foodintstrt5,foodintstrt5,0,31
+foodintstrt4,foodintstrt4,0,21
+foodintstrt3,foodintstrt3,0,15
+foodintstrt2,foodintstrt2,0,12
+foodintfoct5,foodintfoct5,0,24
+foodintfoct4,foodintfoct4,0,18
+foodintfoct3,foodintfoct3,0,19
+foodintfoct2,foodintfoct2,0,11
+foodintdext5,foodintdext5,0,24
+foodintdext4,foodintdext4,0,24
+foodintdext3,foodintdext3,0,15
+foodintdext2,foodintdext2,0,15
+foodintcont5,foodintcont5,0,27
+foodintcont4,foodintcont4,0,21
+foodintcont3,foodintcont3,0,16
+foodintcont2,foodintcont2,0,15
+foodhuntert5,foodhuntert5,0,19
+foodhuntert4,foodhuntert4,0,21
+foodhuntert3,foodhuntert3,0,16
+foodhuntert2,foodhuntert2,0,12
+foodhuntert1,foodhuntert1,0,9
+foodharvestert5,foodharvestert5,0,19
+foodharvestert4,foodharvestert4,0,16
+foodharvestert3,foodharvestert3,0,16
+foodharvestert2,foodharvestert2,0,10
+foodharvestert1,foodharvestert1,0,9
+foodfoct5,foodfoct5,0,988
+foodfoct4,foodfoct4,0,25
+foodfoct3,foodfoct3,0,15
+foodfoct2,foodfoct2,0,21
+foodfocstrt5,foodfocstrt5,0,49
+foodfocstrt4,foodfocstrt4,0,28
+foodfocstrt3,foodfocstrt3,0,13
+foodfocstrt2,foodfocstrt2,0,12
+foodfocintt5,foodfocintt5,0,24
+foodfocintt4,foodfocintt4,0,21
+foodfocintt3,foodfocintt3,0,15
+foodfocintt2,foodfocintt2,0,16
+foodfocdext5,foodfocdext5,0,21
+foodfocdext4,foodfocdext4,0,18
+foodfocdext3,foodfocdext3,0,14
+foodfocdext2,foodfocdext2,0,15
+foodfoccont5,foodfoccont5,0,22
+foodfoccont4,foodfoccont4,0,24
+foodfoccont3,foodfoccont3,0,18
+foodfoccont2,foodfoccont2,0,15
+foodengineert5,foodengineert5,0,22
+foodengineert4,foodengineert4,0,16
+foodengineert3,foodengineert3,0,15
+foodengineert2,foodengineert2,0,13
+foodengineert1,foodengineert1,0,12
+fooddext5,fooddext5,0,989
+fooddext4,fooddext4,0,42
+fooddext3,fooddext3,0,15
+fooddext2,fooddext2,0,16
+fooddexstrt5,fooddexstrt5,0,21
+fooddexstrt4,fooddexstrt4,0,19
+fooddexstrt3,fooddexstrt3,0,19
+fooddexstrt2,fooddexstrt2,0,16
+fooddexintt5,fooddexintt5,0,23
+fooddexintt4,fooddexintt4,0,21
+fooddexintt3,fooddexintt3,0,15
+fooddexintt2,fooddexintt2,0,12
+fooddexfoct5,fooddexfoct5,0,28
+fooddexfoct4,fooddexfoct4,0,42
+fooddexfoct3,fooddexfoct3,0,22
+fooddexfoct2,fooddexfoct2,0,16
+fooddexcont5,fooddexcont5,0,24
+fooddexcont4,fooddexcont4,0,21
+fooddexcont3,fooddexcont3,0,15
+fooddexcont2,fooddexcont2,0,12
+fooddefenset5,fooddefenset5,0,21
+fooddefenset4,fooddefenset4,0,18
+fooddefenset3,fooddefenset3,0,15
+fooddefenset2,fooddefenset2,0,12
+fooddefenset1,fooddefenset1,0,9
+foodcont5,foodcont5,0,24
+foodcont4,foodcont4,0,21
+foodcont3,foodcont3,0,15
+foodcont2,foodcont2,0,13
+foodconstrt5,foodconstrt5,0,17
+foodconstrt4,foodconstrt4,0,21
+foodconstrt3,foodconstrt3,0,18
+foodconstrt2,foodconstrt2,0,12
+foodconintt5,foodconintt5,0,24
+foodconintt4,foodconintt4,0,20
+foodconintt3,foodconintt3,0,13
+foodconintt2,foodconintt2,0,12
+foodconfoct5,foodconfoct5,0,22
+foodconfoct4,foodconfoct4,0,25
+foodconfoct3,foodconfoct3,0,18
+foodconfoct2,foodconfoct2,0,12
+foodcondext5,foodcondext5,0,991
+foodcondext4,foodcondext4,0,18
+foodcondext3,foodcondext3,0,19
+foodcondext2,foodcondext2,0,16
+foodarmorert5,foodarmorert5,0,21
+foodarmorert4,foodarmorert4,0,18
+foodarmorert3,foodarmorert3,0,15
+foodarmorert2,foodarmorert2,0,10
+foodarmorert1,foodarmorert1,0,9
+foodarcanistt5,foodarcanistt5,0,21
+foodarcanistt4,foodarcanistt4,0,18
+foodarcanistt3,foodarcanistt3,0,15
+foodarcanistt2,foodarcanistt2,0,12
+foodarcanistt1,foodarcanistt1,0,9
+focstrbonust4,focstrbonust4,1,921
+focintbonust4,focintbonust4,1,921
+focdexbonust4,focdexbonust4,1,921
+focconbonust4,focconbonust4,1,921
+focbonust4,focbonust4,1,921
+firstaidsuppliest5,firstaidsuppliest5,0,243
+firstaidsuppliest4,firstaidsuppliest4,0,81
+firstaidsuppliest3,firstaidsuppliest3,0,27
+firstaidsuppliest2,firstaidsuppliest2,0,9
+2hstafffire_falmeaswratht4,2hstafffire_falmeaswratht4,3,5
+faction_provisions10_t5,faction_provisions10_t5,0,19
+faction_provisions10_t4,faction_provisions10_t4,0,13
+faction_provisions10_t3,faction_provisions10_t3,0,8
+faction_provisions10_t2,faction_provisions10_t2,0,10
+faction_provisions09_t5,faction_provisions09_t5,0,19
+faction_provisions09_t4,faction_provisions09_t4,0,16
+faction_provisions09_t3,faction_provisions09_t3,0,16
+faction_provisions09_t2,faction_provisions09_t2,0,9
+faction_provisions08_t5,faction_provisions08_t5,0,14
+faction_provisions08_t4,faction_provisions08_t4,0,10
+faction_provisions08_t3,faction_provisions08_t3,0,10
+faction_provisions08_t2,faction_provisions08_t2,0,10
+faction_provisions07_t5,faction_provisions07_t5,0,11
+faction_provisions07_t4,faction_provisions07_t4,0,10
+faction_provisions07_t3,faction_provisions07_t3,0,13
+faction_provisions07_t2,faction_provisions07_t2,0,10
+faction_provisions06_t5,faction_provisions06_t5,0,13
+faction_provisions06_t4,faction_provisions06_t4,0,10
+faction_provisions06_t3,faction_provisions06_t3,0,10
+faction_provisions06_t2,faction_provisions06_t2,0,10
+faction_provisions05_t5,faction_provisions05_t5,0,13
+faction_provisions05_t4,faction_provisions05_t4,0,12
+faction_provisions05_t3,faction_provisions05_t3,0,10
+faction_provisions05_t2,faction_provisions05_t2,0,10
+faction_provisions04_t5,faction_provisions04_t5,0,13
+faction_provisions04_t4,faction_provisions04_t4,0,13
+faction_provisions04_t3,faction_provisions04_t3,0,10
+faction_provisions04_t2,faction_provisions04_t2,0,13
+faction_provisions03_t5,faction_provisions03_t5,0,12
+faction_provisions03_t4,faction_provisions03_t4,0,10
+faction_provisions03_t3,faction_provisions03_t3,0,10
+faction_provisions03_t2,faction_provisions03_t2,0,10
+faction_provisions03_t1,faction_provisions03_t1,0,7
+faction_provisions02_t5,faction_provisions02_t5,0,13
+faction_provisions02_t4,faction_provisions02_t4,0,10
+faction_provisions02_t3,faction_provisions02_t3,0,16
+faction_provisions02_t2,faction_provisions02_t2,0,10
+faction_provisions02_t1,faction_provisions02_t1,0,7
+faction_provisions01_t5,faction_provisions01_t5,0,13
+faction_provisions01_t4,faction_provisions01_t4,0,9
+faction_provisions01_t3,faction_provisions01_t3,0,10
+faction_provisions01_t2,faction_provisions01_t2,0,10
+faction_provisions01_t1,faction_provisions01_t1,0,7
+faction_armorset07_t5,faction_armorset07_t5,0,364
+faction_armorset07_t4,faction_armorset07_t4,0,115
+faction_armorset07_t3,faction_armorset07_t3,0,167
+faction_armorset07_t2,faction_armorset07_t2,0,10
+faction_armorset06_t5,faction_armorset06_t5,0,364
+faction_armorset06_t4,faction_armorset06_t4,0,115
+faction_armorset06_t3,faction_armorset06_t3,0,167
+faction_armorset06_t2,faction_armorset06_t2,0,10
+faction_armorset05_t5,faction_armorset05_t5,0,364
+faction_armorset05_t4,faction_armorset05_t4,0,115
+faction_armorset05_t3,faction_armorset05_t3,0,167
+faction_armorset05_t2,faction_armorset05_t2,0,10
+faction_armorset04_t5,faction_armorset04_t5,0,364
+faction_armorset04_t4,faction_armorset04_t4,0,115
+faction_armorset04_t3,faction_armorset04_t3,0,167
+faction_armorset04_t2,faction_armorset04_t2,0,10
+faction_armorset03_t5,faction_armorset03_t5,0,364
+faction_armorset03_t4,faction_armorset03_t4,0,115
+faction_armorset03_t3,faction_armorset03_t3,0,167
+faction_armorset03_t2,faction_armorset03_t2,0,10
+faction_armorset02_t5,faction_armorset02_t5,0,364
+faction_armorset02_t4,faction_armorset02_t4,0,115
+faction_armorset02_t3,faction_armorset02_t3,0,167
+faction_armorset02_t2,faction_armorset02_t2,0,10
+faction_armorset01_t5,faction_armorset01_t5,0,364
+faction_armorset01_t4,faction_armorset01_t4,0,115
+faction_armorset01_t3,faction_armorset01_t3,0,167
+faction_armorset01_t2,faction_armorset01_t2,0,10
+faction_armaments10_t5,faction_armaments10_t5,0,319
+faction_armaments10_t4,faction_armaments10_t4,0,319
+faction_armaments10_t3,faction_armaments10_t3,0,177
+faction_armaments10_t2,faction_armaments10_t2,0,10
+faction_armaments09_t5,faction_armaments09_t5,0,319
+faction_armaments09_t4,faction_armaments09_t4,0,70
+faction_armaments09_t3,faction_armaments09_t3,0,177
+faction_armaments09_t2,faction_armaments09_t2,0,10
+faction_armaments08_t5,faction_armaments08_t5,0,319
+faction_armaments08_t4,faction_armaments08_t4,0,70
+faction_armaments08_t3,faction_armaments08_t3,0,177
+faction_armaments08_t2,faction_armaments08_t2,0,10
+faction_armaments07_t5,faction_armaments07_t5,0,319
+faction_armaments07_t4,faction_armaments07_t4,0,70
+faction_armaments07_t3,faction_armaments07_t3,0,177
+faction_armaments07_t2,faction_armaments07_t2,0,10
+faction_armaments06_t5,faction_armaments06_t5,0,319
+faction_armaments06_t4,faction_armaments06_t4,0,70
+faction_armaments06_t3,faction_armaments06_t3,0,177
+faction_armaments06_t2,faction_armaments06_t2,0,10
+faction_armaments05_t5,faction_armaments05_t5,0,319
+faction_armaments05_t4,faction_armaments05_t4,0,70
+faction_armaments05_t3,faction_armaments05_t3,0,177
+faction_armaments05_t2,faction_armaments05_t2,0,10
+faction_armaments04_t5,faction_armaments04_t5,0,319
+faction_armaments04_t4,faction_armaments04_t4,0,70
+faction_armaments04_t3,faction_armaments04_t3,0,177
+faction_armaments04_t2,faction_armaments04_t2,0,10
+faction_armaments03_t5,faction_armaments03_t5,0,319
+faction_armaments03_t4,faction_armaments03_t4,0,70
+faction_armaments03_t3,faction_armaments03_t3,0,177
+faction_armaments03_t2,faction_armaments03_t2,0,10
+faction_armaments02_t5,faction_armaments02_t5,0,319
+faction_armaments02_t4,faction_armaments02_t4,0,70
+faction_armaments02_t3,faction_armaments02_t3,0,177
+faction_armaments02_t2,faction_armaments02_t2,0,10
+faction_armaments01_t5,faction_armaments01_t5,0,319
+faction_armaments01_t4,faction_armaments01_t4,0,70
+faction_armaments01_t3,faction_armaments01_t3,0,177
+faction_armaments01_t2,faction_armaments01_t2,0,10
+dyeb172,dyeb172,0,5
+dyeb171,dyeb171,0,5
+dyeb170,dyeb170,0,5
+dyeb169,dyeb169,0,5
+dyeb168,dyeb168,0,5
+dyeb166,dyeb166,0,5
+dyeb165,dyeb165,0,5
+dyeb164,dyeb164,0,5
+dyeb163,dyeb163,0,5
+dyeb162,dyeb162,0,5
+dyeb161,dyeb161,0,5
+dyeb160,dyeb160,0,5
+dyeb159,dyeb159,0,5
+dyeb158,dyeb158,0,5
+dyeb157,dyeb157,0,5
+dyeb156,dyeb156,0,5
+dyeb155,dyeb155,0,5
+dyeb154,dyeb154,0,5
+dyeb153,dyeb153,0,5
+dyeb152,dyeb152,0,5
+dyeb151,dyeb151,0,5
+dyeb150,dyeb150,0,5
+dyeb149,dyeb149,0,5
+dyeb148,dyeb148,0,5
+dyeb147,dyeb147,0,5
+dyeb145,dyeb145,0,5
+dyeb144,dyeb144,0,5
+dyeb143,dyeb143,0,5
+dyeb142,dyeb142,0,5
+dyeb141,dyeb141,0,5
+dyeb140,dyeb140,0,5
+dyeb138,dyeb138,0,5
+dyeb137,dyeb137,0,5
+dyeb136,dyeb136,0,5
+dyeb135,dyeb135,0,5
+dyeb134,dyeb134,0,5
+dyeb133,dyeb133,0,5
+dyeb132,dyeb132,0,5
+dyeb131,dyeb131,0,5
+dyeb130,dyeb130,0,5
+dyeb129,dyeb129,0,5
+dyeb128,dyeb128,0,5
+dyeb127,dyeb127,0,5
+dyeb126,dyeb126,0,5
+dyeb125,dyeb125,0,5
+dyeb124,dyeb124,0,5
+dyeb123,dyeb123,0,5
+dyeb122,dyeb122,0,5
+dyeb121,dyeb121,0,5
+dyeb120,dyeb120,0,5
+dyeb119,dyeb119,0,5
+dyeb118,dyeb118,0,5
+dyeb117,dyeb117,0,5
+dyeb116,dyeb116,0,5
+dyeb115,dyeb115,0,5
+dyeb114,dyeb114,0,5
+dyeb113,dyeb113,0,5
+dyeb112,dyeb112,0,5
+dyeb111,dyeb111,0,5
+dyeb110,dyeb110,0,5
+dyeb109,dyeb109,0,5
+dyeb108,dyeb108,0,5
+dyeb107,dyeb107,0,5
+dyeb106,dyeb106,0,5
+dyeb105,dyeb105,0,5
+dyeb104,dyeb104,0,5
+dyeb103,dyeb103,0,5
+dyeb102,dyeb102,0,5
+dyeb101,dyeb101,0,5
+dyeb100,dyeb100,0,5
+dispellingkitt5,dispellingkitt5,0,243
+dispellingkitt4,dispellingkitt4,0,81
+dispellingkitt3,dispellingkitt3,0,27
+dispellingkitt2,dispellingkitt2,0,9
+dexstrbonust4,dexstrbonust4,1,921
+dexintbonust4,dexintbonust4,1,921
+dexfocbonust4,dexfocbonust4,1,921
+dexconbonust4,dexconbonust4,1,921
+dexbonust4,dexbonust4,1,921
+constrbonust4,constrbonust4,1,921
+conintbonust4,conintbonust4,1,921
+confocbonust4,confocbonust4,1,921
+condexbonust4,condexbonust4,1,921
+conbonust4,conbonust4,1,921
+compasst5,compasst5,0,243
+compasst4,compasst4,0,81
+compasst3,compasst3,0,27
+compasst2,compasst2,0,9
+brewkegt5,brewkegt5,0,243
+brewkegt4,brewkegt4,0,81
+brewkegt3,brewkegt3,0,27
+brewkegt2,brewkegt2,0,9
+2hbow_thehuntresst4,2hbow_thehuntresst4,3,5
+bellowst5,bellowst5,0,243
+bellowst4,bellowst4,0,81
+bellowst3,bellowst3,0,27
+bellowst2,bellowst2,0,9
+baitsaltfisht1,baitsaltfisht1,0,2
+baitfreshmeatt1,baitfreshmeatt1,0,2
+arrowt5,arrowt5,0,675
+arrowt4,arrowt4,0,184
+arrowt3,arrowt3,0,17
+arrowt2,arrowt2,0,125
+arrowt1,arrowt1,0,9
+armamentst5,armamentst5,0,243
+armamentst4,armamentst4,0,81
+armamentst3,armamentst3,0,27
+armamentst2,armamentst2,0,9
+arcanereactort5,arcanereactort5,0,243
+arcanereactort4,arcanereactort4,0,81
+arcanereactort3,arcanereactort3,0,27
+arcanereactort2,arcanereactort2,0,9
+appetizert5,appetizert5,0,243
+appetizert4,appetizert4,0,81
+appetizert3,appetizert3,0,27
+appetizert2,appetizert2,0,9
+9907_0053_plantfood_msq,9907_0053_plantfood_msq,0,76
+2hwarhammercrafteddungeon7t5,2hwarhammercrafteddungeon7t5,0,251
+2hwarhammercrafteddungeon6t5,2hwarhammercrafteddungeon6t5,0,251
+2hwarhammercrafteddungeon5t4,2hwarhammercrafteddungeon5t4,0,89
+2hwarhammercrafteddungeon4t4,2hwarhammercrafteddungeon4t4,0,89
+2hwarhammercrafteddungeon2t3,2hwarhammercrafteddungeon2t3,0,35
+2hwarhammercrafteddungeon1t3,2hwarhammercrafteddungeon1t3,0,35
+2hwarhammer_yulkithirt5,2hwarhammer_yulkithirt5,4,17514
+2hwarhammer_stonerendt5,2hwarhammer_stonerendt5,4,17502
+2hwarhammer_shatteredhopet4,2hwarhammer_shatteredhopet4,3,374
+2hwarhammer_serendipityt4,2hwarhammer_serendipityt4,3,374
+2hwarhammer_sacreddemiset5,2hwarhammer_sacreddemiset5,3,17502
+2hwarhammer_hammerofforgottendreamst4,2hwarhammer_hammerofforgottendreamst4,1,374
+2hwarhammer_graithsmault5,2hwarhammer_graithsmault5,3,17502
+2hwarhammer_earthensmashert2,2hwarhammer_earthensmashert2,1,243
+2hwarhammer_defenderofdarknesst3,2hwarhammer_defenderofdarknesst3,2,85
+2hwarhammer_crystallinecrushert3,2hwarhammer_crystallinecrushert3,1,85
+2htowershieldcrafteddungeon7t5,2htowershieldcrafteddungeon7t5,0,251
+2htowershieldcrafteddungeon6t5,2htowershieldcrafteddungeon6t5,0,251
+2htowershieldcrafteddungeon5t4,2htowershieldcrafteddungeon5t4,0,89
+2htowershieldcrafteddungeon4t4,2htowershieldcrafteddungeon4t4,0,89
+2hstafflifecrafteddungeon7t5,2hstafflifecrafteddungeon7t5,0,251
+2hstafflifecrafteddungeon6t5,2hstafflifecrafteddungeon6t5,0,251
+2hstafflifecrafteddungeon5t4,2hstafflifecrafteddungeon5t4,0,89
+2hstafflifecrafteddungeon4t4,2hstafflifecrafteddungeon4t4,0,89
+2hstafflifecrafteddungeon2t3,2hstafflifecrafteddungeon2t3,0,35
+2hstafflifecrafteddungeon1t3,2hstafflifecrafteddungeon1t3,0,35
+2hstafflife_windsingert5,2hstafflife_windsingert5,4,6804
+2hstafflife_shamaninitiatesstafft2,2hstafflife_shamaninitiatesstafft2,1,192
+2hstafflife_graspinglightt4,2hstafflife_graspinglightt4,3,243
+2hstafflife_gortanstaintedstafft5,2hstafflife_gortanstaintedstafft5,2,11367
+2hstafflife_gaiaswhimt3,2hstafflife_gaiaswhimt3,2,33
+2hstafflife_echoofgracet5,2hstafflife_echoofgracet5,2,6804
+2hstafflife_devoutworryt4,2hstafflife_devoutworryt4,3,243
+2hstafflife_corruptedlifestafft3,2hstafflife_corruptedlifestafft3,2,36
+2hstafflife_blessedwildwoodlifestafft5,2hstafflife_blessedwildwoodlifestafft5,3,6804
+2hstafflife_balanceoflifet4,2hstafflife_balanceoflifet4,3,243
+2hstafffirecrafteddungeon7t5,2hstafffirecrafteddungeon7t5,0,251
+2hstafffirecrafteddungeon6t5,2hstafffirecrafteddungeon6t5,0,251
+2hstafffirecrafteddungeon5t4,2hstafffirecrafteddungeon5t4,0,89
+2hstafffirecrafteddungeon4t4,2hstafffirecrafteddungeon4t4,0,89
+2hstafffirecrafteddungeon2t3,2hstafffirecrafteddungeon2t3,0,35
+2hstafffirecrafteddungeon1t3,2hstafffirecrafteddungeon1t3,0,35
+2hstafffire_waningcrescent_t5,2hstafffire_waningcrescent_t5,3,11931
+2hstafffire_sparklightt2,2hstafffire_sparklightt2,1,192
+2hstafffire_raget5,2hstafffire_raget5,4,11931
+2hstafffire_purestintentionst3,2hstafffire_purestintentionst3,2,33
+2hstafffire_meteortrailt5,2hstafffire_meteortrailt5,4,11367
+2hstafffire_magmacorestafft4,2hstafffire_magmacorestafft4,3,243
+2hstafffire_insatiablewantt4,2hstafffire_insatiablewantt4,3,243
+2hstafffire_eruptiont4,2hstafffire_eruptiont4,2,243
+2hstafffire_enchantedflamestafft5,2hstafffire_enchantedflamestafft5,3,11931
+2hstafffire_breachhuntersfirestafft3,2hstafffire_breachhuntersfirestafft3,2,36
+2hspearcrafteddungeon7t5,2hspearcrafteddungeon7t5,0,251
+2hspearcrafteddungeon6t5,2hspearcrafteddungeon6t5,0,251
+2hspearcrafteddungeon5t4,2hspearcrafteddungeon5t4,0,89
+2hspearcrafteddungeon4t4,2hspearcrafteddungeon4t4,0,89
+2hspearcrafteddungeon2t3,2hspearcrafteddungeon2t3,0,35
+2hspearcrafteddungeon1t3,2hspearcrafteddungeon1t3,0,35
+2hspear_violentdissentt4,2hspear_violentdissentt4,4,374
+2hspear_spreadofmalicet3,2hspear_spreadofmalicet3,2,85
+2hspear_soulforgedspeart5,2hspear_soulforgedspeart5,4,17514
+2hspear_lastlightt3,2hspear_lastlightt3,2,85
+2hspear_irreverentedget4,2hspear_irreverentedget4,3,374
+2hspear_hiddentruthst5,2hspear_hiddentruthst5,3,17502
+2hspear_flawlessgrandmastersspeart5,2hspear_flawlessgrandmastersspeart5,4,17502
+2hspear_faedragonsclawt5,2hspear_faedragonsclawt5,3,17502
+2hspear_dryadwalkingstickt2,2hspear_dryadwalkingstickt2,1,243
+2hspear_bloodrightt4,2hspear_bloodrightt4,3,374
+2hroundshieldcrafteddungeon7t5,2hroundshieldcrafteddungeon7t5,0,251
+2hroundshieldcrafteddungeon6t5,2hroundshieldcrafteddungeon6t5,0,251
+2hroundshieldcrafteddungeon5t4,2hroundshieldcrafteddungeon5t4,0,89
+2hroundshieldcrafteddungeon4t4,2hroundshieldcrafteddungeon4t4,0,89
+2hroundshieldcrafteddungeon2t3,2hroundshieldcrafteddungeon2t3,0,35
+2hroundshieldcrafteddungeon1t3,2hroundshieldcrafteddungeon1t3,0,35
+2hmusketcrafteddungeon7t5,2hmusketcrafteddungeon7t5,0,251
+2hmusketcrafteddungeon6t5,2hmusketcrafteddungeon6t5,0,251
+2hmusketcrafteddungeon5t4,2hmusketcrafteddungeon5t4,0,89
+2hmusketcrafteddungeon4t4,2hmusketcrafteddungeon4t4,0,89
+2hmusketcrafteddungeon2t3,2hmusketcrafteddungeon2t3,0,35
+2hmusketcrafteddungeon1t3,2hmusketcrafteddungeon1t3,0,35
+2hmusket_rifleofsinisterdeedst4,2hmusket_rifleofsinisterdeedst4,3,374
+2hmusket_musketofunseenpowert5,2hmusket_musketofunseenpowert5,4,17514
+2hmusket_musketofthecorruptedguardiant3,2hmusket_musketofthecorruptedguardiant3,2,85
+2hmusket_manashotmuskett4,2hmusket_manashotmuskett4,2,374
+2hmusket_malefactiont4,2hmusket_malefactiont4,3,374
+2hmusket_inquisitiont5,2hmusket_inquisitiont5,3,17502
+2hmusket_hunterslongshott2,2hmusket_hunterslongshott2,1,243
+2hmusket_fearofpeacet5,2hmusket_fearofpeacet5,3,17502
+2hmusket_faeforgedmuskett5,2hmusket_faeforgedmuskett5,3,17502
+2hmusket_calamityt3,2hmusket_calamityt3,2,85
+2hkiteshieldcrafteddungeon7t5,2hkiteshieldcrafteddungeon7t5,0,251
+2hkiteshieldcrafteddungeon6t5,2hkiteshieldcrafteddungeon6t5,0,251
+2hkiteshieldcrafteddungeon5t4,2hkiteshieldcrafteddungeon5t4,0,89
+2hkiteshieldcrafteddungeon4t4,2hkiteshieldcrafteddungeon4t4,0,89
+2hkiteshieldcrafteddungeon2t3,2hkiteshieldcrafteddungeon2t3,0,35
+2hkiteshieldcrafteddungeon1t3,2hkiteshieldcrafteddungeon1t3,0,35
+2hgreataxecrafteddungeon7t5,2hgreataxecrafteddungeon7t5,0,251
+2hgreataxecrafteddungeon6t5,2hgreataxecrafteddungeon6t5,0,251
+2hgreataxecrafteddungeon5t4,2hgreataxecrafteddungeon5t4,0,89
+2hgreataxecrafteddungeon4t4,2hgreataxecrafteddungeon4t4,0,89
+2hgreataxecrafteddungeon2t3,2hgreataxecrafteddungeon2t3,0,35
+2hgreataxecrafteddungeon1t3,2hgreataxecrafteddungeon1t3,0,35
+2hgreataxe_warriorsbreatht5,2hgreataxe_warriorsbreatht5,3,17502
+2hgreataxe_tippingpointt3,2hgreataxe_tippingpointt3,2,85
+2hgreataxe_timerippinggreataxet4,2hgreataxe_timerippinggreataxet4,3,374
+2hgreataxe_pestilencet5,2hgreataxe_pestilencet5,3,17502
+2hgreataxe_hulkingberserkersbattleaxet4,2hgreataxe_hulkingberserkersbattleaxet4,3,374
+2hgreataxe_headsmant4,2hgreataxe_headsmant4,3,374
+2hgreataxe_greataxeofthecollosalbreacht3,2hgreataxe_greataxeofthecollosalbreacht3,2,85
+2hgreataxe_eternalduskt5,2hgreataxe_eternalduskt5,3,17502
+2hgreataxe_earthbatteredaxet2,2hgreataxe_earthbatteredaxet2,1,243
+2hgreataxe_darkskyt5,2hgreataxe_darkskyt5,4,17514
+2hfishingpolet1,2hfishingpolet1,0,6
+2hbowcrafteddungeon7t5,2hbowcrafteddungeon7t5,0,251
+2hbowcrafteddungeon6t5,2hbowcrafteddungeon6t5,0,251
+2hbowcrafteddungeon5t4,2hbowcrafteddungeon5t4,0,89
+2hbowcrafteddungeon4t4,2hbowcrafteddungeon4t4,0,89
+2hbowcrafteddungeon2t3,2hbowcrafteddungeon2t3,0,35
+2hbowcrafteddungeon1t3,2hbowcrafteddungeon1t3,0,35
+2hbow_watchfuleyet4,2hbow_watchfuleyet4,3,422
+2hbow_warpwoodt5,2hbow_warpwoodt5,4,17640
+2hbow_venerablerecurvet2,2hbow_venerablerecurvet2,1,239
+2hbow_veilpiercert5,2hbow_veilpiercert5,3,17628
+2hbow_threadoffatet3,2hbow_threadoffatet3,2,136
+2hbow_thelookoutt5,2hbow_thelookoutt5,3,17628
+2hbow_sirenscallt4,2hbow_sirenscallt4,3,422
+2hbow_longsightt5,2hbow_longsightt5,3,17628
+2hbow_longbowofthearcaneeyet4,2hbow_longbowofthearcaneeyet4,2,422
+2hbow_bowofthedarkrangert3,2hbow_bowofthedarkrangert3,2,136
+1hthrowingaxecrafteddungeon7t5,1hthrowingaxecrafteddungeon7t5,0,251
+1hthrowingaxecrafteddungeon6t5,1hthrowingaxecrafteddungeon6t5,0,251
+1hthrowingaxecrafteddungeon5t4,1hthrowingaxecrafteddungeon5t4,0,89
+1hthrowingaxecrafteddungeon4t4,1hthrowingaxecrafteddungeon4t4,0,89
+1hthrowingaxecrafteddungeon2t3,1hthrowingaxecrafteddungeon2t3,0,35
+1hthrowingaxecrafteddungeon1t3,1hthrowingaxecrafteddungeon1t3,0,35
+1hthrowingaxe_saplingsfuryt2,1hthrowingaxe_saplingsfuryt2,1,243
+1hthrowingaxe_sandscribet4,1hthrowingaxe_sandscribet4,2,377
+1hthrowingaxe_pixiespunishert5,1hthrowingaxe_pixiespunishert5,3,17490
+1hthrowingaxe_makersmarkt5,1hthrowingaxe_makersmarkt5,3,17502
+1hthrowingaxe_crowsnestt3,1hthrowingaxe_crowsnestt3,2,85
+1hthrowingaxe_corruptedremnantt3,1hthrowingaxe_corruptedremnantt3,2,85
+1hthrowingaxe_contingencyplant4,1hthrowingaxe_contingencyplant4,3,374
+1hthrowingaxe_bestwishest5,1hthrowingaxe_bestwishest5,3,17502
+1hthrowingaxe_axeoftheabysst5,1hthrowingaxe_axeoftheabysst5,4,17502
+1hthrowingaxe_archmagesassistantt4,1hthrowingaxe_archmagesassistantt4,2,374
+1hswordt1,1hswordt1,0,6
+1hskinningknifet1,1hskinningknifet1,0,6
+1hsicklet1,1hsicklet1,0,6
+1hroundshield_heroesshieldt5,1hroundshield_heroesshieldt5,4,16577
+1hrapiercrafteddungeon7t5,1hrapiercrafteddungeon7t5,0,251
+1hrapiercrafteddungeon6t5,1hrapiercrafteddungeon6t5,0,251
+1hrapiercrafteddungeon5t4,1hrapiercrafteddungeon5t4,0,89
+1hrapiercrafteddungeon4t4,1hrapiercrafteddungeon4t4,0,89
+1hrapiercrafteddungeon2t3,1hrapiercrafteddungeon2t3,0,35
+1hrapiercrafteddungeon1t3,1hrapiercrafteddungeon1t3,0,35
+1hrapier_voidbringersrapiert5,1hrapier_voidbringersrapiert5,4,17514
+1hrapier_twigoftheazothtreet2,1hrapier_twigoftheazothtreet2,1,243
+1hrapier_tearstealrapiert4,1hrapier_tearstealrapiert4,3,374
+1hrapier_tacticiansrapiert4,1hrapier_tacticiansrapiert4,3,374
+1hrapier_renaissancet5,1hrapier_renaissancet5,3,17502
+1hrapier_needlert5,1hrapier_needlert5,3,17502
+1hrapier_honorboundrapiert5,1hrapier_honorboundrapiert5,3,17502
+1hrapier_deceitofthedefilert3,1hrapier_deceitofthedefilert3,2,85
+1hrapier_balancedbladet3,1hrapier_balancedbladet3,2,85
+1hrapier_archmagessteelwandt4,1hrapier_archmagessteelwandt4,2,374
+1hpickt1,1hpickt1,0,6
+1hlongswordcrafteddungeon7t5,1hlongswordcrafteddungeon7t5,0,251
+1hlongswordcrafteddungeon6t5,1hlongswordcrafteddungeon6t5,0,257
+1hlongswordcrafteddungeon5t4,1hlongswordcrafteddungeon5t4,0,89
+1hlongswordcrafteddungeon4t4,1hlongswordcrafteddungeon4t4,0,89
+1hlongswordcrafteddungeon2t3,1hlongswordcrafteddungeon2t3,0,35
+1hlongswordcrafteddungeon1t3,1hlongswordcrafteddungeon1t3,0,35
+1hlongsword_whisperofthewoodt5,1hlongsword_whisperofthewoodt5,4,17514
+1hlongsword_voidforgedharbingert5,1hlongsword_voidforgedharbingert5,3,17502
+1hlongsword_tidalreavert3,1hlongsword_tidalreavert3,2,85
+1hlongsword_thefirstofmanyt3,1hlongsword_thefirstofmanyt3,2,85
+1hlongsword_shatterslasht4,1hlongsword_shatterslasht4,4,374
+1hlongsword_saplingbrandt2,1hlongsword_saplingbrandt2,1,243
+1hlongsword_opusbladet5,1hlongsword_opusbladet5,3,17502
+1hlongsword_masterstroket5,1hlongsword_masterstroket5,3,17502
+1hlongsword_dowsingbladet4,1hlongsword_dowsingbladet4,3,374
+1hlongsword_balanceoftimet3,1hlongsword_balanceoftimet3,2,374
+1hkiteshield_heroicshieldt5,1hkiteshield_heroicshieldt5,4,16577
+1hhatchett1,1hhatchett1,0,6
+1hgauntleticecrafteddungeon7t5,1hgauntleticecrafteddungeon7t5,0,251
+1hgauntleticecrafteddungeon6t5,1hgauntleticecrafteddungeon6t5,0,251
+1hgauntleticecrafteddungeon5t4,1hgauntleticecrafteddungeon5t4,0,89
+1hgauntleticecrafteddungeon4t4,1hgauntleticecrafteddungeon4t4,0,89
+1hgauntleticecrafteddungeon2t3,1hgauntleticecrafteddungeon2t3,0,35
+1hgauntleticecrafteddungeon1t3,1hgauntleticecrafteddungeon1t3,0,35
+1hgauntletice_whisperfromthefrozenvalet3,1hgauntletice_whisperfromthefrozenvalet3,2,78
+1hgauntletice_thundersnowt4,1hgauntletice_thundersnowt4,4,288
+1hgauntletice_subduerswratht4,1hgauntletice_subduerswratht4,4,288
+1hgauntletice_mastercryomancersgauntlett5,1hgauntletice_mastercryomancersgauntlett5,4,12066
+1hgauntletice_glacialraget5,1hgauntletice_glacialraget5,4,12066
+1hgauntletice_frostfairysgiftt5,1hgauntletice_frostfairysgiftt5,4,12066
+1hgauntletice_crystallinecurset5,1hgauntletice_crystallinecurset5,4,11502
+1hgauntletice_brineofthefrostyshoret4,1hgauntletice_brineofthefrostyshoret4,4,288
+1hgauntletice_arcticduskt3,1hgauntletice_arcticduskt3,2,81
+1hgauntletice_adeptcryomancersgauntlett2,1hgauntletice_adeptcryomancersgauntlett2,2,182
+1334_0201_perfume,1334_0201_perfume,0,4

@@ -87,4 +87,4 @@ ROBOTSTXT_OBEY = True
 #HTTPCACHE_IGNORE_HTTP_CODES = []
 #HTTPCACHE_STORAGE = 'scrapy.extensions.httpcache.FilesystemCacheStorage'
 FEED_FORMAT="csv"
-FEED_URI="cooking_test.csv"
+FEED_URI="../data/recipes.csv"

@@ -55,8 +55,8 @@ class RecipeSpider(scrapy.Spider):
                 recipe_json = scrapy.Request(response.urljoin(rec), callback=self.parse_recipe)
                 yield recipe_json
                 # only will go once, return then babe
-                if i >= 1:
-                    return
+                # if i >= 1:
+                #     return
 
     def parse_recipe(self, response):
     # returns the json object of a single recipe on the page

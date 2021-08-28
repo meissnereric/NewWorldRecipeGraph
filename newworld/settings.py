@@ -14,7 +14,7 @@ NEWSPIDER_MODULE = 'newworld.spiders'
 
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
-#USER_AGENT = 'newworld (+http://www.yourdomain.com)'
+USER_AGENT = 'bravenw (+http://www.bravenw.info)'
 
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = True
